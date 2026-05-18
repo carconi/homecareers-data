@@ -1,0 +1,33 @@
+{
+  "category": "Veterans Claims Examining",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "e7967ec0cf79210c",
+      "source": "usajobs",
+      "external_id": "397-DROC-12958650-26-NNG-BU",
+      "title": "Veterans Service Representative (VSR)",
+      "company": "Veterans Benefits Administration",
+      "description": "Specific duties include: The Veterans Service Representative (VSR) explains benefit programs and entitlement criteria, analyzes claims material, identifies issues, gathers relevant evidence, conducts interviews to adjudicate claims and inputs data necessary to generate the award and notification letter to the Veteran describing the decision. Specifically, the VSR will: Make determinations as to the eligibility for the type of benefit sought to include questions relating to adequacy of military service, medical evidence, and the evaluation of evidence of income, employability, dependence, and relationship. Request examinations, re-examination, or opinions to evaluate disabilities resulting from diseases or injuries. Review claims cases to assure all issues have been addressed, applies, and interprets VA laws, including Veterans' case law, existing statutes and procedures, precedent rulings, and state law in the adjudication process. May conduct interviews in person or by phone with veterans, representatives, and advocates to explain the full range of VA benefits and related programs. Prepare and release correspondence for use by other federal, state, and local agencies. Utilize various electronic data processing (DEPP) systems to input data for processing claims and generating automated correspondence. Work Schedule: Full time, Monday through Friday, 8:00AM - 4:30PM Compressed/Flexible: Available Telework: This position is remote Virtual: This is not a virtual position. Position Description/PD#: Veterans Service Representative (VSR); 40273A Financial Disclosure Report: Not Required",
+      "category": "Veterans Claims Examining",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 58064.0,
+      "salary_max": 75479.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/869488900",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-15T08:28:51.1130",
+      "ingested_at": "2026-05-18T04:32:04.118136+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.416639+00:00",
+      "expired": 0,
+      "description_preview": "Specific duties include: The Veterans Service Representative (VSR) explains benefit programs and entitlement criteria, analyzes claims material, identifies issues, gathers relevant evidence, conducts interviews to adjudicate claims and inputs data necessary to generate the award and notification let..."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "category": "Information Technology Management",
+  "total": 3,
+  "jobs": [
+    {
+      "id": "cdcd42ec46e347e5",
+      "source": "usajobs",
+      "external_id": "CMS-OIT-26-12957827-IMP",
+      "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
+      "company": "Centers for Medicare & Medicaid Services",
+      "description": "Provide executive-level strategic leadership and vision for AI/ML platform engineering across the enterprise, establishing long-term technology roadmaps and architectural standards that align with national AI initiatives.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 107466.0,
+      "salary_max": 139684.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/869314400",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-14T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.118049+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.416502+00:00",
+      "expired": 0,
+      "description_preview": "Provide executive-level strategic leadership and vision for AI/ML platform engineering across the enterprise, establishing long-term technology roadmaps and architectural standards that align with national AI initiatives."
+    },
+    {
+      "id": "ed83f9aeb8c83f72",
+      "source": "usajobs",
+      "external_id": "260001MP-12920839-JG",
+      "title": "COBOL Developer",
+      "company": "Railroad Retirement Board",
+      "description": "As a COBOL Developer, you will: Lead a team in carrying out advanced application development projects for PC and mainframe systems. Create a project plan based on general instructions from the section supervisor. Oversee all technical aspects of the projects, including the design and scope of individual programs, system testing, and implementation. Coordinate team activities and prepare a project schedule. This includes assigning tasks, setting deadlines, and defining deliverables. You will track assignments and adjust tasks as needed to meet the schedule. Work with the section supervisor as a spokesperson for the project, handling communications with the Bureau of Information Services (BIS) and user personnel. Stay updated on the latest data processing design techniques and tools. This includes learning about data design, online system design, database design, batch processing, development methods, standards, documentation techniques, and support software.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "incumbent may be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs.",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 90925.0,
+      "salary_max": 118204.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/867462000",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-04-30T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.117656+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.415813+00:00",
+      "expired": 0,
+      "description_preview": "As a COBOL Developer, you will: Lead a team in carrying out advanced application development projects for PC and mainframe systems. Create a project plan based on general instructions from the section supervisor. Oversee all technical aspects of the projects, including the design and scope of indivi..."
+    },
+    {
+      "id": "f3c0c42a864a12b2",
+      "source": "usajobs",
+      "external_id": "260001DE-12920827-JG",
+      "title": "COBOL Developer",
+      "company": "Railroad Retirement Board",
+      "description": "As a COBOL Developer, you will: Lead a team in carrying out advanced application development projects for PC and mainframe systems. Create a project plan based on general instructions from the section supervisor. Oversee all technical aspects of the projects, including the design and scope of individual programs, system testing, and implementation. Coordinate team activities and prepare a project schedule. This includes assigning tasks, setting deadlines, and defining deliverables. You will track assignments and adjust tasks as needed to meet the schedule. Work with the section supervisor as a spokesperson for the project, handling communications with the Bureau of Information Services (BIS) and user personnel. Stay updated on the latest data processing design techniques and tools. This includes learning about data design, online system design, database design, batch processing, development methods, standards, documentation techniques, and support software.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "incumbent may be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs.",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 90925.0,
+      "salary_max": 118204.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/867462100",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-04-30T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.117669+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.415896+00:00",
+      "expired": 0,
+      "description_preview": "As a COBOL Developer, you will: Lead a team in carrying out advanced application development projects for PC and mainframe systems. Create a project plan based on general instructions from the section supervisor. Oversee all technical aspects of the projects, including the design and scope of indivi..."
+    }
+  ]
+}

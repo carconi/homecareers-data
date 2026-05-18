@@ -1,0 +1,33 @@
+{
+  "category": "Pharmacist",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "b1b74198ee9114d5",
+      "source": "usajobs",
+      "external_id": "CBSX-12957416-26-GK",
+      "title": "Pharmacy Supervisor",
+      "company": "Veterans Health Administration",
+      "description": "VA Careers - Pharmacy: https://youtube.com/embed/Fn_ickNBEws **The salary range listed on this announcement only reflects the General Schedule incorporating Rest of U.S. basic pay. Upon selection, the salary will be adjusted to include the special salary rate and locality adjustment for the specific location.** Major duties include, but are not limited to the following: Supervising multiple pharmacists and technicians. Manages people, maintains effective interdepartmental relations, and cooperates with other services to accomplish the medical facility's mission and goals. Develops performance standards and assures that the program area is compliant with all regulatory and/or accrediting body requirements. Designs, implements orientation and training programs for staff, and develops and maintains systems to monitor the performance of staff activities. Develops policies and procedures relative to their assigned area. Communicate orally and in writing to persuade, influence clinical and management decisions. Expert understanding of regulatory and quality standards pertaining to pharmacy. Managing people or programs. Work Schedule: 0800 to 1630 (PST), Monday thru Friday Telework: Not Available Virtual: This is a virtual position. Functional Statement #: 000000 Relocation/Recruitment Incentives: Not Authorized Permanent Change of Station (PCS): Not Authorized",
+      "category": "Pharmacist",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 106437.0,
+      "salary_max": 138370.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/869316900",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-14T10:06:02.1270",
+      "ingested_at": "2026-05-18T04:32:04.118061+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.416514+00:00",
+      "expired": 0,
+      "description_preview": "VA Careers - Pharmacy: https://youtube.com/embed/Fn_ickNBEws **The salary range listed on this announcement only reflects the General Schedule incorporating Rest of U.S. basic pay. Upon selection, the salary will be adjusted to include the special salary rate and locality adjustment for the specific..."
+    }
+  ]
+}

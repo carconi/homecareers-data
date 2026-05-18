@@ -1,0 +1,33 @@
+{
+  "category": "Procurement Clerical And Technician",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "52c2ba43512ca3f8",
+      "source": "usajobs",
+      "external_id": "VAR003188",
+      "title": "Procurement Technician",
+      "company": "Library of Congress",
+      "description": "This permanent position is eligible for 100% distant or local telework. The salary range advertised is for the Washington, DC area and may be adjusted based on the geographic locale of the selected applicant(s). Selectee(s) will not be eligible for relocation expenses in the event the Library determines the position is no longer suitable for distant telework. Maintains work logs, tracks assignments, and keeps supervisor informed to ensure timely action, response, or completion. Provides customer support, receives a variety of requests for program related information or data, and independently gathers data, prepares reports, and makes recommendations to the supervisors consistent with established practices. Integrates several types of software such as spreadsheet, database, or word processing to generate specific working documents and forms and reports. Selects an appropriate application and format for producing program support materials to meet specific requirements. Tracks the status of contracts and orders using the Library's financial system and corresponding paper files through contacts with contract staff, contracting officer representatives, financial points of contact and contractors. Assembles contract file information and enters data into the Library's financial system. Gathers and consolidates procurement information to assemble and prepare management reports. Recommends and assists in the development of automated procurement procedures. Reviews reports and researches errors or conflicting information in procurement documentation. Reviews contract files for inclusion of specific documents or clauses as defined in procedures. Checks invoices against contracts confirm administrative information and contract terms are consistent with standard policies and federal databases (e.g. Momentum, System for Award Management, etc.). Investigates and resolves routine or recurring discrepancies related to item and/or price differences, obligations and expenditures, quantities, and similar problems. Identifies the reason for the discrepancy and initiates action to correct records and documents. Reviews offers for a variety of commercial items and indicates whether exceptions were taken to solicitation terms and conditions and whether offerors have submitted all required information. Selects and completes appropriate form letter for use to notify offerors of award, non-selection, late submission, or other formal communications. Prepares, verifies, and closes-out procurement documents, files, reports, or records in accordance with Federal Acquisition Regulations (FAR) and Library procedures. The incumbent communicates with Library service units and contractors to confirm that performance is complete and final payment has been made and initiates the close-out action in the Library's financial system. The incumbent prepares the file for archival storage and stores in accordance with NARA regulations and Library procedures.",
+      "category": "Procurement Clerical And Technician",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "compflex, flextime, maxiflex\n",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 46610.0,
+      "salary_max": 60593.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/854840400",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-01-20T10:50:59.6800",
+      "ingested_at": "2026-05-18T04:32:04.117516+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.414785+00:00",
+      "expired": 0,
+      "description_preview": "This permanent position is eligible for 100% distant or local telework. The salary range advertised is for the Washington, DC area and may be adjusted based on the geographic locale of the selected applicant(s). Selectee(s) will not be eligible for relocation expenses in the event the Library determ..."
+    }
+  ]
+}

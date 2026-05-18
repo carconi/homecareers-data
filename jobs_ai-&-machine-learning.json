@@ -1,0 +1,59 @@
+{
+  "category": "AI & Machine Learning",
+  "total": 2,
+  "jobs": [
+    {
+      "id": "dcc8d9335fc1145d",
+      "source": "arbeitnow",
+      "external_id": "remote-senior-ai-knowledge-graph-engineer-berlin-278356",
+      "title": "(Remote) Senior AI / Knowledge Graph Engineer (m/f/d)",
+      "company": "Pinnipedia Technologies GmbH",
+      "description": "<p>Pinnipedia is a new Berlin startup building a cloud platform that automates and assists the creation of <strong>audit-ready IT-security concepts</strong> (e.g., BSI-Grundschutz, C5). We\u2019re IGP-funded (2025/26) and co-develop with FU Berlin and pilot users from industry and security consulting.</p>\n<p>We\u2019re hiring an <strong>AI Engineer</strong> to turn messy inputs into structured knowledge and reliable answers.</p>\n<p><strong>Your Mission</strong> -Own the end-to-end pipeline that turns unstructured documents into a validated, queryable knowledge graph. Accountable for extraction quality, graph integrity, and the data layer that backs the product's read path.</p>\n<h2>Tasks</h2>\n<p>\u2022 <strong>LLM extraction pipelines</strong> -document chunking, property and relationship extraction, cross-chunk reconciliation, gap detection. Built with structured-output LLM agents orchestrated by durable workflows.</p>\n<p>\u2022 <strong>Knowledge graph</strong> -schema design as typed Pydantic models, Cypher access patterns and indexing strategy, graph operations, schema evolution and migration. Scope ends at the graph boundary: API contracts and query abstractions exposed to consumers belong to the full-stack engineer.</p>\n<p>\u2022 <strong>Deterministic rule engines</strong> -table-driven evaluators for cases where code beats LLM judgment; clear contracts between deterministic and probabilistic components.</p>\n<p>\u2022 <strong>Data validation &#x26; quality</strong> -schema enforcement, required-property contracts, audit trails, eval harnesses (expert review, unsupervised checks, synthetic fixtures, LLM-as-judge).</p>\n<p>\u2022 <strong>Live data ops</strong> -backfills, coordinated migrations across relational + graph stores, observability on extraction throughput and quality, incident response.</p>\n<h2>Requirements</h2>\n<p><strong>Must-have</strong></p>\n<ul>\n<li>5+ years shipping data/AI systems to production with real customers -has been on-call for live pipelines and knows what breaks at 2am.</li>\n<li>Strong Python (typed, modern) and SQL. Comfortable with PostgreSQL under load.</li>\n<li>Production experience with at least one graph database (Neo4j preferred; Neptune, ArangoDB, TigerGraph acceptable) -schema design, query tuning, not toy use.</li>\n<li>Production LLM pipeline experience: structured output, agent orchestration, prompt and version management, evaluation frameworks. PydanticAI, LangChain, DSPy, or Instructor all welcome.</li>\n<li>Durable workflow orchestration in production (DBOS, Temporal, Airflow, Prefect, Dagster).</li>\n<li>Test-first discipline -integration tests against real datastores (Testcontainers or equivalent), not mock-heavy unit tests.</li>\n<li>Fluent English skills.</li>\n</ul>\n<p><strong>Nice-to-have</strong></p>\n<ul>\n<li>Experience with regulated, compliance-driven, or standards-heavy extraction domains (legal, medical, financial, security/audit).</li>\n<li>Designed deterministic evaluators alongside LLM components and knows when to reach for which.</li>\n<li>Contributions to data contracts, schema governance, or ontology work.</li>\n<li>German language skills.</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Remote, full-time</strong> with flexible scheduling. <strong>CET (Berlin) timezone availability expected.</strong></p>\n<p>Possibility of relocation if successfull work relationship is achieved after a period of time.</p>\n<p><strong>Competitive salary: 32.000\u201342.000 \u20ac</strong> base (premium for exceptional senior profiles).</p>\n<p>Small, focused team; direct collaboration with the Product Owner and Full-Stack Engineer.</p>\n<p>Modern tooling, real ownership, and a learning budget for role-relevant training.</p>\n<p>Impact: help SMEs meet rising security requirements with less friction.</p>\n<p><strong>Apply on JOIN</strong> with your CV (PDF) and a short note (max <strong>200 words</strong>) describing <strong>how you would design a KG-backed RAG pipeline</strong> (ontology scope, indexing, retrieval, and evaluation you\u2019d use).<br>\n<strong>Process:</strong> 20-min intro \u2192 90-min practical (graph modeling + retrieval evaluation) \u2192 45-min team chat \u2192 references. We review applications within <strong>5 business days</strong>.</p>\n<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+      "category": "AI & Machine Learning",
+      "tags": [
+        "Remote",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "location": "Berlin",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/pinnipedia-technologies-gmbh/remote-senior-ai-knowledge-graph-engineer-berlin-278356",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-05-18T10:30:34+00:00",
+      "ingested_at": "2026-05-18T16:13:41.966159+00:00",
+      "last_seen_at": "2026-05-18T16:20:25.817086+00:00",
+      "expired": 0,
+      "description_preview": "Pinnipedia is a new Berlin startup building a cloud platform that automates and assists the creation of audit-ready IT-security concepts (e.g., BSI-Grundschutz, C5). We\u2019re IGP-funded (2025/26) and co-develop with FU Berlin and pilot users from industry and security consulting.\nWe\u2019re hiring an AI Eng..."
+    },
+    {
+      "id": "2318842b89e0cc29",
+      "source": "arbeitnow",
+      "external_id": "sevenlab-account-executive-bij-ai-development-agency-hamburg-62177",
+      "title": "SevenLab Account Executive bij AI development agency",
+      "company": "SevenLab",
+      "description": "<p>Ben jij een gedreven sales professional die energie krijgt van het adviseren over cutting-edge AI-oplossingen? Bij SevenLab transformeren we de manier waarop bedrijven AI software laten ontwikkelen met ons unieke Software Development As A Service (SDaaS) model. We zoeken een Account Executive die complexe AI-technologie begrijpelijk maakt voor klanten en hen helpt hun digitale transformatie te versnellen.</p>\n<p>Als Account Executive ben je de drijvende kracht achter onze groei en help je bedrijven de kracht van (gen)AI te ontdekken en implementeren.</p>\n<h2>Taken</h2>\n<ul>\n<li>Actief acquireren van nieuwe klanten en uitbouwen van bestaande accounts binnen het MKB en enterprise segment (afhandelen 15 minuten belletjes uit lopende outbound campagnes, 15-20 per week)</li>\n<li>Adviseren over AI-mogelijkheden en vertalen van klantbehoeften naar concrete AI SDaaS-oplossingen (brainstormen met klant)</li>\n<li>Opstellen van proposals en presenteren van onze AI-development diensten aan C-level stakeholders</li>\n<li>Managen van de complete sales cycle van lead tot contract</li>\n<li>Samenwerken met het development team om haalbare en impactvolle AI-projecten te defini\u00ebren</li>\n<li>Bijdragen aan de commerci\u00eble strategie en het continu verbeteren van ons sales proces</li>\n<li>Opbouwen en onderhouden van langdurige klantrelaties als trusted advisor voor AI-innovatie</li>\n</ul>\n<h2>Vereisten</h2>\n<ul>\n<li>Minimaal 3 jaar ervaring in B2B sales, bij voorkeur in software/SaaS/IT-dienstverlening</li>\n<li>Aantoonbaar track record in het behalen van sales targets</li>\n<li>Sterke affiniteit met technologie en het vermogen om complexe AI-concepten helder uit te leggen</li>\n<li>Uitstekende presentatie- en onderhandelingsvaardigheden</li>\n<li>Proactieve, zelfstandige werkhouding met hunter mentaliteit</li>\n<li>Ervaring met consultative selling en solution selling methodieken</li>\n<li>Goede beheersing van Nederlands en Engels in woord en geschrift, derde taal is een pr\u00e9 (SevenLab heeft ambities buiten NL)</li>\n<li>Ervaring in de AI/ML sector of met het verkopen van development services is een grote pr\u00e9</li>\n<li>HBO/WO werk- en denkniveau</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Competitief basissalaris met aantrekkelijke commissiestructuur (uncapped)</li>\n<li>28 vakantiedagen per jaar</li>\n<li>Pensioenregeling</li>\n<li>Super SevenLab dagen waar we leuke innovatieve projecten oppakken</li>\n<li>Fantastisch leuk team om mee samen te werken</li>\n<li>Persoonlijk ontwikkelingsbudget voor trainingen en certificeringen</li>\n<li>Hybride werken mogelijk (minimaal 3 dagen bij 32 uur of 4 dagen bij 40 uur op kantoor/bij klanten)</li>\n<li>Unieke kans om je te specialiseren in AI-sales binnen een snelgroeiende organisatie</li>\n</ul>\n<p>Ben jij de Account Executive die bedrijven helpt transformeren met AI? Solliciteer dan nu en laat ons zien hoe jij het verschil gaat maken! Bij SevenLab bekijken we de kandidaten zorgvuldig.</p>\n<p>Het sollicitatieproces bestaat uit een korte remote kennismaking, gevolgd door een persoonlijk gesprek op ons kantoor in Amsterdam en een sales case. We kijken ernaar uit om je te ontmoeten en samen de toekomst van AI-softwareontwikkeling vorm te geven!</p>\n<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+      "category": "AI & Machine Learning",
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "job_type": "full-time",
+      "location": "Hamburg",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sevenlab/sevenlab-account-executive-bij-ai-development-agency-hamburg-62177",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-05-18T08:01:26+00:00",
+      "ingested_at": "2026-05-18T16:13:41.966587+00:00",
+      "last_seen_at": "2026-05-18T16:20:25.817291+00:00",
+      "expired": 0,
+      "description_preview": "Ben jij een gedreven sales professional die energie krijgt van het adviseren over cutting-edge AI-oplossingen? Bij SevenLab transformeren we de manier waarop bedrijven AI software laten ontwikkelen met ons unieke Software Development As A Service (SDaaS) model. We zoeken een Account Executive die co..."
+    }
+  ]
+}

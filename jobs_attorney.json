@@ -1,0 +1,33 @@
+{
+  "category": "Attorney",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "33261d71f8307df9",
+      "source": "usajobs",
+      "external_id": "IJ-12859264-26-MS",
+      "title": "Immigration Judge",
+      "company": "Executive Office for Immigration Review",
+      "description": "This position is in the Executive Office for Immigration Review (EOIR), Office of the Chief Immigration Judge. EOIR seeks highly qualified individuals to join our team of expert professionals who serve as immigration adjudicators. Immigration Judges work with a team that includes attorneys, legal assistants, and other support staff. EOIR plays a pivotal role in the administration of the Nation's immigration system. EOIR's mission is to adjudicate immigration cases by fairly, expeditiously, and uniformly interpreting and administering the Nation's immigration laws. Under delegated authority from the Attorney General, EOIR conducts immigration court proceedings, appellate reviews, and other administrative hearings. EOIR consists of three adjudicatory components: the Office of the Chief Immigration Judge, which is responsible for managing the numerous immigration courts located throughout the United States where immigration judges adjudicate individual cases; the Board of Immigration Appeals, which primarily conducts appellate reviews of the immigration judges' decisions; and the Office of the Chief Administrative Hearing Officer, which adjudicates immigration-related employment cases. Immigration Judges preside over formal, quasi-judicial hearings. Proceedings before Immigration Judges include but are not limited to removal and bond adjudications, and involve issues of removability as well as applications for relief such as asylum, withholding of removal, protection under the Convention Against Torture, cancellation of removal, and adjustment of status. Immigration Judges make decisions that are final, subject to appeal to the Board of Immigration Appeals. In connection with these proceedings, Immigration Judges exercise certain discretionary powers as provided by law and are required to exercise independent judgment in reaching final decisions. Immigration Judges may be required to conduct hearings in penal institutions and other remote locations.",
+      "category": "Attorney",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "full-time, intermittent",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 159951.0,
+      "salary_max": 207500.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/853385500",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2025-12-30T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.116739+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.414339+00:00",
+      "expired": 0,
+      "description_preview": "This position is in the Executive Office for Immigration Review (EOIR), Office of the Chief Immigration Judge. EOIR seeks highly qualified individuals to join our team of expert professionals who serve as immigration adjudicators. Immigration Judges work with a team that includes attorneys, legal as..."
+    }
+  ]
+}

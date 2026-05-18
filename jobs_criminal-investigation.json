@@ -1,0 +1,33 @@
+{
+  "category": "Criminal Investigation",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "2e4deafb45e70467",
+      "source": "usajobs",
+      "external_id": "OIG-26-12949814",
+      "title": "Criminal Investigator (Operations Officer)",
+      "company": "National Science Foundation",
+      "description": "As the GS-1811-14 Criminal Investigator (Operations Officer), you will be responsible for the following: Identifies indicators of fraud by developing proactive analytical methodologies Drafts referrals to program integrity investigators based on uncovered indicators of fraud that warrant further investigation Tracks activity in all proactive investigative initiatives for review to identify and analyze emerging fraud trends Reviews OI policies and procedures to identify any necessary changes to address new legislation, policy changes and/or emerging issues Drafts changes to existing procedures or new policies to address new legislation, policy changes and/or emerging issues Uncovers information in support of the analysis of complaints received through the OIG hotline by conducting investigative interviews Determines NSF program areas susceptible to fraudulent activity by researching and analyzing NSF funding programs Addresses uncovered indicators of fraud in NSF programs by designing proactive investigation initiatives Determines whether further investigation into indicators of fraud uncovered in NSF programs by analyzing alert information and performing any additional research Leads OI's efforts in conducting peer reviews, ensuring that those efforts comply with policies and guidelines of OI, OIG and the Council of the Inspectors General on Integrity and Efficiency (CIGIE)",
+      "category": "Criminal Investigation",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 125776.0,
+      "salary_max": 163514.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/868980100",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-13T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.117872+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.416325+00:00",
+      "expired": 0,
+      "description_preview": "As the GS-1811-14 Criminal Investigator (Operations Officer), you will be responsible for the following: Identifies indicators of fraud by developing proactive analytical methodologies Drafts referrals to program integrity investigators based on uncovered indicators of fraud that warrant further inv..."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "category": "Financial Administration And Program",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "53a21f968b57ccff",
+      "source": "usajobs",
+      "external_id": "VAR003291",
+      "title": "Financial Systems Project Manager",
+      "company": "Library of Congress",
+      "description": "Articulates and communicates to project teams the assignments, projects, problems to be resolved, actionable events, milestones, and issues, and sets deadlines and time frames for completion. When applicable, coordinates implementation of the projects and work relationships with relevant areas of the Library. Ensures consideration of whether the Library and external organizations can support the proposed projects or activities. Uses the Project Management Life Cycle (PMLC) methodology (including project integration, planning, communications management, scope management, time management, cost management, quality control, HR management, risk management, and procurement management) and Systems Development Life Cycle (SDLC) best practices. Creates Work Breakdown Structures (WBS), GANTT charts, and performance measurements; and manages work through all SDLC phases (including system concept development, planning, requirements analysis, design, development, integration and test, implementation, post-implementation support oversight, operations and maintenance, and disposition phases). Leads and coordinates project activities with project team members. Facilitates project communications. Leads and oversees complex projects and identifies dependencies between projects. Develops PMLC and SDLC documentation. Develops and maintains project schedules and identifies dependencies and the critical path within project tasks affecting project milestones and goals. Conducts risk management and develops mitigation and contingency plans needed to keep projects on track. Works with others to plan, baseline, and update project plans to control costs and meet scheduled deadlines. Makes adjustments to accomplish the workload in accordance with established priorities. Schedules and conducts regular project team meetings; ensures team members are aware of and participate in project planning activities to achieve team goals and objectives. Tracks application design and delivery status through the life cycle stages, ensuring business needs are satisfied. Interviews stakeholders to clarify project scope and identify assumptions and constraints. Identifies, distributes, and balances workload and tasks among project team members in accord with established workflow, skill levels, and/or occupational specializations. Leads teams of Financial Systems specialists, project stakeholders, and others to establish and implement strategies to meet business needs and FSD and Library project objectives. Oversees initiatives to achieve strategic objectives. Ensures financial system solutions comply with all applicable information security and other laws, regulations, requirements, and policies of OCIO and the Library. Coordinates with vendors and Library end users on a daily basis to ensure that contract requirements are met, and that all activities are performed in compliance with the terms of the contract. Reviews contractor deliverables, including accepting, amending, or rejecting the work. Sets priorities. Prepares statements of work / performance work statements, independent government cost estimates, market research reports, contract method justifications, and schedules for completion of work. Supports onboarding of new contractors. Reviews contractor invoices for payment. Evaluates feasibility studies conducted by others. Analyzes technical assessment reports. Conducts research and analysis to determine if actions are required to exercise the option years on contracts to ensure that they do not expire. Recommends modifications to acquisition strategies. Provides business process and financial systems advice and expertise to the chief of the Financial Systems Office, all organizational elements of OCFO, and all Library application users regarding the development of financial systems policies, systems and operating procedures. Supports the planning, execution, installation, and training of all new and/or improved financial management processes and systems within FSD, the Library, and the Legislative Branch Financial Management System (LBFMS). Supports other legislative branch agencies using the system. Plans and conducts expert analysis of current/projected resource factors to determine the overall effectiveness of the agency in achieving planned financial management goals and objectives. Ensures adequate internal controls are in place and if they are not, develops required controls and ensures their effectiveness and efficiency throughout the organization. Prepares effective strategy for recovery in the event of system failure. Develops recovery methodology for the system in coordination with the overall Library disaster recovery plans. May develop modifications to the system to assist in recovery. This includes determining the cause of failure, documenting the means to prevent future problems, fixing software and restoring files.",
+      "category": "Financial Administration And Program",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "flexitime.",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 143913.0,
+      "salary_max": 187093.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/867896200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-07T00:00:00.0000",
+      "ingested_at": "2026-05-18T04:32:04.117680+00:00",
+      "last_seen_at": "2026-05-18T16:53:31.415929+00:00",
+      "expired": 0,
+      "description_preview": "Articulates and communicates to project teams the assignments, projects, problems to be resolved, actionable events, milestones, and issues, and sets deadlines and time frames for completion. When applicable, coordinates implementation of the projects and work relationships with relevant areas of th..."
+    }
+  ]
+}
