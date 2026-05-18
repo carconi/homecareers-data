@@ -23,8 +23,9 @@
       "company_logo": "",
       "posted_at": "2026-05-04T09:07:22",
       "ingested_at": "2026-05-18T04:21:55.239041+00:00",
-      "last_seen_at": "2026-05-18T16:20:23.978870+00:00",
+      "last_seen_at": "2026-05-18T19:02:41.509938+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "\ud83c\udde9\ud83c\uddea This job ad is written in German. \ud83c\udde9\ud83c\uddea\nDie Parkosecure GmbH ist ein innovatives Unternehmen im Bereich Parkraummanagement in der Schweiz.\nF\u00fcr die Betreuung unserer Kunden in der franz\u00f6sischen Schweiz suchen wir eine zuverl\u00e4ssige und selbst\u00e4ndig arbeitende Pers\u00f6nlichkeit im 100% Remote-Modell.\nDu ar..."
     },
     {
@@ -52,6 +53,7 @@
       "ingested_at": "2026-05-18T04:21:55.239292+00:00",
       "last_seen_at": "2026-05-18T04:41:21.372664+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Role: Customer Success Representative\nAutoHDR is the fastest growing AI startup in real estate media. We train custom image editing models for real estate, and are currently editing 25% of all US real estate listings!\nJoin our team and work with an exceptional team to build cutting edge products and..."
     },
     {
@@ -82,6 +84,7 @@
       "ingested_at": "2026-05-18T04:21:55.239306+00:00",
       "last_seen_at": "2026-05-18T04:41:21.372683+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Company Description\n\u00a0\nAutoHDR is an AI real estate photo editing platform. We launched less than a year ago and already edit 25% of U.S. real estate listings.\n\u00a0\nWe\u2019re building a category-defining product and looking for people who want to help us scale it fast. This is an early hire on a small team ..."
     }
   ]

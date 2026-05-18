@@ -1,7 +1,241 @@
 {
   "category": "Domestic help & Cleaning Jobs",
-  "total": 27,
+  "total": 41,
   "jobs": [
+    {
+      "id": "9c20b791e4bc19a2",
+      "source": "adzuna",
+      "external_id": "5733340069",
+      "title": "Hospital Assistant - Cleaning",
+      "company": "NSW Government",
+      "description": "Location: Calvary Mater Hospital & Hunter New England Local Health District Mental Health Centre Employment Type: Permanent Full Time Position Classification: Hospital Assistant Grade 2 Hours Per Week: 38 Applications Close: Sunday the 8th of March Requisition ID : REQ638364 Join Our Cleaning Services Team \u2013 Where Safety, Care and Teamwork Come Together About the Role We are seeking motivated and reliable Cleaners to join our dedicated Cleaning Services team. In this important role, you will co\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Australia",
+      "salary_min": 59919.0,
+      "salary_max": 59919.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733340069?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=EDDAB4D6A208C658DD9B0746C85D3401D130DC3B",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733340069?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=EDDAB4D6A208C658DD9B0746C85D3401D130DC3B",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:15:26Z",
+      "ingested_at": "2026-05-18T20:20:46.640725+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.640725+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Location: Calvary Mater Hospital & Hunter New England Local Health District Mental Health Centre Employment Type: Permanent Full Time Position Classification: Hospital Assistant Grade 2 Hours Per Week: 38 Applications Close: Sunday the 8th of March Requisition ID : REQ638364 Join Our Cleaning Servic..."
+    },
+    {
+      "id": "999f1cf5c84568ba",
+      "source": "adzuna",
+      "external_id": "5733334072",
+      "title": "Environment Services Assistant",
+      "company": "Joondalup Health Campus",
+      "description": "Company Description Ramsay provides high quality healthcare to millions of people each year through a network of hospitals, clinics and services in Australia, Europe and the United Kingdom. At JHC we provide specialist services for the entire family from birth through to old age. JHC is managed by Australia\u2019s largest private hospital operator, Ramsay Health Care, under a long-standing public-private partnership agreement with the State Government. Multiple part time positions available under En\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Heathridge, Joondalup Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733334072?se=jNi0x_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=AF92F694244972A49FB52C00269BE44C4D9A6E85",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733334072?se=jNi0x_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=AF92F694244972A49FB52C00269BE44C4D9A6E85",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:10:50Z",
+      "ingested_at": "2026-05-18T20:20:46.651620+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.651620+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Company Description Ramsay provides high quality healthcare to millions of people each year through a network of hospitals, clinics and services in Australia, Europe and the United Kingdom. At JHC we provide specialist services for the entire family from birth through to old age. JHC is managed by A..."
+    },
+    {
+      "id": "c86ccb2f27dcdfcd",
+      "source": "adzuna",
+      "external_id": "5733332337",
+      "title": "School Cleaners",
+      "company": "ISS Global",
+      "description": "ISS IS A PLACE TO BE YOU Help ISS in achieving a high standard of cleaning services to Public Schools, TAFES and Government Buildings across New South Wales! We have locations across Ballina and Northern Rivers region, including Tweed Heads, Pottsville, Wardell, Evans Head, Murwillumbah, Kingscliff, Lismore, Tabulam and Casino, if you have a school, TAFE, or government building near you - we may have a job for you! Various shifts available - Monday to Friday. Pick a shift that suits your lifest\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "North Lismore, Lismore Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733332337?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=EB684CA8635ED399201EA3804545E518D8427D3F",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733332337?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=EB684CA8635ED399201EA3804545E518D8427D3F",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:08:55Z",
+      "ingested_at": "2026-05-18T20:20:46.654496+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.654496+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "ISS IS A PLACE TO BE YOU Help ISS in achieving a high standard of cleaning services to Public Schools, TAFES and Government Buildings across New South Wales! We have locations across Ballina and Northern Rivers region, including Tweed Heads, Pottsville, Wardell, Evans Head, Murwillumbah, Kingscliff,..."
+    },
+    {
+      "id": "007f66a0cafcb111",
+      "source": "adzuna",
+      "external_id": "5733331977",
+      "title": "3 Day Nanny Educator (15924) Yangebup",
+      "company": "We Need a Nanny",
+      "description": "Job Description Our Family 3 days per week with children aged 13 months & 13 months Rate: $37.84 - $42.65 (L1-L3) per hour including Tax and Super (costs associated with Insurance & Workcover are taken care of by the Employer, who will also process your Tax and Super payments on your behalf) Monday: 7:30 am - 7:30 pm Wednesday: 7:30 am - 7:30 pm Thursday: 7:30 am - 7:30 pm Flex with days (Thursday is a must) & flex with times Read More Job Details Expected Start Date: 21st May 2026 Children: 2 \u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "White Gum Valley, Fremantle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733331977?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=7D64BB4EEB4D77B67C36C3D186FBB42909BC9031",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733331977?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=7D64BB4EEB4D77B67C36C3D186FBB42909BC9031",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:08:15Z",
+      "ingested_at": "2026-05-18T20:20:46.654515+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.654515+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Job Description Our Family 3 days per week with children aged 13 months & 13 months Rate: $37.84 - $42.65 (L1-L3) per hour including Tax and Super (costs associated with Insurance & Workcover are taken care of by the Employer, who will also process your Tax and Super payments on your behalf) Monday:..."
+    },
+    {
+      "id": "c6773daed272289d",
+      "source": "adzuna",
+      "external_id": "5733330037",
+      "title": "Cleaner",
+      "company": "Arcare Aged Care",
+      "description": "Cleaner Arcare Maroochydore From $29.61 per hour  Allowances Permanent Part Time - Week 1 Thurs & Fri 7am - 12pm, Week 2 Thurs & Fri 7am - 12pm - 20 hours p/f Why Join Arcare? Above Award Rates Supportive leadership and a positive workplace culture Job security in a growing organisation State-of-the-art facilities and beautiful working environment Uniform, meal, shift and public holiday allowances Professional development opportunities including paid training days Exclusive employee discounts (\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Maroochydore, Maroochydore Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733330037?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=A012D4AB1FABBACF41215F4859B40F47C7E6CC43",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733330037?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=A012D4AB1FABBACF41215F4859B40F47C7E6CC43",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:06:04Z",
+      "ingested_at": "2026-05-18T20:20:46.654808+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.654808+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Cleaner Arcare Maroochydore From $29.61 per hour  Allowances Permanent Part Time - Week 1 Thurs & Fri 7am - 12pm, Week 2 Thurs & Fri 7am - 12pm - 20 hours p/f Why Join Arcare? Above Award Rates Supportive leadership and a positive workplace culture Job security in a growing organisation State-of-the..."
+    },
+    {
+      "id": "30eb4dd2359057c7",
+      "source": "adzuna",
+      "external_id": "5733329106",
+      "title": "Domestic Assistant",
+      "company": "Silverchain",
+      "description": "Domestic Assistant - Fremantle, O'Connor and surrounds - WA We're recruiting Domestic Assistants for a permanent part\u2011time role (65 hours per fortnight) , mainly needed Monday-Friday between 8:30am-3:30pm . Applicants must live in Beaconsfield, Fremantle, Hilton, North Fremantle, O'Connor, South Fremantle, White Gum Valley, or Willagee. Domestic Assistants support clients to maintain independence by providing domestic assistance, general housekeeping, meal preparation and social support. The ro\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "White Gum Valley, Fremantle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733329106?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=DC976F142FA4929E37D6B8E8FBA731DC675998B6",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733329106?se=WkZZ0_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=DC976F142FA4929E37D6B8E8FBA731DC675998B6",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:05:25Z",
+      "ingested_at": "2026-05-18T20:20:46.655374+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.655374+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Domestic Assistant - Fremantle, O'Connor and surrounds - WA We're recruiting Domestic Assistants for a permanent part\u2011time role (65 hours per fortnight) , mainly needed Monday-Friday between 8:30am-3:30pm . Applicants must live in Beaconsfield, Fremantle, Hilton, North Fremantle, O'Connor, South Fre..."
+    },
+    {
+      "id": "7197b10f38ffc196",
+      "source": "adzuna",
+      "external_id": "5733304798",
+      "title": "Cleaner",
+      "company": "Department of Education WA",
+      "description": "This is a permanent part-time (0.38FTE) position commencing Term 2, 2026 Located in the suburb of Coolbellup approximately 10 kilometres from the city of Perth, Coolbellup Community School was established in 2005 with a student population that reflected a cosmopolitan and diverse community characterised by a variety of cultural backgrounds. The Role As our Cleaner you will carry out internal cleaning duties, including the maintenance of carpets and hard floor surfaces, toilet cleaning, furnitur\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "White Gum Valley, Fremantle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304798?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=90A33F4E2079D36136333E49BDA4AE9AE7AAE975",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304798?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=90A33F4E2079D36136333E49BDA4AE9AE7AAE975",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:24Z",
+      "ingested_at": "2026-05-18T20:20:46.557113+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.557113+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "This is a permanent part-time (0.38FTE) position commencing Term 2, 2026 Located in the suburb of Coolbellup approximately 10 kilometres from the city of Perth, Coolbellup Community School was established in 2005 with a student population that reflected a cosmopolitan and diverse community character..."
+    },
+    {
+      "id": "d723c05b3cbe4973",
+      "source": "adzuna",
+      "external_id": "5733304827",
+      "title": "Cleaner",
+      "company": "Department of Education WA",
+      "description": "We are seeking to establish a pool of Cleaners for permanent and fixed term, full-time and part-time vacancies which may arise during the 2026 school year and up to the end of Term 2, 2027. Appointments may be offered at any time for vacancies that commence during this period. At Treeby Primary School (PS) we are committed to celebrating the diversity of our community and upholding a deep commitment to the uniqueness of every child. Staff members at Treeby PS hold themselves accountable to high\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "White Gum Valley, Fremantle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304827?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=BF3414C87D67D1394E892143A230530CEF972E13",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304827?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=BF3414C87D67D1394E892143A230530CEF972E13",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:24Z",
+      "ingested_at": "2026-05-18T20:20:46.557126+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.557126+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "We are seeking to establish a pool of Cleaners for permanent and fixed term, full-time and part-time vacancies which may arise during the 2026 school year and up to the end of Term 2, 2027. Appointments may be offered at any time for vacancies that commence during this period. At Treeby Primary Scho..."
+    },
+    {
+      "id": "b92783cc88aaf8f4",
+      "source": "adzuna",
+      "external_id": "5733304103",
+      "title": "Anglo - Full Time Mine Site Cleaner",
+      "company": "Compass Group Australia",
+      "description": "Full Time Mine Site Cleaner $89496 7/7 11hr day (7 days on 7 days off) DIDO (drive in and drive out) to Moranabah, Middlemount and Moura Accomodation and meals included ESS provides multi-service capability to major companies and organisations operating in remote sites, gold mines and coal fields. We provide vital workplace support for people working in some of the most isolated terrains in the world, from oil rigs in the North Sea to gold mines in the Australian Outback. We\u2019re currently experi\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Parkside, Mt Isa",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304103?se=hD3nKvVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=2B01C7FE6710CDC4D07971F121D9580CFCA1395E",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304103?se=hD3nKvVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=2B01C7FE6710CDC4D07971F121D9580CFCA1395E",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:20:28Z",
+      "ingested_at": "2026-05-18T20:20:46.506912+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.506912+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Full Time Mine Site Cleaner $89496 7/7 11hr day (7 days on 7 days off) DIDO (drive in and drive out) to Moranabah, Middlemount and Moura Accomodation and meals included ESS provides multi-service capability to major companies and organisations operating in remote sites, gold mines and coal fields. W..."
+    },
     {
       "id": "0d0a3a3a2e06092b",
       "source": "adzuna",
@@ -25,6 +259,7 @@
       "ingested_at": "2026-05-18T16:53:28.851764+00:00",
       "last_seen_at": "2026-05-18T16:53:28.851764+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "About BIC Consolidated BIC Consolidated is seeking an experienced and hands-on Cleaning Supervisor to lead cleaning operations across sites in Geelong. This role is ideal for a motivated leader with commercial cleaning experience who can drive service excellence, manage teams effectively, and build ..."
     },
     {
@@ -48,8 +283,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T17:20:40Z",
       "ingested_at": "2026-05-18T16:53:28.564654+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.564654+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.317383+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Immediate start following a successful interview We're hiring a Housekeeping Associates to join our amazing team here at Omni Facilities Management Established in 1980, Omni Facilities Management is a leading provider of outsourced services to over 150 hotels across the UK, Netherlands, and South Af..."
     },
     {
@@ -75,6 +311,7 @@
       "ingested_at": "2026-05-18T16:53:28.605722+00:00",
       "last_seen_at": "2026-05-18T16:53:28.605722+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Supertemps are looking for a suitable candidate for a Recycling / General Site Operative job who will be working on the beautiful island of Anglesey, North Wales. Duties will include: \u2022 Meeting and greeting members of the public \u2022 Preparing bins \u2022 Separating recycling and waste \u2022 Dealing with green ..."
     },
     {
@@ -100,6 +337,7 @@
       "ingested_at": "2026-05-18T16:53:28.600039+00:00",
       "last_seen_at": "2026-05-18T16:53:28.600039+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Join Our Team as a Waste Cleaning Operative! Are you passionate about keeping your community clean and sustainable? Do you thrive in a fast-paced outdoor environment? If so, we have the perfect opportunity for you! Our client is seeking dedicated Waste Cleaning Operatives for a temporary full-time p..."
     },
     {
@@ -125,6 +363,7 @@
       "ingested_at": "2026-05-18T16:53:28.600112+00:00",
       "last_seen_at": "2026-05-18T16:53:28.600112+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Street Ranger - Liverpool, UK -\u00a324,794.68 Are you passionate about maintaining a clean and welcoming environment in your community? We are a leading local authority committed to enhancing the quality of life for residents and visitors alike. Our organisation offers a vibrant and supportive workplace..."
     },
     {
@@ -150,6 +389,7 @@
       "ingested_at": "2026-05-18T16:53:28.605810+00:00",
       "last_seen_at": "2026-05-18T16:53:28.605810+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Contract - Permanent Hours - Various shift patterns Base - York Hospital Are you looking for a post based within our York Teaching Hospital Facilities Management Team? Are you a strong team player, kind, friendly and motivated? Then we may have the role for you! York Teaching Hospital Facilities Man..."
     },
     {
@@ -175,6 +415,7 @@
       "ingested_at": "2026-05-18T16:53:28.513525+00:00",
       "last_seen_at": "2026-05-18T16:53:28.513525+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "We are hiring cleaners to carry out regular domestic and commercial cleaning work for our clients across the local area. This is ongoing work with scheduled jobs provided by our office. Role You will complete cleaning in homes and business premises. Duties include: * General cleaning of kitchens, ba..."
     },
     {
@@ -198,8 +439,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T16:41:39Z",
       "ingested_at": "2026-05-18T16:53:28.608007+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.608007+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.361317+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "At Mitie we bring out the best in places. Unlocking their potential so that everyone looks forward to using them and can do their best work in them. From offices and shopping centres to hospitals and airports, we create better places for the communities we serve to thrive. We're looking for a Cleane..."
     },
     {
@@ -225,6 +467,7 @@
       "ingested_at": "2026-05-18T16:53:28.542698+00:00",
       "last_seen_at": "2026-05-18T16:53:28.542698+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Leo Group is one of the UK\u2019s leading specialists in animal by-products and renewable energy. We play a critical role in the food and agricultural industries collecting and processing material \u2013 which is converted into meals and oils for use in pet food, cosmetics, chemicals, and renewable fuel. As w..."
     },
     {
@@ -250,7 +493,138 @@
       "ingested_at": "2026-05-18T16:53:28.565905+00:00",
       "last_seen_at": "2026-05-18T16:53:28.565905+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Be all you can be with Hamberley At Hamberley, we believe that our residents deserve something \u2018Extra Special, Every Day\u2019 and we're seeking a Housekeeper to help us achieve our goals. Joining us at Lovell Place, our luxury care home that provides residential, dementia, and nursing care for older peo..."
+    },
+    {
+      "id": "e24c47414aa40e20",
+      "source": "adzuna",
+      "external_id": "5733302165",
+      "title": "Maintenance Cleaner",
+      "company": "Marriott International, Inc",
+      "description": "Additional Information Job Number 26060052 Job Category Engineering & Facilities Location Courtyard by Marriott Greenville Haywood Mall, 70 Orchard Park Dr, Greenville, South Carolina, United States, 29615 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Perform scheduled preventative maintenance in guest rooms, (CARE, RPM, GCPM), meeting rooms, and/or public spaces as required, including flipping/inspecting mattresses, box springs and assembling \u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Wade Hampton, Greenville County",
+      "salary_min": 41346.84,
+      "salary_max": 41346.84,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302165?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=95111EDE92687534CA62F0DCD2834E7AEA0D87D0",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302165?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=95111EDE92687534CA62F0DCD2834E7AEA0D87D0",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.180768+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180768+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Additional Information Job Number 26060052 Job Category Engineering & Facilities Location Courtyard by Marriott Greenville Haywood Mall, 70 Orchard Park Dr, Greenville, South Carolina, United States, 29615 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMA..."
+    },
+    {
+      "id": "459f57b0407436da",
+      "source": "adzuna",
+      "external_id": "5733295700",
+      "title": "Industrial Cleaner",
+      "company": "Chemtall/ SNF Holding",
+      "description": "Overview SNF is a specialty chemical group whose products, water-soluble polymers, contribute to treating, recycling, preserving water, saving energy, and reducing carbon footprint. A pioneer in soft chemistry, SNF has long been present on all continents, employing 8,150 people, including more than 2,300 in the USA. Innovation and movement toward a cleaner, less carbon-intensive world accelerates SNF\u2019s growth. The Industrial cleaning team is responsible for ensuring SNF\u2019s grounds and equipment \u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Georgia, US",
+      "salary_min": 54669.77,
+      "salary_max": 54669.77,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733295700?se=_sLv1O1S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=A52DDE63D0C281BD26A9CAFD83C6CCA5F2B16588",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733295700?se=_sLv1O1S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=A52DDE63D0C281BD26A9CAFD83C6CCA5F2B16588",
+      "company_logo": null,
+      "posted_at": "2026-05-18T14:08:14Z",
+      "ingested_at": "2026-05-18T20:20:46.159302+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.159302+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Overview SNF is a specialty chemical group whose products, water-soluble polymers, contribute to treating, recycling, preserving water, saving energy, and reducing carbon footprint. A pioneer in soft chemistry, SNF has long been present on all continents, employing 8,150 people, including more than ..."
+    },
+    {
+      "id": "3214b185592db150",
+      "source": "adzuna",
+      "external_id": "5733292261",
+      "title": "Custodial Associate",
+      "company": "University of California, Santa Cruz",
+      "description": "Apply for Job Job ID 85842 Location Silicon Valley Full/Part Time Full Time Add to Favorite Jobs JOB POSTING Our campus is located in Santa Clara, CA, the Heart of Silicon Valley. We like to say that it's here where the next generation of innovation is born. Benefits to working at UC Santa Cruz SILICON VALLEY include: * Medical / Dental / Vision Insurance Plans * UC Retirement Plans * Life Insurance / Legal Insurance / Discounted Pet Insurance * 14 Paid Holidays Plus Accrued Vacation & Sick Lea\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Monte Vista, Santa Clara County",
+      "salary_min": 86758.61,
+      "salary_max": 86758.61,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733292261?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733292261?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:52:09Z",
+      "ingested_at": "2026-05-18T20:20:46.159528+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.159528+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Apply for Job Job ID 85842 Location Silicon Valley Full/Part Time Full Time Add to Favorite Jobs JOB POSTING Our campus is located in Santa Clara, CA, the Heart of Silicon Valley. We like to say that it's here where the next generation of innovation is born. Benefits to working at UC Santa Cruz SILI..."
+    },
+    {
+      "id": "da26b080fab8499a",
+      "source": "adzuna",
+      "external_id": "5733286985",
+      "title": "Housekeeper - Watermere at Round Rock, Full Time",
+      "company": "Integrated Real Estate Group",
+      "description": "About Us: Integrated Real Estate Group is home to over 1,200 employees who work across 43 communities in Texas, plus 1 in Oklahoma. During our 20 year history, we have developed over 15,000 units at a total cost exceeding $2 billion. What sets IREG apart is our diverse range of housing options that we offer. We provide affordable housing for seniors, workforce housing (for people earning 80% of the average income), and market-rate housing, including multi-family, active adult, independent livin\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Round Rock, Williamson County",
+      "salary_min": 40099.54,
+      "salary_max": 40099.54,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733286985?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733286985?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:40:53Z",
+      "ingested_at": "2026-05-18T20:20:46.171406+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.171406+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "About Us: Integrated Real Estate Group is home to over 1,200 employees who work across 43 communities in Texas, plus 1 in Oklahoma. During our 20 year history, we have developed over 15,000 units at a total cost exceeding $2 billion. What sets IREG apart is our diverse range of housing options that ..."
+    },
+    {
+      "id": "69f2a41d4461c160",
+      "source": "adzuna",
+      "external_id": "5733274105",
+      "title": "Cleaning and Restoration Technician",
+      "company": "Voda Cleaning & Restoration of Greater Houston-North",
+      "description": "Benefits: Competitive salary Paid time off Training & development Company Overview Voda Cleaning & Restoration of Greater Houston \u2013 North is a locally owned cleaning and restoration company serving the areas north and north east of Houston. We specialize in professional carpet, tile and grout, upholstery, hardwood/laminate floor, and HVAC duct cleaning, as well as water damage restoration, mold remediation, and odor mitigation services. We are committed to professionalism, quality workmanship, \u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Panorama Village, Montgomery County",
+      "salary_min": 37440.0,
+      "salary_max": 52000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733274105?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733274105?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T12:59:22Z",
+      "ingested_at": "2026-05-18T20:20:46.082240+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.082240+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Benefits: Competitive salary Paid time off Training & development Company Overview Voda Cleaning & Restoration of Greater Houston \u2013 North is a locally owned cleaning and restoration company serving the areas north and north east of Houston. We specialize in professional carpet, tile and grout, uphol..."
     },
     {
       "id": "6d502ea685aa94ab",
@@ -275,6 +649,7 @@
       "ingested_at": "2026-05-18T16:53:28.387841+00:00",
       "last_seen_at": "2026-05-18T16:53:28.387841+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Job Description Job Description Company Description Lifestyle Solar is a leading provider of residential solar solutions, dedicated to building a cleaner, more sustainable planet. Led by team members who have successfully supported more than 5,000 successful residential installations through sales a..."
     },
     {
@@ -300,6 +675,7 @@
       "ingested_at": "2026-05-18T16:53:28.328081+00:00",
       "last_seen_at": "2026-05-18T16:53:28.328081+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Job Number 26051353 Job Category Engineering & Facilities Location Princeton Marriott at Forrestal, 100 College Rd E, Princeton, New Jersey, United States, 08540 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $21.85-$23.00 per hour P..."
     },
     {
@@ -325,6 +701,7 @@
       "ingested_at": "2026-05-18T16:53:28.329432+00:00",
       "last_seen_at": "2026-05-18T16:53:28.329432+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Special Projects Job Number 26059458 Job Category Housekeeping & Laundry Location The Ritz-Carlton Laguna Niguel, 1 Ritz Carlton Dr, Dana Point, California, United States, 92629 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $29.40-$..."
     },
     {
@@ -350,6 +727,7 @@
       "ingested_at": "2026-05-18T16:53:28.329448+00:00",
       "last_seen_at": "2026-05-18T16:53:28.329448+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Weekends, Holidays Availability Preferred Job Number 26059395 Job Category Engineering & Facilities Location Courtyard by Marriott Poughkeepsie, 2641 South Rd, Poughkeepsie, New York, United States, 12601 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Man..."
     },
     {
@@ -375,6 +753,7 @@
       "ingested_at": "2026-05-18T16:53:28.329464+00:00",
       "last_seen_at": "2026-05-18T16:53:28.329464+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Job Number 26059482 Job Category Engineering & Facilities Location Courtyard by Marriott Savannah Midtown, 6703 Abercorn St, Savannah, Georgia, United States, 31405 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Perform schedul..."
     },
     {
@@ -398,8 +777,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T05:58:55Z",
       "ingested_at": "2026-05-18T16:53:28.741892+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.741892+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.493796+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Ramada by Wyndham Stettler Hotel Cleaner The Hotel Cleaner is responsible for the orderliness and cleaning throughout all areas of the property, including public areas, guest rooms & storage rooms, all the while living up to our Canalta Mission and Vision Key Duties a..."
     },
     {
@@ -423,8 +803,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T22:20:12Z",
       "ingested_at": "2026-05-18T16:53:28.473171+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.473171+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180373+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Overview We are looking for a reliable and experienced Cleaner to maintain cleanliness and safety across active construction zones. This role ensures that debris, dust, and hazardous materials are properly removed to support a safe and efficient work environment. Duties include cleaning floors, surf..."
     },
     {
@@ -448,8 +829,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T20:32:51Z",
       "ingested_at": "2026-05-18T16:53:28.623100+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.623100+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.379759+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Experience with infant care would be nice please I need 4 hours of support daily from Monday to Friday for looking after my infant while I work from home. Responsibilities include: playtime with baby, reading to him, cuddle time, some basic food prep, feeding baby, small chores to maintaining a clea..."
     },
     {
@@ -473,8 +855,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T05:35:34Z",
       "ingested_at": "2026-05-18T16:53:28.659964+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.659964+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.409303+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description 1. Position Summary and Job Magnitude The Housekeeping Services Representative interacts with students and guests frequently. It is imperative that they are friendly and patient and demonstrate a high degree of customer service in all situations. Housekeeping Service ..."
     },
     {
@@ -498,8 +881,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T23:18:18Z",
       "ingested_at": "2026-05-18T16:53:28.611709+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.611709+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.365215+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Multi-site Cleaning Operative \u2013 Join Royal Mail P&FS and Help Keep Our Sites Spotless! Location : Lairg Delivery Office, Lairg, IV27 4DP Job Reference Number : 339115 Pay : \u00a312.71 per hour. Contract Type : Permanent Hours : 8.75 hours a week Schedule : Monday to Friday 10am to 11.45am - Split over 2..."
     },
     {
@@ -523,8 +907,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T16:56:49Z",
       "ingested_at": "2026-05-18T16:53:28.583601+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.583601+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.336340+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Title: Cleaner Hours: Monday to Friday 11am-3pm Location: Education environment in Folkestone About the Role: We're looking for a dedicated Cleaner to help maintain a clean and safe environment for staff and students. The role will involve cleaning of the dining area and reactive cleaning. You m..."
     },
     {
@@ -548,8 +933,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T05:26:14Z",
       "ingested_at": "2026-05-18T16:53:28.738149+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.738149+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.488574+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Education: No degree, certificate or diploma Experience: 2 years to less than 3 years Employment terms options Day Work Term: Casual Work Language: English Hours: 40 hours per week"
     },
     {
@@ -573,8 +959,9 @@
       "company_logo": null,
       "posted_at": "2026-05-13T16:55:35Z",
       "ingested_at": "2026-05-18T16:53:28.718632+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.718632+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.473685+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "QUALIFICATIONS: Education: Grade 12 minimum Background: Two years or more experience, preferably in health care setting; Excellent communication skills; Personal Requirements: Work as part of a team; Capable of adapting to different situations and change; Keen interest in working with seniors. FUNCT..."
     },
     {
@@ -598,8 +985,9 @@
       "company_logo": null,
       "posted_at": "2026-05-13T04:38:13Z",
       "ingested_at": "2026-05-18T16:53:28.579316+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.579316+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.332462+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Cleaner / Housekeeper / Domestic Assistant Join Swalcliffe Park School as a Cleaner / Housekeeper / Domestic Assistant supporting cleaning, housekeeping and hygiene services within a specialist Day and Residential school and education setting. Ideal for candidates with cleaning operative, domestic c..."
     },
     {
@@ -623,8 +1011,9 @@
       "company_logo": null,
       "posted_at": "2026-05-12T19:53:30Z",
       "ingested_at": "2026-05-18T16:53:28.579603+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.579603+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.332598+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Cleaner / Housekeeper / Domestic Assistant Join Swalcliffe Park School as a Cleaner / Housekeeper / Domestic Assistant supporting cleaning, housekeeping and hygiene services within a specialist Day and Residential school and education setting. Ideal for candidates with cleaning operative, domestic c..."
     },
     {
@@ -648,8 +1037,9 @@
       "company_logo": null,
       "posted_at": "2026-05-12T18:37:56Z",
       "ingested_at": "2026-05-18T16:53:28.579642+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.579642+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.332614+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Cleaner / Housekeeper / Domestic Assistant Join Swalcliffe Park School as a Cleaner / Housekeeper / Domestic Assistant supporting cleaning, housekeeping and hygiene services within a specialist Day and Residential school and education setting. Ideal for candidates with cleaning operative, domestic c..."
     },
     {
@@ -673,8 +1063,9 @@
       "company_logo": null,
       "posted_at": "2026-05-10T17:28:47Z",
       "ingested_at": "2026-05-18T16:53:28.707697+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.707697+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.464514+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Bayshore HealthCare is one of the Canada\u2019s leading providers of home and community health care services and is a privately owned company. Bayshore HealthCare is proud to showcase its achievement as a Platinum member of Canada\u2019s Best Managed Companies Program every year since 2006. In 2015, Bayshore ..."
     }
   ]

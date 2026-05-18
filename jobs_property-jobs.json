@@ -1,7 +1,111 @@
 {
   "category": "Property Jobs",
-  "total": 92,
+  "total": 103,
   "jobs": [
+    {
+      "id": "a4820455760cb409",
+      "source": "adzuna",
+      "external_id": "5733339644",
+      "title": "Senior Commercial Property Manager",
+      "company": "Adelaide Commercial Real Estate",
+      "description": "Adelaide Commercial Real Estate is seeking a Senior Commercial Property Manager to oversee a well-established portfolio across office, retail, and industrial sectors. This is an opportunity to join a growing Adelaide commercial agency in a senior role offering the autonomy, support, and structure required to manage a stable portfolio effectively. About Us We are a privately owned commercial agency with a strong presence across the Adelaide market. Established in 2010, our business has built lon\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Adelaide CBD, Adelaide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733339644?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=D44C4C5DD6173CDFF4F6A3348947812C241D413B",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733339644?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=D44C4C5DD6173CDFF4F6A3348947812C241D413B",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:15:19Z",
+      "ingested_at": "2026-05-18T20:20:46.641692+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.641692+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Adelaide Commercial Real Estate is seeking a Senior Commercial Property Manager to oversee a well-established portfolio across office, retail, and industrial sectors. This is an opportunity to join a growing Adelaide commercial agency in a senior role offering the autonomy, support, and structure re..."
+    },
+    {
+      "id": "e7e64c4f564c8ddc",
+      "source": "adzuna",
+      "external_id": "5733333066",
+      "title": "Property Manager - Experienced",
+      "company": "Ray White",
+      "description": "About the Company At Ray White Rockingham Baldivis , we believe real estate should be rewarding for both our clients and our people. As one of the area\u2019s most successful and trusted agencies, we\u2019re proud of our strong reputation, supportive culture, and passion for excellence . Our team conducts business with integrity, energy, and a genuine care for our clients \u2014 and we love to have fun along the way! A rare opportunity has become available for an enthusiastic and professional Property Manager\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Rockingham, Rockingham Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733333066?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=A46AB845F3F9C9FC565690E94C313C57E0F151E5",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733333066?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=A46AB845F3F9C9FC565690E94C313C57E0F151E5",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:09:56Z",
+      "ingested_at": "2026-05-18T20:20:46.659346+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659346+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "About the Company At Ray White Rockingham Baldivis , we believe real estate should be rewarding for both our clients and our people. As one of the area\u2019s most successful and trusted agencies, we\u2019re proud of our strong reputation, supportive culture, and passion for excellence . Our team conducts bus..."
+    },
+    {
+      "id": "a758ad271c86309a",
+      "source": "adzuna",
+      "external_id": "5733304510",
+      "title": "Property Manager",
+      "company": "Belle Property Australia",
+      "description": "Belle Property Canberra and Queanbeyan is a forward-thinking, boutique real estate agency servicing Canberra and the surrounding NSW region. Since opening in 2016, we\u2019ve grown to become one of the largest and most respected real estate teams in the region. Our success is reflected in consistent recognition and awards across both sales and property management, locally and nationally within the Belle Property network, as well as by the Real Estate Institute of the ACT. We are currently seeking a \u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Barton, South Canberra",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304510?se=0lBEyvZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F94275533B68F61BA0EC63E4FECFE50105F8116D",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304510?se=0lBEyvZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F94275533B68F61BA0EC63E4FECFE50105F8116D",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:07Z",
+      "ingested_at": "2026-05-18T20:20:46.652867+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.652867+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Belle Property Canberra and Queanbeyan is a forward-thinking, boutique real estate agency servicing Canberra and the surrounding NSW region. Since opening in 2016, we\u2019ve grown to become one of the largest and most respected real estate teams in the region. Our success is reflected in consistent reco..."
+    },
+    {
+      "id": "97f06707abd89987",
+      "source": "adzuna",
+      "external_id": "5733304517",
+      "title": "Property/Building Manager - Palm Beach",
+      "company": "CM and PA Easdown",
+      "description": "Are you an experienced property manager or former management rights holder looking for your next opportunity? CASE Property Group is seeking a motivated and professional Property & Building Manager to join our onsite team. We are a small boutique team looking for someone to support our operations. This is a unique role offering flexible hours and the chance to assist in managing a modern residential complex and a growing number of outside lets in one of the Gold Coast's most desirable locations\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Bundall, Gold Coast",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304517?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=82CE1638CAA564C940146C6DE07030146E9C2339",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304517?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=82CE1638CAA564C940146C6DE07030146E9C2339",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:07Z",
+      "ingested_at": "2026-05-18T20:20:46.659384+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659384+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Are you an experienced property manager or former management rights holder looking for your next opportunity? CASE Property Group is seeking a motivated and professional Property & Building Manager to join our onsite team. We are a small boutique team looking for someone to support our operations. T..."
+    },
     {
       "id": "af1093f8d3acc842",
       "source": "adzuna",
@@ -23,8 +127,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:56Z",
       "ingested_at": "2026-05-18T16:53:28.758631+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.758631+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.511733+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Senior Development Manager Location \u2013 Parramatta Hybrid Employment type \u2013 Temporary till 30 June 2028, Multiple positions Salary: Clerk Grade 11/12, $ 149,739 - $173,174 per annum  superannuation Your role Homes NSW is a division of the Department of Communities and Justice. It brings together the h..."
     },
     {
@@ -48,8 +153,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:52Z",
       "ingested_at": "2026-05-18T16:53:28.832807+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.832807+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.581082+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Together we shape thriving communities, public spaces, places and economies. Temporary full-time opportunity up to August 2029 Location based in in Penrith NSW with day trip to Bradfield if required with flexible working supported Salary relative to experience, and ranges from $129,464 to $142,665  ..."
     },
     {
@@ -73,8 +179,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:49Z",
       "ingested_at": "2026-05-18T16:53:28.836522+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.836522+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.585784+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Together we shape thriving communities, public spaces, places and economies. A highly supportive team that provides ongoing guidance and hands \u2011 on help as you grow in the role. Permanent full-time opportunity. Office location based in Orange. Salary relative to experience, and ranges from $84,659 t..."
     },
     {
@@ -98,8 +205,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:37Z",
       "ingested_at": "2026-05-18T16:53:28.759421+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.759421+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.512584+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Development Manager Location \u2013 Parramatta with flexible location considered Employment type \u2013 Temporary till 30 June 2028 Salary: Clerk Grade 9/10, $ 129,464- $ 142,665 per annum  superannuation Your role Homes NSW is a division of the Department of Communities and Justice (DCJ). It brings together ..."
     },
     {
@@ -123,8 +231,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:36Z",
       "ingested_at": "2026-05-18T16:53:28.759465+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.759465+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.512609+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Together we shape thriving communities, public spaces, places and economies. Opportunity to join the Advanced Manufacturing Readiness Facility \u2013 a purpose\u2011driven organisation accelerating advanced manufacturing and unlocking the potential of Bradfield City Centre. Disability targeted opportunity Tem..."
     },
     {
@@ -148,8 +257,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:28Z",
       "ingested_at": "2026-05-18T16:53:28.836690+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.836690+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.585994+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Opportunity to lead delivery of a range of property projects and transactions Ongoing full-time role Office location can be Coffs Harbour/Queanbeyan/Parramatta TRP starting from $239,251 including superannuation, commensurate with experience Property and Development NSW are seeking applications for ..."
     },
     {
@@ -173,8 +283,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:16Z",
       "ingested_at": "2026-05-18T16:53:28.906100+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906100+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659570+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Customer Service Focus Team Culture Attention to Detail We are seeking an experienced and motivated Property Investment Manager to join our expanding team, working with one of Victoria\u2019s leading real estate agencies in the thriving city of Geelong. As part of the Jellis Craig network, renowned for i..."
     },
     {
@@ -198,8 +309,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:15Z",
       "ingested_at": "2026-05-18T16:53:28.906118+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906118+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659580+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "WHO WE ARE: Bridgebury Real Estate is an exciting innovative Real Estate agency that offers services in Residential Sales & Property Management. Since we opened in 2015 we have gone on to win numerous awards and are proud of the team culture we have created. Now, spanning three offices, Bridgebury R..."
     },
     {
@@ -223,8 +335,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:57Z",
       "ingested_at": "2026-05-18T16:53:28.906428+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906428+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659614+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Step into a leadership role within a boutique, high-performing real estate agency \u2014 where precision, presentation and client experience are at the core of everything you do. An exciting opportunity has become available to join a modern, well-respected real estate business, as their current Operation..."
     },
     {
@@ -248,8 +361,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:55Z",
       "ingested_at": "2026-05-18T16:53:28.906679+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906679+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659669+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Ray White Windsor, Richmond &amp; Pitt Town is hiring a Full time Residential Property Manager role in Richmond, NSW. Apply now to be part of our team. Requirements for this role: Looking for candidates available to work: Mon morning Mon afternoon Tue morning Tue afternoon Wed morning Wed afternoon ..."
     },
     {
@@ -273,8 +387,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:49Z",
       "ingested_at": "2026-05-18T16:53:28.833810+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.833810+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.582038+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "We have an exciting opportunity for an experienced, motivated and client-focused Commercial Property Manager to join our established Property Management team. This role offers the opportunity to manage a diverse commercial property portfolio across a range of asset types, working within a collaborat..."
     },
     {
@@ -298,8 +413,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:48Z",
       "ingested_at": "2026-05-18T16:53:28.906762+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906762+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659696+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "The road to leadership begins with opportunity at Blackshaw Manuka The original Blackshaw Real Estate agency, Blackshaw Manuka , are growing their team. Are you an ambitious Property Manager looking for a fresh challenge? We're expanding and looking for a dynamic professional to join our family. An ..."
     },
     {
@@ -323,8 +439,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:47Z",
       "ingested_at": "2026-05-18T16:53:28.906888+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.906888+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659734+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Work with one of the largest and fastest growing agencies on the South Coast, alongside a team that genuinely backs each other. One Agency Elite Property Group is seeking an experienced Property Manager to join our Illawarra team, servicing our Albion Park, Windang and Dapto offices. We are a forwar..."
     },
     {
@@ -348,8 +465,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:31Z",
       "ingested_at": "2026-05-18T16:53:28.837239+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.837239+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.586629+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Together we shape thriving communities, public spaces, places and economies. An executive leadership role in Planning to lead the delivery of high\u2011impact infrastructure programs that turn housing growth into real, investable projects and measurable community outcomes. Ongoing/Permanent full-time rol..."
     },
     {
@@ -373,8 +491,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:28Z",
       "ingested_at": "2026-05-18T16:53:28.907176+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.907176+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659956+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "You\u2019re accountable for your actions and those of your team and you collaborate and support others to consistently deliver on your promises. You're a forward thinker who sees potential where others don't. You'll have the chance to shape and transform urban spaces, contribute to sustainable developmen..."
     },
     {
@@ -398,8 +517,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:26Z",
       "ingested_at": "2026-05-18T16:53:28.907284+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.907284+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659977+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "We\u2019re on the lookout for an enthusiastic and motivated Assistant Property Manager to join our growing team in Terrigal. This hands on, office based role offers the perfect opportunity to learn the back end of Property Management while supporting a busy and high performing team. You\u2019ll be providing d..."
     },
     {
@@ -423,8 +543,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:19Z",
       "ingested_at": "2026-05-18T16:53:28.907726+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.907726+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660061+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Nxtgen Property is seeking an enthusiastic Property Manager or Property Manager Assistant to join our dedicated team on a full-time basis, managing the maintenance of residential properties and delivering exceptional communication and service to owners and tenants alike. Duties & responsibilities: R..."
     },
     {
@@ -448,8 +569,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:19Z",
       "ingested_at": "2026-05-18T16:53:28.907793+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.907793+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660070+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Elders Real Estate Wollongong is hiring a Full time Property Manager role in Wollongong, NSW. Apply now to be part of our team. Requirements for this role: Flexible hours available 1 year of relevant work experience required for this role Working rights required for this role This is an immediate st..."
     },
     {
@@ -473,8 +595,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:17Z",
       "ingested_at": "2026-05-18T16:53:28.907829+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.907829+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660078+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Step into a role where technology actually makes your life easier. Join the team at Ray White Flagstaff Hill and manage a quality portfolio with the best support in the business. At Ray White Flagstaff Hill , we do things differently. We've moved away from clunky, old-school systems and high-stress ..."
     },
     {
@@ -498,8 +621,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:06Z",
       "ingested_at": "2026-05-18T16:53:28.908112+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908112+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660150+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Benefits Competitive salary and performance based bonuses Top performing & reputable brand Monday - Friday role Strong support and backing from leadership Work within a team of high producing agents Career growth opportunities & dedicated training days Stunning & central office location The Company ..."
     },
     {
@@ -523,8 +647,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:47Z",
       "ingested_at": "2026-05-18T16:53:28.908322+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908322+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660237+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Buxton Geelong Group is looking for an experienced and motivated Property Manager to join our growing team. As part of the Buxton Geelong Group , you\u2019ll be joining one of the region\u2019s most respected real estate networks, known for strong leadership, collaboration across offices, and a genuine focus ..."
     },
     {
@@ -548,8 +673,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:42Z",
       "ingested_at": "2026-05-18T16:53:28.908665+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908665+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660281+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "The Company This award-winning, high-performing agency is a standout in the Real Estate industry. With an exclusive focus on Property Management and leadership that has decades of hands-on experience, the agency has built a strong reputation as both a business and an employer of choice. The team is ..."
     },
     {
@@ -573,8 +699,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:39Z",
       "ingested_at": "2026-05-18T16:53:28.813666+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.813666+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.563878+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Seeking a dynamic and motivated individual to join our WHITEFOX Adelaide office as our Sales Coordinator on a full-time basis! \u00b7 Located in our Adelaide office in Hyde Park, reflecting the luxury lifestyle WHITEFOX is renowned for delivering \u00b7 Collaborative and supportive team \u00b7 Launch your career a..."
     },
     {
@@ -598,8 +725,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:39Z",
       "ingested_at": "2026-05-18T16:53:28.908768+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908768+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660346+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Senior Property Manager \u2013 Residential Portfolio This position offers the chance to join a respected local real estate business that values staff retention, consistency, and a positive working environment. The successful candidate will step into an organised portfolio with strong internal support and..."
     },
     {
@@ -623,8 +751,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:39Z",
       "ingested_at": "2026-05-18T16:53:28.908783+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908783+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660354+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About the Company Join a game\u2011changing real estate agency specialising in both Residential and Commercial property. This is a business that\u2019s innovative, ambitious and quickly expanding their PM division has tripled in size in just three years and they\u2019re not slowing down. With growth comes real lon..."
     },
     {
@@ -648,8 +777,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:38Z",
       "ingested_at": "2026-05-18T16:53:28.908825+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908825+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660413+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About the role We are seeking a highly motivated and experienced Residential Property Manager to join our team at Realmark. In this full-time position, you will be responsible for managing a portfolio of residential properties, ensuring optimal tenancy and maximising returns for our clients. What yo..."
     },
     {
@@ -673,8 +803,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:37Z",
       "ingested_at": "2026-05-18T16:53:28.908841+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908841+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660423+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Job Title Assistant Strata Manager Location and Type Adelaide, SA | Full-time About the Opportunity An opportunity is available for an Assistant Strata Manager to join a well\u2011established property services organisation. Working closely with an experienced Strata Manager, this role supports the day\u2011to..."
     },
     {
@@ -698,8 +829,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:35Z",
       "ingested_at": "2026-05-18T16:53:28.908904+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.908904+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660459+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Residential Valuer \u2013 Perth CPV Qualified Residential valuer Plenty of work, good fee writes & commissions The Opportunity: CPV Residential valuer to join our Perth team Value residential properties in emerging and high-growth suburbs south of the river. Flexibility to consider matching an area and a..."
     },
     {
@@ -723,8 +855,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:29Z",
       "ingested_at": "2026-05-18T16:53:28.909058+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909058+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660611+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Residential Valuer - Perth CPV Qualified Residential valuer Plenty of work, good fee writes & commissions The Opportunity: CPV Residential valuer to join our Perth team Value residential properties in emerging and high-growth suburbs south of the river. Flexibility to consider matching an area and a..."
     },
     {
@@ -748,8 +881,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:28Z",
       "ingested_at": "2026-05-18T16:53:28.909080+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909080+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660619+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Benefits Base of $75,000 - $80,000  Superannuation Commission/incentive structure for new managements Join a top-performing, award winning and reputable brand Strong support and backing from leadership Close-knit, long-established team culture Onsite parking The Company Starlight Property Group is a..."
     },
     {
@@ -773,8 +907,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:13Z",
       "ingested_at": "2026-05-18T16:53:28.909313+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909313+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660788+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About Domain And CoStar Group Domain is one of Australia\u2019s most trusted and loved property brands, helping millions of Australians find their dream home and stay informed about the property market. Now, Domain has joined forces with CoStar Group (NASDAQ: CSGP), a global leader in real estate informa..."
     },
     {
@@ -798,8 +933,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:12Z",
       "ingested_at": "2026-05-18T16:53:28.909395+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909395+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660845+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About Domain And CoStar Group Domain is one of Australia\u2019s most trusted and loved property brands, helping millions of Australians find their dream home and stay informed about the property market. Now, Domain has joined forces with CoStar Group (NASDAQ: CSGP), a global leader in real estate informa..."
     },
     {
@@ -823,8 +959,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:12Z",
       "ingested_at": "2026-05-18T16:53:28.909420+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909420+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660854+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About Domain And CoStar Group Domain is one of Australia\u2019s most trusted and loved property brands, helping millions of Australians find their dream home and stay informed about the property market. Now, Domain has joined forces with CoStar Group (NASDAQ: CSGP), a global leader in real estate informa..."
     },
     {
@@ -848,8 +985,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:25:09Z",
       "ingested_at": "2026-05-18T16:53:28.909478+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.909478+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.660889+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Acton Belle Property Perth City, WA Acton | Belle Property Perth City is seeking an experienced and motivated Real Estate Sales Agent to join our high-performing team. This is an opportunity for a driven professional who is ready to work hard, build strong client relationships, and consistently conv..."
     },
     {
@@ -875,6 +1013,7 @@
       "ingested_at": "2026-05-18T16:53:28.909719+00:00",
       "last_seen_at": "2026-05-18T16:53:28.909719+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "We're looking for detail-obsessed cleaners who take genuine pride in delivering inspection-perfect results. If you're the type who notices a smudge on a skirting board that others miss, we want you. Perfect if you need extra cash around existing commitments \u2013 school runs, study, or another job \u2013 and..."
     },
     {
@@ -900,6 +1039,7 @@
       "ingested_at": "2026-05-18T16:53:28.910083+00:00",
       "last_seen_at": "2026-05-18T16:53:28.910083+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Property Manager \u2013 Exciting Opportunity to Build Something from the Ground Up Are you an experienced Property Manager looking for more than just another portfolio? Do you want to play a key role in building a business from the ground up, with the backing of an established and successful real estate ..."
     },
     {
@@ -925,6 +1065,7 @@
       "ingested_at": "2026-05-18T16:53:28.910174+00:00",
       "last_seen_at": "2026-05-18T16:53:28.910174+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "At MIX Property Group, we\u2019re looking for an experienced Residential Property Manager who is passionate about people, relationships and delivering exceptional service. This is a hands-on role managing a residential property portfolio while building strong, long-term relationships with landlords, tena..."
     },
     {
@@ -950,6 +1091,7 @@
       "ingested_at": "2026-05-18T16:53:28.910309+00:00",
       "last_seen_at": "2026-05-18T16:53:28.910309+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Are you currently an Assistant Property Manager OR new to the industry and are looking for a great opportunity? WE will offer YOU an amazing development pathway including PM training , PM registration and a Cert IV in Real Estate Practice . Not to mention all the on the job training required to succ..."
     },
     {
@@ -975,6 +1117,7 @@
       "ingested_at": "2026-05-18T16:53:28.910683+00:00",
       "last_seen_at": "2026-05-18T16:53:28.910683+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "McGrath Estate Agents is known for delivering exceptional customer service with integrity, transparency, and accountability. We\u2019re a team of professionals who take pride in supporting one another while consistently achieving outstanding results for our clients. We\u2019re expanding, and we\u2019re looking for..."
     },
     {
@@ -1000,6 +1143,7 @@
       "ingested_at": "2026-05-18T16:53:28.910806+00:00",
       "last_seen_at": "2026-05-18T16:53:28.910806+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Great Team. Great Systems. No Corporate Burnout. Hagen & Co Real Estate is a long-established boutique agency based in Doubleview, proudly servicing Perth's coastal suburbs since 1974. As our rent roll continues to grow, we are looking for an experienced Property Manager to join our highly supportiv..."
     },
     {
@@ -1023,8 +1167,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:24:32Z",
       "ingested_at": "2026-05-18T16:53:28.781968+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.781968+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.534063+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Your new opportunity Located in Darwin NT , the role is responsible for providing quality valuation reports in a timely manner for a diversified asset market in the residential & regional space. Excellent communication skills are required to ensure smooth and timely outcomes for clients while effect..."
     },
     {
@@ -1048,8 +1193,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:23:53Z",
       "ingested_at": "2026-05-18T16:53:28.815442+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.815442+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.565185+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About Us: Barry Plant Mildura has experienced exponential growth and are looking for a dedicated Property Manager to join our friendly team. As a trusted name in real estate, we are committed to delivering exceptional service and maintaining strong client relationships. Key Responsibilities: Efficie..."
     },
     {
@@ -1073,8 +1219,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:23:09Z",
       "ingested_at": "2026-05-18T16:53:28.816100+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.816100+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.566121+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Sales and Marketing Specialist \u2013 Residential Property Development About the Company GRW Group is a Queensland-based property development organisation specialising in residential land subdivision, master-planned communities, and large-scale development projects. The business operates across the full ..."
     },
     {
@@ -1098,9 +1245,36 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:19:59Z",
       "ingested_at": "2026-05-18T16:53:28.905489+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.905489+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.658866+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Over the last 15 years, Providence Property Group, National Buyers Agents has gained a reputation for achieving superior property results through research driven insights, meticulous property selection and the highest levels of advice and client support. As a National Group, most of our engagements ..."
+    },
+    {
+      "id": "f2233830effecfd8",
+      "source": "adzuna",
+      "external_id": "5733291180",
+      "title": "Property Manager",
+      "company": "THOMAS Professional",
+      "description": "Job Description: Property Manager Location: Stoke Poges (On-site with free parking) Hours: Monday \u2013 Friday, 9:00 AM \u2013 5:00 PM Salary: \u00a330,000 \u2013 \u00a335,000 (Experience Dependent) Are you a proactive Property Manager looking to trade the corporate grind for a high-growth, family-run agency? Do you want to manage a high-quality portfolio in a role that offers a genuine 9-to-5 balance and free parking right outside the door? An exciting opportunity has arisen for an experienced Property Manager to joi\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Stoke Poges, Slough",
+      "salary_min": 30000.0,
+      "salary_max": 35000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733291180?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733291180?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:51:16Z",
+      "ingested_at": "2026-05-18T20:20:46.279463+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.279463+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Job Description: Property Manager Location: Stoke Poges (On-site with free parking) Hours: Monday \u2013 Friday, 9:00 AM \u2013 5:00 PM Salary: \u00a330,000 \u2013 \u00a335,000 (Experience Dependent) Are you a proactive Property Manager looking to trade the corporate grind for a high-growth, family-run agency? Do you want t..."
     },
     {
       "id": "84a2c63d11ac49c4",
@@ -1125,6 +1299,7 @@
       "ingested_at": "2026-05-18T16:53:28.512463+00:00",
       "last_seen_at": "2026-05-18T16:53:28.512463+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Property Inspections Clerk - Residential Lettings - Upminster Role Overview We are seeking a detail-oriented and proactive Property Inspections Clerk to join a busy Residential Lettings team based in Upminster. This is a field-based role, with the majority of the working day spent visiting residenti..."
     },
     {
@@ -1150,6 +1325,7 @@
       "ingested_at": "2026-05-18T16:53:28.512535+00:00",
       "last_seen_at": "2026-05-18T16:53:28.512535+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Lettings Manager Salary: c\u00a335k basic depending upon knowledge and experience OTE \u00a340-45k Hours: Monday to Friday 09.00 am \u2013 5.30 pm (occasional Saturdays, once every 2-3 months) Job Overview We are seeking an experienced Lettings Manager to oversee the lettings department and manage client relations..."
     },
     {
@@ -1175,6 +1351,7 @@
       "ingested_at": "2026-05-18T16:53:28.480409+00:00",
       "last_seen_at": "2026-05-18T16:53:28.480409+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Property Manager - Residential Lettings Role Overview We are seeking a proactive and customer-focused Property Manager to join a Residential Lettings team. This is a hybrid position offering flexibility following successful completion of probation. After this period, the majority of work can be unde..."
     },
     {
@@ -1198,8 +1375,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T17:03:39Z",
       "ingested_at": "2026-05-18T16:53:28.542022+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.542022+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.303536+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Our client Somerset Council is looking for an Estates Surveyor to join their team. Responsibilities Delivery of the council transfer and disposal programmes ensuring full compliance with section (Apply online only) LG Act. Help deliver councils Strategic Asset Management Plan ensuring council has th..."
     },
     {
@@ -1223,8 +1401,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T16:51:10Z",
       "ingested_at": "2026-05-18T16:53:28.527768+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.527768+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.265339+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "In House Property and Lettings Manager Are you a commercially minded property professional who can take control of a busy portfolio, make decisions quickly, and keep standards high? We\u2019re recruiting for a privately owned country estate near Hertford seeking an experienced Property and Lettings Manag..."
     },
     {
@@ -1250,6 +1429,7 @@
       "ingested_at": "2026-05-18T16:53:28.542769+00:00",
       "last_seen_at": "2026-05-18T16:53:28.542769+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "We are seeking an experienced Commercial Property Manager for an RICS professional property practice in City of London (EC4) which has a strong focus on asset management, to help manage a mixed commercial portfolio and develop landlord relationships. Worth Recruiting \u2013 Property Industry Recruitment ..."
     },
     {
@@ -1273,8 +1453,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T16:35:15Z",
       "ingested_at": "2026-05-18T16:53:28.561972+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.561972+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.312575+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "We are currently recruiting for a Housing Management Administrator to join a busy Housing Management team based in Coalville, Leicestershire. This role will act as the first point of contact for tenants and customers, providing advice and administrative support across a range of housing management m..."
     },
     {
@@ -1300,7 +1481,34 @@
       "ingested_at": "2026-05-18T16:53:28.543041+00:00",
       "last_seen_at": "2026-05-18T16:53:28.543041+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "WANTED! Experienced Lettings Manager If you have superb Lettings industry listing skills and are based in London, then this Residential Lettings Manager role could be a sensational career developing opportunity for you! Worth Recruiting \u2013 Property Industry Recruitment Job Title: Lettings Manager Sec..."
+    },
+    {
+      "id": "36d9aaea16b5a705",
+      "source": "adzuna",
+      "external_id": "5733302500",
+      "title": "Showing Agent",
+      "company": "Team Relevate",
+      "description": "Job Description Job Description Our top real estate team is looking for a top-notch showing agent to join our team. We have more buyers than we can handle and need assistance with showing our active buyers homes and getting them to the offer stage of the transaction. We will provide every client for you - you won\u2019t be making cold calls or lead-generating. You will earn a portion of the commissions from closings by providing great customer care during showings. You will work hand in hand with ou\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "",
+      "location": "Denver, Colorado",
+      "salary_min": 50000.0,
+      "salary_max": 100000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302500?se=2lt68-1S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=0A1C6EDC2A6703041C4D613A3577E63A8F70FF66",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302500?se=2lt68-1S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=0A1C6EDC2A6703041C4D613A3577E63A8F70FF66",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:09:01Z",
+      "ingested_at": "2026-05-18T20:20:46.171023+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.171023+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Job Description Job Description Our top real estate team is looking for a top-notch showing agent to join our team. We have more buyers than we can handle and need assistance with showing our active buyers homes and getting them to the offer stage of the transaction. We will provide every client for..."
     },
     {
       "id": "6b60a727b7e642cf",
@@ -1323,8 +1531,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T14:52:55Z",
       "ingested_at": "2026-05-18T16:53:28.562196+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.562196+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.313428+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "We are currently recruiting for a Housing Management Administrator to join a busy Housing Management team based in Coalville, Leicestershire. This role will act as the first point of contact for tenants and customers, providing advice and administrative support across a range of housing management m..."
     },
     {
@@ -1348,9 +1557,36 @@
       "company_logo": null,
       "posted_at": "2026-05-18T14:52:42Z",
       "ingested_at": "2026-05-18T16:53:28.528023+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.528023+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.266075+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "In House Property and Lettings Manager Are you a commercially minded property professional who can take control of a busy portfolio, make decisions quickly, and keep standards high? We\u2019re recruiting for a privately owned country estate near Hertford seeking an experienced Property and Lettings Manag..."
+    },
+    {
+      "id": "d95957fdb0900530",
+      "source": "adzuna",
+      "external_id": "5733289146",
+      "title": "Workplace Facilities Engineer - Onsite Manhattan, NYC",
+      "company": "Santander Holdings USA Inc",
+      "description": "It Starts Here:Santander is a global leader and innovator in the financial services industry and is evolving from a high-impact brand into a technology-driven organization. Our people are at the heart of this journey and together, we are driving a customer-centric transformation that values bold thinking, innovation, and the courage to challenge what\u2019s possible. This is more than a strategic shift. It\u2019s a chance for driven professionals to grow, learn, and make a real difference. If you are int\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "",
+      "location": "New York City, New York",
+      "salary_min": 81914.62,
+      "salary_max": 81914.62,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733289146?se=FgZQ_OxS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F5BE3808156E091FF68A9324D18965135B3DFDF3",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733289146?se=FgZQ_OxS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F5BE3808156E091FF68A9324D18965135B3DFDF3",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:45:55Z",
+      "ingested_at": "2026-05-18T20:20:46.083505+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.083505+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "It Starts Here:Santander is a global leader and innovator in the financial services industry and is evolving from a high-impact brand into a technology-driven organization. Our people are at the heart of this journey and together, we are driving a customer-centric transformation that values bold thi..."
     },
     {
       "id": "ca809267dded4450",
@@ -1373,8 +1609,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T13:43:30Z",
       "ingested_at": "2026-05-18T16:53:28.613223+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.613223+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.367474+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Are you an experienced construction sector professional looking to lead high-profile capital projects that make a real difference to local communities? We\u2019re looking for a dynamic and commercially minded Property Projects Manager to lead our Corporate Property Services Projects Team and deliver a di..."
     },
     {
@@ -1398,9 +1635,88 @@
       "company_logo": null,
       "posted_at": "2026-05-18T13:10:21Z",
       "ingested_at": "2026-05-18T16:53:28.610003+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.610003+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.363216+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Office Manager (Maternity Cover 12-14 months) Clerkenwell, London Start as soon as possible. We\u2019re looking for an organised and proactive Office Manager to join our friendly real estate business on a maternity cover contract. Someone with property background would be preferred but not essential. Thi..."
+    },
+    {
+      "id": "98648b583656f528",
+      "source": "adzuna",
+      "external_id": "5733273432",
+      "title": "Property Superintendent/ Handyman",
+      "company": "PHANTOM CAPITAL LLC",
+      "description": "Phantom Capital is seeking a Full-Time Property Superintendent/ HANDS-ON Property Manager to become a part of our team. We are a growing multi-family investment firm looking for a full time superintendent/property manager to maintain and manage our properties across the tri-state area. Must have prior experience in construction, property management, and be proficient in elements of plumbing and electrical work. Most important is a commitment and willingness to grow and thrive within a company a\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Allenwood, Nassau County",
+      "salary_min": 50000.0,
+      "salary_max": 75000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733273432?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733273432?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T12:57:03Z",
+      "ingested_at": "2026-05-18T20:20:46.171427+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.171427+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Phantom Capital is seeking a Full-Time Property Superintendent/ HANDS-ON Property Manager to become a part of our team. We are a growing multi-family investment firm looking for a full time superintendent/property manager to maintain and manage our properties across the tri-state area. Must have pri..."
+    },
+    {
+      "id": "749a2d373d2a27a0",
+      "source": "adzuna",
+      "external_id": "5733271626",
+      "title": "ASSISTANT PROPERTY MANAGER",
+      "company": "TEXAS PRIME REAL ESTATE",
+      "description": "Job brief We are looking for an Assistant Property Manager to join our team to support the day-to-day operations of our residents, support staff and general operations of our real estate business. Real Estate License Required An Assistant Property Manager\u2019s responsibilities include reporting any issues or concerns regarding buildings, basic bookkeeping to keep track of funds efficiently and maintaining relationships between staff members and tenants alike by attending weekly management meetings\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "College Station, Brazos County",
+      "salary_min": 35360.0,
+      "salary_max": 35360.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733271626?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733271626?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T12:55:00Z",
+      "ingested_at": "2026-05-18T20:20:46.080160+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.080160+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Job brief We are looking for an Assistant Property Manager to join our team to support the day-to-day operations of our residents, support staff and general operations of our real estate business. Real Estate License Required An Assistant Property Manager\u2019s responsibilities include reporting any iss..."
+    },
+    {
+      "id": "c6c5d24249045790",
+      "source": "adzuna",
+      "external_id": "5733263120",
+      "title": "Valuations Analyst",
+      "company": "House Buyers of America",
+      "description": "Job Description Job Description Valuations Analyst- 100% Remote House Buyers of America is looking for a 100% remote Valuations Analyst (VA) who will be responsible for valuing prospective deals and determining a scope of work for properties we acquire. The VA must be able to determine a reliable estimate of market value for prospective deals to be used by House Buyers of America in determining whether to acquire a residential property. In addition to acquisitions, the VA must also be able to d\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "",
+      "location": "Tampa, Hillsborough County",
+      "salary_min": 61155.98,
+      "salary_max": 61155.98,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733263120?se=2lt68-1S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=681E9939741C2CE5B2C7FC9910C2D216A81D4E15",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733263120?se=2lt68-1S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=681E9939741C2CE5B2C7FC9910C2D216A81D4E15",
+      "company_logo": null,
+      "posted_at": "2026-05-18T12:30:27Z",
+      "ingested_at": "2026-05-18T20:20:46.171715+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.171715+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Job Description Job Description Valuations Analyst- 100% Remote House Buyers of America is looking for a 100% remote Valuations Analyst (VA) who will be responsible for valuing prospective deals and determining a scope of work for properties we acquire. The VA must be able to determine a reliable es..."
     },
     {
       "id": "1c4aafb8066d0fdd",
@@ -1423,8 +1739,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T12:14:41Z",
       "ingested_at": "2026-05-18T16:53:28.387304+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.387304+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.113728+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful c..."
     },
     {
@@ -1448,8 +1765,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T11:15:40Z",
       "ingested_at": "2026-05-18T16:53:28.467953+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.467953+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.173330+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "The Senior Director, Affordable Housing provides strategic leadership and oversight for the divisions Affordable Housing programs and Housing and Urban Development (HUD) Communities. This role is responsible for leading and developing associates, driving superior operational excellence, financial pe..."
     },
     {
@@ -1473,8 +1791,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T11:00:57Z",
       "ingested_at": "2026-05-18T16:53:28.610191+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.610191+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.364034+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Associate Director Private Consultancy Birmingham, UK \u00a365,000 per annum Carrington West are pleased to be working with a leading multi-disciplinary real estate company based in Birmingham, renowned for its innovative approach and exceptional service. With an in-house planning team, they provide comp..."
     },
     {
@@ -1498,8 +1817,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T10:04:17Z",
       "ingested_at": "2026-05-18T16:53:28.388997+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.388997+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.173370+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "It Starts Here: Santander is a global leader and innovator in the financial services industry and is evolving from a high-impact brand into a technology-driven organization. Our people are at the heart of this journey and together, we are driving a customer-centric transformation that values bold th..."
     },
     {
@@ -1523,8 +1843,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T09:16:40Z",
       "ingested_at": "2026-05-18T16:53:28.457714+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.457714+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.155592+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Job Overview: Real Estate Manager - DSD Infrastructure Position Overview: The Real Estate Manager supports the DSD Infrastructure team by executing real estate strategies across the warehouse and distribution network. This role focuses on lease management, property assessments, landlord negotiations..."
     },
     {
@@ -1548,8 +1869,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T06:28:37Z",
       "ingested_at": "2026-05-18T16:53:28.468564+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.468564+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.177001+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "JTB Apartments in Jacksonville, FL has an opening for a full-time, Maintenance Technician! (www.liveatjtb.com) We offer full-time employees health benefits, paid vacation and sick time, 401K with a company match, and company-paid life insurance. We also offer tuition reimbursement and significant ap..."
     },
     {
@@ -1573,8 +1895,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T06:21:24Z",
       "ingested_at": "2026-05-18T16:53:28.370425+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.370425+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.066896+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Job Description The Executive Director (ED) provides overall strategic, operational, and financial leadership for HFH7RM, working in close partnership with the Board of Directors, staff, volunteers, and community partners. The ED advances the mission through effective program oversight, innovative f..."
     },
     {
@@ -1600,6 +1923,7 @@
       "ingested_at": "2026-05-18T16:53:28.410972+00:00",
       "last_seen_at": "2026-05-18T16:53:28.410972+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "CC Apartment Management LLC is recognized as an industry leader in management and real estate operations. Our team manages the day-to-day operations of over 23,000 residential dwelling units across approximately 400 multi-family buildings throughout the New York Tri-state area. The CC portfolio cont..."
     },
     {
@@ -1623,8 +1947,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T05:56:13Z",
       "ingested_at": "2026-05-18T16:53:28.672168+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.672168+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.419474+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Benefits: Company parties Health insurance Paid time off About The Company: For more than 20 years, Rockport has been developing, building, and managing commercial facilities in Winnipeg. Over the last 5 years weve expanded into the luxury rental market. Rockport is c..."
     },
     {
@@ -1648,8 +1973,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T05:50:52Z",
       "ingested_at": "2026-05-18T16:53:28.672188+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.672188+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.419499+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Title: Resident Experience & Retention Manager Primary Location: Vancouver, BC Job Status: Full-Time, Permanent Company Overview: Pacific Cove Properties is a BC-owned and operated property management and development company providing rental accommodation to almost 30..."
     },
     {
@@ -1675,6 +2001,7 @@
       "ingested_at": "2026-05-18T16:53:28.469794+00:00",
       "last_seen_at": "2026-05-18T16:53:28.469794+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "It Starts Here: Santander is a global leader and innovator in the financial services industry and is evolving from a high-impact brand into a technology-driven organization. Our people are at the heart of this journey and together, we are driving a customer-centric transformation that values bold th..."
     },
     {
@@ -1700,6 +2027,7 @@
       "ingested_at": "2026-05-18T16:53:28.470114+00:00",
       "last_seen_at": "2026-05-18T16:53:28.470114+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Location: Boise / Treasure Valley (with portfolio expansion) Reports to: Owner / Principal Manages: Property managers (internal or third-party), vendors, leasing partners Role Summary The Real Estate Manager is responsible for end-to-end ownership execution of the real estate portfolio, spanning ind..."
     },
     {
@@ -1725,6 +2053,7 @@
       "ingested_at": "2026-05-18T16:53:28.470162+00:00",
       "last_seen_at": "2026-05-18T16:53:28.470162+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Description Position at LINK Property Management Property: Lakeshore Cove Are you looking for a dynamic position with an industry leader in multi-family apartment property management? Come grow with LINK! Why LINK? At LINK, we lead with purpose, create a culture we love, and never stop seeking new w..."
     },
     {
@@ -1748,8 +2077,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T00:31:09Z",
       "ingested_at": "2026-05-18T16:53:28.334301+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.334301+00:00",
+      "last_seen_at": "2026-05-18T20:20:45.981891+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Job Description Job Description Senior Architectural Project Manager If you're an Architectural Project Manager with multifamily and Revit experience, please read on! $125k - $160k  annual bonus  project bonus Competitive Salary DOE, Benefits, 401k Match, Bonus We're a well-respected and prestigious..."
     },
     {
@@ -1773,8 +2103,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:47:30Z",
       "ingested_at": "2026-05-18T16:53:28.691219+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.691219+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.452842+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "CLV Group is redefining what a Canadian real estate platform can be. As an integrated investor, developer, and operator, we acquire, transform, and manage real estate assets at scale. Our model combines disciplined capital allocation, bold redevelopment strategies, and operational excellence to gene..."
     },
     {
@@ -1798,8 +2129,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:39:21Z",
       "ingested_at": "2026-05-18T16:53:28.746057+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.746057+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.496323+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "About the Role We are seeking a Manager, Asset Management to oversee a national portfolio of multi-residential properties. This role is responsible for driving asset-level performance, executing business plans, and supporting capital allocation decisions across a portfolio of approximately 12,000 \u2013 ..."
     },
     {
@@ -1823,8 +2155,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:31:23Z",
       "ingested_at": "2026-05-18T16:53:28.746244+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.746244+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.496450+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Description SUMMARY The Property Manager position supports and assists in the management of commercial real estate in accordance with the Management Agreements. The Property Manager is involved in all aspects of day-to-day operations of the property, including accounting, tenant relations, maintenan..."
     },
     {
@@ -1848,8 +2181,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T15:44:56Z",
       "ingested_at": "2026-05-18T16:53:28.611026+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.611026+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.364251+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Night Resident Experience Assistant - Birmingham - \u00a330,000 per annum My client, a globally established and leading Real Estate Agency, are currently seeking a Night Resident Experience Assistant to join their brand-new luxury residential Build-to-Rent development in Birmingham compromising of 667 ap..."
     },
     {
@@ -1873,8 +2207,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T15:44:56Z",
       "ingested_at": "2026-05-18T16:53:28.611051+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.611051+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.364261+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Resident Experience Assistant - Birmingham - \u00a330,000 per annum My client, a globally established and leading Real Estate Agency, are currently seeking a Resident Experience Assistant to join their brand-new luxury residential Build-to-Rent development in Birmingham compromising of 667 apartments. Yo..."
     },
     {
@@ -1898,8 +2233,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T05:44:42Z",
       "ingested_at": "2026-05-18T16:53:28.398840+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.398840+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.096230+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Position: Assistant Community Manager: Reports to Community Manager: POSITION SUMMARY: The Assistant Community Manager assists the Community Manager in overseeing the day-to-day operations of an apartment community and performs a variety of duties, including, but not limited to, administration, leas..."
     },
     {
@@ -1923,8 +2259,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T05:42:18Z",
       "ingested_at": "2026-05-18T16:53:28.746290+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.746290+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.496489+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Salary: *Please note that this is a full-time in person role in Burlington *NEW GRADUATES! We strongly welcome you to apply! CLV Group is redefining what a Canadian real estate platform can be. As an integrated investor, developer, and operator, we acquire, transform,..."
     },
     {
@@ -1948,8 +2285,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T05:35:26Z",
       "ingested_at": "2026-05-18T16:53:28.746383+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.746383+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.496553+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Salary: CLV Group is redefining what a Canadian real estate platform can be. As an integrated investor, developer, and operator, we acquire, transform, and manage real estate assets at scale. Our model combines disciplined capital allocation, bold redevelopment strate..."
     },
     {
@@ -1973,8 +2311,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T05:33:34Z",
       "ingested_at": "2026-05-18T16:53:28.691386+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.691386+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.453001+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Salary: CLV Group is redefining what a Canadian real estate platform can be. As an integrated investor, developer, and operator, we acquire, transform, and manage real estate assets at scale. Our model combines disciplined capital allocation, bold redevelopment strate..."
     },
     {
@@ -1998,8 +2337,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T04:32:07Z",
       "ingested_at": "2026-05-18T16:53:28.674741+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.674741+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.420935+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Title: Resident Experience & Retention Manager Primary Location: Vancouver, BC Job Status: Full-Time, Permanent Company Overview: Pacific Cove Properties is a BC-owned and operated property management and development company providing rental accommodation to almost 3000 families and individuals in c..."
     },
     {
@@ -2023,8 +2363,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T03:50:01Z",
       "ingested_at": "2026-05-18T16:53:28.336220+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.336220+00:00",
+      "last_seen_at": "2026-05-18T20:20:45.985278+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Responsible for managing the Property Management staff and overseeing a substantial portfolio of properties, while serving as the primary liaison for third-party relationships. ESSENTIAL FUNCTIONS AND RESPONSIBILITIES: Direct, coordinate, and exercise functional responsibility for the property manag..."
     },
     {
@@ -2048,9 +2389,36 @@
       "company_logo": null,
       "posted_at": "2026-05-16T21:46:05Z",
       "ingested_at": "2026-05-18T16:53:28.611913+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.611913+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.365347+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Title: Property Manager Location: Aylesbury Brand : Alexander & Co Salary : up to \u00a329,200 OTE Hours : Monday - Friday 8:30am - 5:30pm About Alexander & Co: Alexander & Co. specialise in residential lettings, sales and property management. We understand how much property means to our clients, so ..."
+    },
+    {
+      "id": "16d2e0b4b78b6739",
+      "source": "adzuna",
+      "external_id": "5731569116",
+      "title": "Senior Manager - Transaction Execution",
+      "company": "Public Sector Resourcing CWS",
+      "description": "Senior Manager - Transaction Execution - Structured Real Estate Finance Homes England | National Housing Bank \u00a359,631 - \u00a379,464 | Location: Hybrid 50/50 Our new Headquarters are in Leeds but colleagues can be based in any of our offices (Leeds, Newcastle, Manchester, Liverpool, Birmingham, Bristol, Northstowe, London) Homes England is launching the National Housing Bank, a new government-backed investment platform to accelerate housing delivery across England. With \u00a316bn in capital, it will unl\u2026",
+      "category": "Property Jobs",
+      "tags": [
+        "property-jobs"
+      ],
+      "job_type": "",
+      "location": "Leeds, West Yorkshire",
+      "salary_min": 75000.0,
+      "salary_max": 75000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5731569116?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5731569116?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-16T18:25:57Z",
+      "ingested_at": "2026-05-18T20:20:46.365469+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.365469+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Senior Manager - Transaction Execution - Structured Real Estate Finance Homes England | National Housing Bank \u00a359,631 - \u00a379,464 | Location: Hybrid 50/50 Our new Headquarters are in Leeds but colleagues can be based in any of our offices (Leeds, Newcastle, Manchester, Liverpool, Birmingham, Bristol, ..."
     },
     {
       "id": "ca38d1f520e51da7",
@@ -2073,8 +2441,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T17:55:42Z",
       "ingested_at": "2026-05-18T16:53:28.529875+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.529875+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.268743+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "At KFH we are looking for a Branch Coordinator to join our Sales and Lettings team. Who are we? At KFH, part of the Lomond group, we are London\u2019s largest property services group, and we are growing! KFH\u2019s range of property services are made up of sales, lettings, block management, survey, and financ..."
     },
     {
@@ -2098,8 +2467,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T17:54:50Z",
       "ingested_at": "2026-05-18T16:53:28.612153+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.612153+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.365972+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "When you join Hines, you will work alongside innovative leaders who set the standards responsible for our reputation as an industry leader today, and you\u2019ll be a part of shaping our future in the years to come. Helix - A Hines Company Helix is a specialist property management company established in ..."
     },
     {
@@ -2123,8 +2493,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T17:44:55Z",
       "ingested_at": "2026-05-18T16:53:28.746635+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.746635+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.496688+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Overview As one of the fastest growing cities in Canada, City of Surrey is a globally recognized leader in building vibrant, sustainable communities through technology and innovation. City of Surrey employees are talented innovators, inspired by meaningful work and the opportunity to drive our city ..."
     },
     {
@@ -2148,8 +2519,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:29:05Z",
       "ingested_at": "2026-05-18T16:53:28.747848+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.747848+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.497025+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Leasing Consultant Vancouver (On-Site) $50,000 - $55,000  5% Bonus  Commission, Pension, & More ABOUT US At STRIVE Recruitment, we are a passionate team of recruitment professionals who specialize in Accounting, Finance, Operations, Corporate Administration and Technology recruitment. We work closel..."
     },
     {
@@ -2175,6 +2547,7 @@
       "ingested_at": "2026-05-18T16:53:28.612652+00:00",
       "last_seen_at": "2026-05-18T16:53:28.612652+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Senior Manager - Transaction Execution - Structured Real Estate Finance Homes England | National Housing Bank \u00a359,631 - \u00a379,464 | Location: Hybrid 50/50 Our new Headquarters are in Leeds but colleagues can be based in any of our offices (Leeds, Newcastle, Manchester, Liverpool, Birmingham, Bristol, ..."
     },
     {
@@ -2198,8 +2571,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T09:46:47Z",
       "ingested_at": "2026-05-18T16:53:28.612709+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.612709+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.366379+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "5 year PQE Commercial Property Solicitor role in central London. Hybrid working, You will manage a diverse portfolio of high-quality commercial property matters while playing a key role in supporting the continued growth and success of the department. You will work across matters such as acquisition..."
     },
     {
@@ -2223,8 +2597,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T05:31:24Z",
       "ingested_at": "2026-05-18T16:53:28.663393+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.663393+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.413124+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Salary: $130,000-$140,000 Who We Are Centurion Asset Management Inc. is a recognized leader in the Investment and Property Management industries. Providing quality investments and housing for all its clients, our experienced team comprised of more than 435 Employees i..."
     },
     {
@@ -2250,6 +2625,7 @@
       "ingested_at": "2026-05-18T16:53:28.612961+00:00",
       "last_seen_at": "2026-05-18T16:53:28.612961+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Entity: People, Culture & Communications Job Family Group: Business Support Group Job Description: This is a hybrid role that requires 3 days per week in the office, with 2 days per week from home. Our purpose is to deliver energy to the world, today and tomorrow. For over 100 years, bp has focused ..."
     },
     {
@@ -2273,8 +2649,9 @@
       "company_logo": null,
       "posted_at": "2026-05-12T22:15:11Z",
       "ingested_at": "2026-05-18T16:53:28.579381+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.579381+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.332508+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "A renowned property developer with a pipeline exceeding \u00a3430m GDV in Manchester City Centre and other key UK Cities is seeking a skilled Development Surveyor to join their dynamic team. This role presents a unique opportunity to contribute to the delivery of residential projects, including new Build..."
     },
     {
@@ -2298,8 +2675,9 @@
       "company_logo": null,
       "posted_at": "2026-05-10T05:40:03Z",
       "ingested_at": "2026-05-18T16:53:28.720111+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.720111+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.475362+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Job Title: Leasing Agent- Residential Primary Location: Abbotsford, BC Job status: FT, Hourly Company Overview: Pacific Cove Properties is a BC-owned and operated property management and development company providing rental accommodation to almost 3000 families and in..."
     }
   ]

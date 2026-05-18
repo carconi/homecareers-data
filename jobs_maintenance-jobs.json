@@ -1,7 +1,267 @@
 {
   "category": "Maintenance Jobs",
-  "total": 103,
+  "total": 128,
   "jobs": [
+    {
+      "id": "d59b53efd31aaa34",
+      "source": "adzuna",
+      "external_id": "5733338935",
+      "title": "GREENKEEPER",
+      "company": "West Beach Parks",
+      "description": "Who we are The Pat GC is one of Adelaide\u2019s most exciting and progressive public golf destinations, offering a modern, inclusive, and community-focused approach to the game. Located within the iconic West Beach Parks precinct, The Pat GC combines quality facilities with a relaxed coastal atmosphere that makes golf accessible and enjoyable for everyone. The park features an 18-hole championship course (The Patawalonga), a 15-hole short course, a state-of-the-art driving range with advanced TrackM\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Adelaide CBD, Adelaide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733338935?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F8FDA0C41EC16F31CD95FFDE4498843193E73D1F",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733338935?se=IvU5s_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=F8FDA0C41EC16F31CD95FFDE4498843193E73D1F",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:15:08Z",
+      "ingested_at": "2026-05-18T20:20:46.642477+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.642477+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Who we are The Pat GC is one of Adelaide\u2019s most exciting and progressive public golf destinations, offering a modern, inclusive, and community-focused approach to the game. Located within the iconic West Beach Parks precinct, The Pat GC combines quality facilities with a relaxed coastal atmosphere t..."
+    },
+    {
+      "id": "a6641347db09bc16",
+      "source": "adzuna",
+      "external_id": "5733337104",
+      "title": "Tyre Technician",
+      "company": "Bob Jane T-Marts",
+      "description": "About the role As a Tyre Technician at BOB JANE T-MARTS MOONAH, you will play a crucial role in providing top-quality automotive services to our customers. This is a full-time position based in our Moonah, Tasmania location. You will be responsible for the repair, maintenance, and replacement of tyres, ensuring our customers' vehicles are safe and road-ready. What you'll be doing Inspect, diagnose, and repair a variety of tyre-related issues Perform tyre rotations, balancing, and alignment to m\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "North Hobart, Hobart",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733337104?se=ymuCzvZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=0F43AD28B55D543BBCF7BECE99C8412AF9C00A93",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733337104?se=ymuCzvZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=0F43AD28B55D543BBCF7BECE99C8412AF9C00A93",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:13:49Z",
+      "ingested_at": "2026-05-18T20:20:46.653561+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.653561+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "About the role As a Tyre Technician at BOB JANE T-MARTS MOONAH, you will play a crucial role in providing top-quality automotive services to our customers. This is a full-time position based in our Moonah, Tasmania location. You will be responsible for the repair, maintenance, and replacement of tyr..."
+    },
+    {
+      "id": "24e872fc5edf0b99",
+      "source": "adzuna",
+      "external_id": "5733335949",
+      "title": "Regional Aftersales Manager (Automotive/OEM)",
+      "company": "Geely Auto",
+      "description": "About Geely \u2022 Geely is a global leader in smart electric vehicles and automotive innovation. \u2022 Own iconic brands like Geely Auto, Zeekr, Volvo, Polestar, Lotus, and hold a 17% stake in Aston Martin. \u2022 With $100B assets and 140,000 employees worldwide. \u2022 A 13-year Fortune Global 500 innovator with a world-class AI cloud powerhouse and a 20-satellite network enabling safer autonomous driving. \u2022 Geely is rapidly expanding in Australia with an ambitious multi-year strategy. This means huge opportun\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Adelaide CBD, Adelaide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733335949?se=MEjtt_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=7CCF4FD952D58EB3E16067595DDF79285557BEE2",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733335949?se=MEjtt_ZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=7CCF4FD952D58EB3E16067595DDF79285557BEE2",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:13:03Z",
+      "ingested_at": "2026-05-18T20:20:46.645403+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.645403+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "About Geely \u2022 Geely is a global leader in smart electric vehicles and automotive innovation. \u2022 Own iconic brands like Geely Auto, Zeekr, Volvo, Polestar, Lotus, and hold a 17% stake in Aston Martin. \u2022 With $100B assets and 140,000 employees worldwide. \u2022 A 13-year Fortune Global 500 innovator with a ..."
+    },
+    {
+      "id": "07e2f62523af6469",
+      "source": "adzuna",
+      "external_id": "5733333241",
+      "title": "Maintenance Plumber",
+      "company": "The Plumbing Doctor",
+      "description": "Come and work for an awesome company. We only take on great people, have fun as part of a good team of like minded people. Your birthday paid off every year We love our team and we pride ourselves on making The Plumbing Doctor a great place to work. We have a great team environment and many team events each year, we love to socialise and catch up with our crew including most recently a golf day, private yacht cruise and a corporate box for the rugby league. We are planning more all the time. Im\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Bundall, Gold Coast",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733333241?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=9DAA5F805D1E02662CD9D34A04ED57A70DA07B1A",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733333241?se=2H_V4PZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=9DAA5F805D1E02662CD9D34A04ED57A70DA07B1A",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:10:00Z",
+      "ingested_at": "2026-05-18T20:20:46.659294+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.659294+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Come and work for an awesome company. We only take on great people, have fun as part of a good team of like minded people. Your birthday paid off every year We love our team and we pride ourselves on making The Plumbing Doctor a great place to work. We have a great team environment and many team eve..."
+    },
+    {
+      "id": "55d45f04020c9273",
+      "source": "adzuna",
+      "external_id": "5733330230",
+      "title": "Field Service Fitter",
+      "company": "Hitachi Construction Machinery",
+      "description": "Toowoomba, QLD, Australia Full Time - Permanent Hitachi Benefits TWO bonuses a year: Potential to earn biannual bonuses providing increased earning capacity Roster: 4 on 3 off roster with 10 hour shifts to support strong work life balance Competitive pay rate: $$$ A rewarding pay rate  potential overtime available Tool of Trade : Fully maintained trade Vehicle on offer Uniform: Generous uniform supplied Full PPE Employee Benefits: Exclusive staff discounts on Hitachi goods and service as well a\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Harristown, Toowoomba",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733330230?se=LuKw9_ZS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=3D396D8525085F53C4CB095E274874895B49DE9E",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733330230?se=LuKw9_ZS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=3D396D8525085F53C4CB095E274874895B49DE9E",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:06:08Z",
+      "ingested_at": "2026-05-18T20:20:46.666057+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.666057+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Toowoomba, QLD, Australia Full Time - Permanent Hitachi Benefits TWO bonuses a year: Potential to earn biannual bonuses providing increased earning capacity Roster: 4 on 3 off roster with 10 hour shifts to support strong work life balance Competitive pay rate: $$$ A rewarding pay rate  potential ove..."
+    },
+    {
+      "id": "3dd7affcc9c520e4",
+      "source": "adzuna",
+      "external_id": "5733329909",
+      "title": "Gardener",
+      "company": "Rockhampton Regional Council",
+      "description": "Fixed Term (12 months) / Full Time Monday to Friday, 76 hours per fortnight, 9 day fortnight Pro Rata amount of $72,814 per annum (LGIA Stream B Level 4  Site Allowance)  Superannuation Location \u2013 Gracemere Your new role Rockhampton Regional Council is seeking a motivated Gardener to become part of our Parks Operations team in Gracemere. In this role, you\u2019ll help keep our parks, gardens, and open spaces looking their best. From mowing and planting to irrigation and equipment upkeep, you\u2019ll play\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Frenchville, Rockhampton",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733329909?se=rvdgJvZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=7CFA199C22DF93180959EE7C1393A7DB7C151E84",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733329909?se=rvdgJvZS8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=7CFA199C22DF93180959EE7C1393A7DB7C151E84",
+      "company_logo": null,
+      "posted_at": "2026-05-19T06:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.597006+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.597006+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Fixed Term (12 months) / Full Time Monday to Friday, 76 hours per fortnight, 9 day fortnight Pro Rata amount of $72,814 per annum (LGIA Stream B Level 4  Site Allowance)  Superannuation Location \u2013 Gracemere Your new role Rockhampton Regional Council is seeking a motivated Gardener to become part of ..."
+    },
+    {
+      "id": "d9cef712dd83b828",
+      "source": "adzuna",
+      "external_id": "5733307835",
+      "title": "Head of Garden Maintenance",
+      "company": "Alto landscaping",
+      "description": "Position Overview The Head of Garden Maintenance will lead our maintenance division and play a key role in ensuring our gardens and properties are maintained to a consistently high standard. This role is ideal for someone with strong horticultural knowledge, leadership experience, and a genuine passion for creating and maintaining beautiful outdoor spaces. You will be responsible for managing daily maintenance operations, leading a team on-site, maintaining strong client relationships, and ensu\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "East Bowral, Bowral Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733307835?se=0lBEyvZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=9FB20225C71ABE64793F1E30123BB60EDDA2331D",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733307835?se=0lBEyvZS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=9FB20225C71ABE64793F1E30123BB60EDDA2331D",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:36:31Z",
+      "ingested_at": "2026-05-18T20:20:46.652534+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.652534+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Position Overview The Head of Garden Maintenance will lead our maintenance division and play a key role in ensuring our gardens and properties are maintained to a consistently high standard. This role is ideal for someone with strong horticultural knowledge, leadership experience, and a genuine pass..."
+    },
+    {
+      "id": "0166cfc546daf6c5",
+      "source": "adzuna",
+      "external_id": "5733304793",
+      "title": "Gardener - Handyperson",
+      "company": "Department of Education WA",
+      "description": "We are seeking to establish a pool of Gardener \u2013 Handypersons for permanent and fixed term, full-time and part-time vacancies which may arise during the 2026 school year and up to the end of Term 1, 2027. Appointments may be offered at any time for vacancies that commence during this period. Sevenoaks is a unique senior college which offers specialised pathways to Year 11 and 12 students. We were established in 2000 and continue to build on our foundation ethos to provide pathways for students \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Middle Swan, Swan Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304793?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=1C8A41A706494CCD5E55277DEDEA1364D61A3E2D",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304793?se=QiD_t_VS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=1C8A41A706494CCD5E55277DEDEA1364D61A3E2D",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:24Z",
+      "ingested_at": "2026-05-18T20:20:46.557073+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.557073+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "We are seeking to establish a pool of Gardener \u2013 Handypersons for permanent and fixed term, full-time and part-time vacancies which may arise during the 2026 school year and up to the end of Term 1, 2027. Appointments may be offered at any time for vacancies that commence during this period. Sevenoa..."
+    },
+    {
+      "id": "bbc38c1342d31308",
+      "source": "adzuna",
+      "external_id": "5733304487",
+      "title": "Maintenance and Grounds Officer",
+      "company": "Warrina Homes",
+      "description": "About Us Warrina Homes was established in 1972 and is recognised as a leading not-for-profit Aged Care provider in Adelaide. We operate four Residential Aged Care Facilities at Morphett Vale, Paradise, Campbelltown and Ingle Farm, as well as our 5 Retirement Villages. At Warrina Homes, we are committed to providing person-centred care that respects the dignity, privacy, rights, and choices of our residents. We believe in nurturing the whole person - addressing their physical, emotional, and spi\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Adelaide CBD, Adelaide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304487?se=kD9INPVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=21529ED79B3A021AC136AFD3445630B99941D38F",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304487?se=kD9INPVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=21529ED79B3A021AC136AFD3445630B99941D38F",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:07Z",
+      "ingested_at": "2026-05-18T20:20:46.510647+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.510647+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "About Us Warrina Homes was established in 1972 and is recognised as a leading not-for-profit Aged Care provider in Adelaide. We operate four Residential Aged Care Facilities at Morphett Vale, Paradise, Campbelltown and Ingle Farm, as well as our 5 Retirement Villages. At Warrina Homes, we are commit..."
+    },
+    {
+      "id": "92e6c2439289e8cf",
+      "source": "adzuna",
+      "external_id": "5733304328",
+      "title": "Motor Loss Assessor - On road & WFH",
+      "company": "AAM",
+      "description": "Motor Assessor - On Road Are you a panel and paint shop manager or estimator, or an experienced motor assessor looking for a change? Are you tired of corporate politics, boring work that leaves you unfulfilled, and the prospect of a dead-end job? If so, we would love to hear from you. We currently have a full-time position available for an on-road Motor Assessor. About the role At AAMC, you\u2019ll never be bored. You won\u2019t be stuck in a single location completing dull, repetitive work. You\u2019ll have \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Adelaide CBD, Adelaide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304328?se=hD3nKvVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=01027EB2E10F05DE984FFA5811A4D6052051AF94",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304328?se=hD3nKvVS8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=01027EB2E10F05DE984FFA5811A4D6052051AF94",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:06Z",
+      "ingested_at": "2026-05-18T20:20:46.506674+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.506674+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Motor Assessor - On Road Are you a panel and paint shop manager or estimator, or an experienced motor assessor looking for a change? Are you tired of corporate politics, boring work that leaves you unfulfilled, and the prospect of a dead-end job? If so, we would love to hear from you. We currently h..."
+    },
     {
       "id": "9c24288e0576489c",
       "source": "adzuna",
@@ -23,8 +283,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:55Z",
       "ingested_at": "2026-05-18T16:53:28.755343+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.755343+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.507604+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Field Officer Grade 1-2 Ongoing full-time opportunity Located in Bucketty Salary relative to experience, and ranges from $58,863 to $64,620  employer's contribution to superannuation Do you want your work to make a difference for NSW? Working to protect the state\u2019s environment and heritage. About th..."
     },
     {
@@ -48,8 +309,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:52Z",
       "ingested_at": "2026-05-18T16:53:28.755372+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.755372+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.507978+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Do you want your work to make a difference for NSW? Working to protect the state\u2019s environment and heritage. Field Officer Grade 3-4 Ongoing full-time opportunity Package includes base salary ($73,737 - $78,530), employer's contribution to superannuation plus 17% loading for working weekends and pub..."
     },
     {
@@ -73,8 +335,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:40Z",
       "ingested_at": "2026-05-18T16:53:28.755724+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.755724+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.508579+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Field Officer 1-2 Casual opportunity Based in Byron Bay Casual rates apply, depending on experience ($32.23 - $35.38 per hour) plus employer's contribution to superannuation and casual loading. Do you want your work to make a difference for NSW? Working to protect the state\u2019s environment and heritag..."
     },
     {
@@ -98,8 +361,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:38Z",
       "ingested_at": "2026-05-18T16:53:28.756154+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.756154+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.508886+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Senior Field Officer Grade 1-2 Aboriginal Identified Opportunity Ongoing full-time opportunity (35 hours per week) Office location \u2013 Mungo National Park The successful candidate may be eligible for remote area allowance and relocation support On-Park housing will be provided for the successful candi..."
     },
     {
@@ -123,8 +387,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:36Z",
       "ingested_at": "2026-05-18T16:53:28.756306+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.756306+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.508985+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Field Officer Grade 3-4 EBMP Ongoing full-time opportunity Located at Mathoura Salary relative to experience, and ranges from $73,737 to $78,530  employer's contribution to superannuation Do you want your work to make a difference for NSW? Working to protect the state\u2019s environment and heritage. Abo..."
     },
     {
@@ -150,6 +415,7 @@
       "ingested_at": "2026-05-18T16:53:28.901524+00:00",
       "last_seen_at": "2026-05-18T16:53:28.901524+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Field Supervisor Grade 1-2 (Bushfire Management Program) Salary relative to experience ($92,670-$99,263)  employer's contribution to superannuation Full time ongoing role Office location - Grafton Do you want your work to make a difference for NSW? Working to protect the state\u2019s environment and heri..."
     },
     {
@@ -175,6 +441,7 @@
       "ingested_at": "2026-05-18T16:53:28.756819+00:00",
       "last_seen_at": "2026-05-18T16:53:28.756819+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Do you want to work to make a difference for NSW? Working to protect the state\u2019s environment and heritage Field Officer (Grade 3-4) Package includes salary ($73,737.00 - $78,530.00), employer's contribution to superannuation and 17% loading for working weekends and public holidays Ongoing Full-time ..."
     },
     {
@@ -200,6 +467,7 @@
       "ingested_at": "2026-05-18T16:53:28.901891+00:00",
       "last_seen_at": "2026-05-18T16:53:28.901891+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Do you want to work to make a difference for NSW? Working to protect the state\u2019s environment and heritage. Field Officer (1-2) Package includes salary $58,297.00 - $64,000.00, employer's contribution to superannuation and 17% leave loading for working weekends and public holidays Ongoing Full time r..."
     },
     {
@@ -225,6 +493,7 @@
       "ingested_at": "2026-05-18T16:53:28.757077+00:00",
       "last_seen_at": "2026-05-18T16:53:28.757077+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Field Officer (Grade 1-2) Ongoing full-time opportunity x 4 positions (35 hours per week) Office location \u2013 Mount Colah and Lane Cove Salary relative to experience, and ranges from $58,863 to $64,620  employer's contribution to superannuation Do you want your work to make a difference for NSW? Worki..."
     },
     {
@@ -250,6 +519,7 @@
       "ingested_at": "2026-05-18T16:53:28.757360+00:00",
       "last_seen_at": "2026-05-18T16:53:28.757360+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Do you want to work to make a difference for NSW? Working to protect the state\u2019s environment and heritage Senior Field Officer Grade 1-2 Package includes salary from $80K pa to $85K pa  super, plus 17% loading for working weekends and public holidays Ongoing Full-time role available Role based in Ya..."
     },
     {
@@ -273,8 +543,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:21Z",
       "ingested_at": "2026-05-18T16:53:28.760105+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.760105+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.514586+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Field Supervisor - Bushfire Management Program (BMP) Full Time Ongoing 35 hours per week opportunity Office location \u2013 Tanja, South Coast NSW Salary relative to experience ($92,670-$99,263)  employer's contribution to superannuation Do you want your work to make a difference for NSW? Working to prot..."
     },
     {
@@ -300,6 +571,7 @@
       "ingested_at": "2026-05-18T16:53:28.917380+00:00",
       "last_seen_at": "2026-05-18T16:53:28.917380+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Company Description Pullman is a five-star hotel, with premium facilities including, gym, swimming pool, sauna, car park and two kitchens which look after PARC Brasserie & Bar, Executive Club Lounge, In Room Dining, and a growing conference and events department. We seek out those who do what\u2019s righ..."
     },
     {
@@ -325,6 +597,7 @@
       "ingested_at": "2026-05-18T16:53:28.811218+00:00",
       "last_seen_at": "2026-05-18T16:53:28.811218+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Vestas have an exciting opportunity available at Golden Plains Wind Farm for a full time and long-term Electrical Service Technician. Are you interested in electricity, mechanics, and hydraulics? Do you want to play an important part in keeping our wind turbines running? Do you want to contribute to..."
     },
     {
@@ -348,8 +621,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:46Z",
       "ingested_at": "2026-05-18T16:53:28.834024+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.834024+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.582222+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "About Evolve Environmental Solutions Evolve Environmental are a revegetation and environmental regeneration company specialising in natural areas restoration. Being particularly active within Regional Queensland, Brisbane and the Sunshine Coast, we work with local governments, developers and busines..."
     },
     {
@@ -375,6 +649,7 @@
       "ingested_at": "2026-05-18T16:53:28.837901+00:00",
       "last_seen_at": "2026-05-18T16:53:28.837901+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "About the role: We are seeking an experienced and motivated Contract Supervisor to join our team in Golden Grove. Reporting to the Contracts Manager, this role is responsible for planning, coordinating and overseeing field crews undertaking grounds maintenance works on defence sites. This is a hands..."
     },
     {
@@ -398,8 +673,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:24:03Z",
       "ingested_at": "2026-05-18T16:53:28.914888+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.914888+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.663809+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Team Leader Field Operations (Senior Field Supervisor Grade 3) Package includes annual salary, depending on experience ($130,721-$144,050), employer\u2019s contribution to superannuation and annual leave loading Ongoing full-time position Located in Glen Innes Do you want to work to make a difference for..."
     },
     {
@@ -423,8 +699,9 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:23:15Z",
       "ingested_at": "2026-05-18T16:53:28.919622+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.919622+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.669802+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Come join the Norweld team! \u2022 Full-time 4-day work week \u2022 Be recognised and rewarded for great work \u2022 Enjoy a fun, flexible and social environment WHO WE ARE For over 50 years, Norweld has been making our customers\u2019 dreams a reality. Through extensive research and development at our head office in C..."
     },
     {
@@ -448,9 +725,166 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:22:26Z",
       "ingested_at": "2026-05-18T16:53:28.920039+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.920039+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.670391+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Maintenance Fitter - Afternoon Shift Help launch a brand-new manufacturing facility in Adelaide! 5B is expanding and opening a second manufacturing facility in Adelaide, creating exciting opportunities for skilled tradespeople to join our growing team. We\u2019re looking for an experienced Maintenance Fi..."
+    },
+    {
+      "id": "6c5d2dd70ad77f6a",
+      "source": "adzuna",
+      "external_id": "5733291255",
+      "title": "Facilities Manager",
+      "company": "Royal College of Obstetricians and Gynaecologists",
+      "description": "About the role We have an exciting opportunity for a Facilities Manger to join the Royal College of Obstetricians and Gynaecologists. This role sits within Buildings and Guest Services team based at our office 10 Union Street SE1 1SZ. The Facilities Manager plays an important role in ensuring the College\u2019s premises operate safely, efficiently and to a high standard. You will support the Director of Buildings and Guest Services in overseeing facilities operations and guest services, helping to m\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "London, UK",
+      "salary_min": 41095.0,
+      "salary_max": 41095.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5733291255?se=Lgeoq-9S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=D24D7BB0999730F8E2314F8044D92FD2821B3673",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/land/ad/5733291255?se=Lgeoq-9S8RG8Dpg80W0a8g&utm_medium=api&utm_source=3bc8f735&v=D24D7BB0999730F8E2314F8044D92FD2821B3673",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:51:21Z",
+      "ingested_at": "2026-05-18T20:20:46.350739+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.350739+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "About the role We have an exciting opportunity for a Facilities Manger to join the Royal College of Obstetricians and Gynaecologists. This role sits within Buildings and Guest Services team based at our office 10 Union Street SE1 1SZ. The Facilities Manager plays an important role in ensuring the Co..."
+    },
+    {
+      "id": "6875906c12742c17",
+      "source": "adzuna",
+      "external_id": "5733290614",
+      "title": "MOT Tester",
+      "company": "Burntmill Garage Ltd",
+      "description": "We are looking for a Full time or Part time MOT tester to join our team. Our business is based in Harlow Essex and has an exceptional reputation within the local area. Salary is negotiable based on experience Duties include - Perform MOT tests on vehicles in accordance with government regulations and VOSA standards - Inspect vehicles for safety and compliance with emissions standards - Identify and report any defects or issues found during the test - Complete necessary paperwork and documentati\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Harlow, Essex",
+      "salary_min": 35000.0,
+      "salary_max": 38000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5733290614?se=euURru9S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=546763CC552CD2B9E568E41A53CFD0E6D576265C",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/land/ad/5733290614?se=euURru9S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=546763CC552CD2B9E568E41A53CFD0E6D576265C",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:50:45Z",
+      "ingested_at": "2026-05-18T20:20:46.350986+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.350986+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "We are looking for a Full time or Part time MOT tester to join our team. Our business is based in Harlow Essex and has an exceptional reputation within the local area. Salary is negotiable based on experience Duties include - Perform MOT tests on vehicles in accordance with government regulations an..."
+    },
+    {
+      "id": "1976ad25bfb4519c",
+      "source": "adzuna",
+      "external_id": "5733289947",
+      "title": "Estates Hub Leader (West) - Wakefield",
+      "company": "Maltby Learning Trust",
+      "description": "About the Role We are seeking to appoint a proactive and organised Estates Hub Leader to provide professional leadership and operational management of facilities and estates services across our West Hub in Wakefield. The postholder will ensure the five academies in our West Hub benefit from safe, compliant, well-maintained and high-quality environments which are conducive to the learning and wellbeing of young people. An experienced and capable leader, the successful candidate will manage and q\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Roche Abbey, Maltby",
+      "salary_min": 42839.0,
+      "salary_max": 46142.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733289947?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733289947?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:48:24Z",
+      "ingested_at": "2026-05-18T20:20:46.355305+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.355305+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "About the Role We are seeking to appoint a proactive and organised Estates Hub Leader to provide professional leadership and operational management of facilities and estates services across our West Hub in Wakefield. The postholder will ensure the five academies in our West Hub benefit from safe, co..."
+    },
+    {
+      "id": "5670a2a09419a77f",
+      "source": "adzuna",
+      "external_id": "5733289534",
+      "title": "Seasonal Gardener",
+      "company": "ABM UK",
+      "description": "LOCATION: Forge Landscaping SHIFT PATTERN: Monday to Friday, 40 hours per week, Seasonal / 12 weeks PAY RATE: \u00a312.85 per hour If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com. We're here to help! About the Role We are seeking a reliable and hardworking Seasonal Gardener to support the upkeep and presentation of our shopping centre grounds. The successful candidate will help mai\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Rutherglen, South Lanarkshire",
+      "salary_min": 28508.6,
+      "salary_max": 28508.6,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733289534?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733289534?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:47:19Z",
+      "ingested_at": "2026-05-18T20:20:46.323010+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.323010+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "LOCATION: Forge Landscaping SHIFT PATTERN: Monday to Friday, 40 hours per week, Seasonal / 12 weeks PAY RATE: \u00a312.85 per hour If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com. We're..."
+    },
+    {
+      "id": "9440c819340ee301",
+      "source": "adzuna",
+      "external_id": "5733285278",
+      "title": "Contracts Manager",
+      "company": "Norse Group",
+      "description": "Grounds Operational Contracts Manager Medway \u00a352,255.24 Per annum 37 Hours per week Medway Norse is one of the biggest joint ventures within Norse Group, partnering with Medway Council to deliver a growing number of frontline public services to residents, such as Grounds Maintenance, Facilities Cleaning and Maintenance, Transport, etc. We are seeking a proven leader in Grounds and Greenspace Management industry to join our Management Team. You will lead the way in delivering all aspects of the \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Gillingham, Kent",
+      "salary_min": 50000.0,
+      "salary_max": 50000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733285278?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733285278?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:33:16Z",
+      "ingested_at": "2026-05-18T20:20:46.356491+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.356491+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Grounds Operational Contracts Manager Medway \u00a352,255.24 Per annum 37 Hours per week Medway Norse is one of the biggest joint ventures within Norse Group, partnering with Medway Council to deliver a growing number of frontline public services to residents, such as Grounds Maintenance, Facilities Clea..."
+    },
+    {
+      "id": "4fc0ffa405680c30",
+      "source": "adzuna",
+      "external_id": "5733270027",
+      "title": "Plumber",
+      "company": "Link Group Limited",
+      "description": "Plumber (Reactive Maintenance) Location: This post will be based at Link\u2019s Falkirk office, with travel required across various sites in West Scotland. Hours of Work: 39 per week, Monday to Friday The Role At C~urb, people are at the heart of everything we do. Our people have made our award-winning social enterprise the success it is today and as it continues to grow, we want them to be the best they can be and to reach their potential. C~urb is looking for an experienced Plumber to provide a hi\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Falkirk County, Scotland",
+      "salary_min": 41350.23,
+      "salary_max": 41350.23,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733270027?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733270027?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T17:43:17Z",
+      "ingested_at": "2026-05-18T20:20:46.270689+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.270689+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Plumber (Reactive Maintenance) Location: This post will be based at Link\u2019s Falkirk office, with travel required across various sites in West Scotland. Hours of Work: 39 per week, Monday to Friday The Role At C~urb, people are at the heart of everything we do. Our people have made our award-winning s..."
     },
     {
       "id": "548c3826cd283337",
@@ -475,6 +909,7 @@
       "ingested_at": "2026-05-18T16:53:28.616083+00:00",
       "last_seen_at": "2026-05-18T16:53:28.616083+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Due to growth and expansion, we have exciting opportunities for Lawn Care Operatives with GreenThumb Ltd, UK\u2019s leading provider of lawn care. For over 36 years we have been developing products such as the no scorch technology, lawn make overs and have now launched a brand new lawn treatment cycle se..."
     },
     {
@@ -498,8 +933,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T17:08:55Z",
       "ingested_at": "2026-05-18T16:53:28.545045+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.545045+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.286748+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "VEHICLE DAMAGE ASSESSOR Vehicle Damage Assessor details: Basic Salary:\u00a340,000 DOE Working Hours:Monday to Friday 8am - 5pm (42.5 hours) Location: Enfield Talented and efficient Vehicle Damage Assessor to join this leading team. Responsibilities of a Vehicle Damage Assessor \u00b7Work efficiently in a fas..."
     },
     {
@@ -523,8 +959,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T17:07:08Z",
       "ingested_at": "2026-05-18T16:53:28.545175+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.545175+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.287846+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "MET TECHNICIAN/ STRIP FITTER MET Technician / Strip Fitter details: Salary: Up To \u00a365,000  Bonus Working Hours: Location: Park Royal Talented and efficient MET Technician/ Strip Fitter to join this leading team. As a MET Technician / Strip Fitter, you will be repairing damaged vehicles in line with ..."
     },
     {
@@ -550,6 +987,7 @@
       "ingested_at": "2026-05-18T16:53:28.543948+00:00",
       "last_seen_at": "2026-05-18T16:53:28.543948+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Grounds Operational Contracts Manager Medway \u00a352,255.24 Per annum 37 Hours per week Medway Norse is one of the biggest joint ventures within Norse Group, partnering with Medway Council to deliver a growing number of frontline public services to residents, such as Grounds Maintenance, Facilities Clea..."
     },
     {
@@ -575,6 +1013,7 @@
       "ingested_at": "2026-05-18T16:53:28.606482+00:00",
       "last_seen_at": "2026-05-18T16:53:28.606482+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Site Manager You will join us as a Site Manager to pro-actively manage & take responsibility for the whole site operation. You will be responsible for the highest safety and environmental standards, HAZOP, DSEAR, ATEX control measures, and full control of change compliance. Full compliance with COMA..."
     },
     {
@@ -600,6 +1039,7 @@
       "ingested_at": "2026-05-18T16:53:28.606670+00:00",
       "last_seen_at": "2026-05-18T16:53:28.606670+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Ready to find the right role for you? Salary - \u00a314.28h (weekly paid) There is an opportunity to earn between \u00a336,000 and \u00a343,000 with all of the extras included Accommodation and meals will be paid for should you need to work away Working away rate, night rate, Chemical Services work rate, Catalyst ..."
     },
     {
@@ -623,8 +1063,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T16:16:47Z",
       "ingested_at": "2026-05-18T16:53:28.520273+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.520273+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.255409+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -648,9 +1089,140 @@
       "company_logo": null,
       "posted_at": "2026-05-18T16:00:33Z",
       "ingested_at": "2026-05-18T16:53:28.520321+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.520321+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.255455+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
+    },
+    {
+      "id": "d9e5ed411647fb04",
+      "source": "adzuna",
+      "external_id": "5733302164",
+      "title": "Maintenance Engineer III",
+      "company": "Marriott International, Inc",
+      "description": "Additional Information Job Number 26059868 Job Category Engineering & Facilities Location The Ritz-Carlton Pentagon City, 1250 S Hayes St, Arlington, Virginia, United States, 22202 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Respond and attend to guest repair requests. Communicate with guests/customers to resolve maintenance issues with little to no supervision. Perform preventive maintenance on tools and equipment, including cleaning and lub\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Crystal, Arlington County",
+      "salary_min": 96398.87,
+      "salary_max": 96398.87,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302164?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=EFFDF5F0BD480736FAC475951F4085653138E6ED",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302164?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=EFFDF5F0BD480736FAC475951F4085653138E6ED",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.180693+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180693+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Additional Information Job Number 26059868 Job Category Engineering & Facilities Location The Ritz-Carlton Pentagon City, 1250 S Hayes St, Arlington, Virginia, United States, 22202 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Respond and attend to ..."
+    },
+    {
+      "id": "a4a670fffa50a9eb",
+      "source": "adzuna",
+      "external_id": "5733302161",
+      "title": "Maintenance Engineer II",
+      "company": "Marriott International, Inc",
+      "description": "Additional Information Job Number 26060001 Job Category Engineering & Facilities Location Renaissance Dallas Hotel, 2222 N Stemmons Fwy, Dallas, Texas, United States, 75207 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $21.50-$22.05 per hour POSITION SUMMARY Respond and attend to guest repair requests. Communicate with guests/customers to resolve maintenance issues with little to no supervision. Perform preventive maintenance on tools and equipment, \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Highland Park, Dallas",
+      "salary_min": 59288.38,
+      "salary_max": 59288.38,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302161?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=E54FFBEC6E7ED24132F161389F1692B5E4F6BB95",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302161?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=E54FFBEC6E7ED24132F161389F1692B5E4F6BB95",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.180719+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180719+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Additional Information Job Number 26060001 Job Category Engineering & Facilities Location Renaissance Dallas Hotel, 2222 N Stemmons Fwy, Dallas, Texas, United States, 75207 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $21.50-$22.05 per hour POSITION SUMM..."
+    },
+    {
+      "id": "1c50a38bef77877e",
+      "source": "adzuna",
+      "external_id": "5733302162",
+      "title": "Hotel Engineer II",
+      "company": "Marriott International, Inc",
+      "description": "Additional Information Job Number 26060001 Job Category Engineering & Facilities Location Renaissance Dallas Hotel, 2222 N Stemmons Fwy, Dallas, Texas, United States, 75207 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $21.50-$22.05 per hour POSITION SUMMARY Respond and attend to guest repair requests. Communicate with guests/customers to resolve maintenance issues with little to no supervision. Perform preventive maintenance on tools and equipment, \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Highland Park, Dallas",
+      "salary_min": 60699.4,
+      "salary_max": 60699.4,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302162?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=10C8BA0D49E613428F162FFE6FF9F035D23D91FD",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302162?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=10C8BA0D49E613428F162FFE6FF9F035D23D91FD",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.180737+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180737+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Additional Information Job Number 26060001 Job Category Engineering & Facilities Location Renaissance Dallas Hotel, 2222 N Stemmons Fwy, Dallas, Texas, United States, 75207 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $21.50-$22.05 per hour POSITION SUMM..."
+    },
+    {
+      "id": "070da7f22693d9f1",
+      "source": "adzuna",
+      "external_id": "5733302163",
+      "title": "Hotel Engineer III",
+      "company": "Marriott International, Inc",
+      "description": "Additional Information Job Number 26059868 Job Category Engineering & Facilities Location The Ritz-Carlton Pentagon City, 1250 S Hayes St, Arlington, Virginia, United States, 22202 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Respond and attend to guest repair requests. Communicate with guests/customers to resolve maintenance issues with little to no supervision. Perform preventive maintenance on tools and equipment, including cleaning and lub\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Crystal, Arlington County",
+      "salary_min": 98070.66,
+      "salary_max": 98070.66,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733302163?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=3D95E17A3F6AED4E9A6FC6FD95F3946D03E0AD21",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733302163?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=3D95E17A3F6AED4E9A6FC6FD95F3946D03E0AD21",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:06:02Z",
+      "ingested_at": "2026-05-18T20:20:46.180750+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180750+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Additional Information Job Number 26059868 Job Category Engineering & Facilities Location The Ritz-Carlton Pentagon City, 1250 S Hayes St, Arlington, Virginia, United States, 22202 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management POSITION SUMMARY Respond and attend to ..."
+    },
+    {
+      "id": "d8e0a657af9f438a",
+      "source": "adzuna",
+      "external_id": "5733301031",
+      "title": "Maintenance, Engineer 4 - Full Time, $34.50/Hour",
+      "company": "Aulani, A Disney Resort & Spa",
+      "description": "Come and join the magic with Aulani, A Disney Resort and Spa! Perks and benefits may include: - 100% full coverage of healthcare for you and your eligible dependents - Tuition paid upfront at network schools - Free lunch - Free parking - Free theme park admission and much more! Performs general maintenance duties including, but not limited to, furniture, fixture, and equipment technician duties, working with small hand tools, painting, Guest room calls, drain cleaning, plumbing fixture repair, \u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "US",
+      "salary_min": 8320.0,
+      "salary_max": 71760.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733301031?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=526C4FD83DCB75C1F9FAFFAB0513023B9F1006BC",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733301031?se=BBYBBu5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=526C4FD83DCB75C1F9FAFFAB0513023B9F1006BC",
+      "company_logo": null,
+      "posted_at": "2026-05-18T15:03:53Z",
+      "ingested_at": "2026-05-18T20:20:46.180938+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180938+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Come and join the magic with Aulani, A Disney Resort and Spa! Perks and benefits may include: - 100% full coverage of healthcare for you and your eligible dependents - Tuition paid upfront at network schools - Free lunch - Free parking - Free theme park admission and much more! Performs general main..."
     },
     {
       "id": "9eddbf2b56cf63e0",
@@ -673,9 +1245,88 @@
       "company_logo": null,
       "posted_at": "2026-05-18T14:52:47Z",
       "ingested_at": "2026-05-18T16:53:28.570689+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.570689+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.323875+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Estates and Transport Compliance Manager Bolton, Greater Manchester Full time, Permanent The Birtenshaw Group is looking to appoint an Estates and Transport Compliance Manager to manage and maintain the estate and transport operations. The appointed candidate will lead on: Statutory compliance Plann..."
+    },
+    {
+      "id": "ff143194a8970500",
+      "source": "adzuna",
+      "external_id": "5733293189",
+      "title": "Bike Mechanic Secaucus NJ",
+      "company": "Unlimited Biking",
+      "description": "Who We Are Unlimited Biking is the best bike rental, tour and city experience company operating in New York, San Francisco, Washington DC, Miami, San Diego and Santa Monica. Our goal is to provide our customers with the ability to create meaningful and memorable experiences as they explore cities by bike. Who you are We feature a fleet of Hybrid, Electric and Road bikes and are looking for a Bike Mechanic to repair and perform regular maintenance on them. Your job will consist mostly of working\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "Secaucus, Hudson County",
+      "salary_min": 26101.71,
+      "salary_max": 26101.71,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733293189?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733293189?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:52:17Z",
+      "ingested_at": "2026-05-18T20:20:45.962153+00:00",
+      "last_seen_at": "2026-05-18T20:20:45.962153+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Who We Are Unlimited Biking is the best bike rental, tour and city experience company operating in New York, San Francisco, Washington DC, Miami, San Diego and Santa Monica. Our goal is to provide our customers with the ability to create meaningful and memorable experiences as they explore cities by..."
+    },
+    {
+      "id": "230acb1c3683a8ab",
+      "source": "adzuna",
+      "external_id": "5733292250",
+      "title": "Automotive Body Repair Experienced Technician near Austin TX",
+      "company": "Maaco Auto Body & Paint Shop - Pflugerville, TX",
+      "description": "Benefits: 401(k) Bonus based on performance Competitive salary Dental insurance Employee discounts Health insurance Paid time off Relocation bonus Vision insurance THIS POSITION IS IN PFLUGERVILLE, TX PLEASE CHECK YOUR COMMUTE DISTANCE. CANDIDATES MUST BE WILLING TO RELOCATE WITHIN COMMUTING DISTANCE TO AUSTIN, TX. ASSISTANCE WITH RELOCATION POSSIBLE FOR THE RIGHT CANDIDATE. Benefits/Perks Competitive Compensation (Up to $30 per Flag Hour) This is based on the number of body hours you produce p\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Stafford, Fort Bend County",
+      "salary_min": 133852.9,
+      "salary_max": 133852.9,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733292250?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733292250?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:52:09Z",
+      "ingested_at": "2026-05-18T20:20:46.083060+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.083060+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Benefits: 401(k) Bonus based on performance Competitive salary Dental insurance Employee discounts Health insurance Paid time off Relocation bonus Vision insurance THIS POSITION IS IN PFLUGERVILLE, TX PLEASE CHECK YOUR COMMUTE DISTANCE. CANDIDATES MUST BE WILLING TO RELOCATE WITHIN COMMUTING DISTANC..."
+    },
+    {
+      "id": "de3542e3d34b6227",
+      "source": "adzuna",
+      "external_id": "5733288992",
+      "title": "Maintenance Engineer - Full Time",
+      "company": "Disneyland Resort",
+      "description": "At Disney, we\u2018re storytellers. We make the impossible, possible. We do this through applying and developing groundbreaking technology and innovating to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our dedicated team that delivers unparalleled creative content to audiences around the world. \u201cWe create happiness.\u201d That\u2019s our motto at Walt Disney Parks and Resorts. And it permeates everything we do. As a Ma\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Anaheim, Orange County",
+      "salary_min": 53613.13,
+      "salary_max": 53613.13,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733288992?se=ls49C-5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=06282A123F9910E8FD16006603B378AD5D42220D",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733288992?se=ls49C-5S8RGI_uQJR_0NbQ&utm_medium=api&utm_source=3bc8f735&v=06282A123F9910E8FD16006603B378AD5D42220D",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:45:50Z",
+      "ingested_at": "2026-05-18T20:20:46.181682+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.181682+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "At Disney, we\u2018re storytellers. We make the impossible, possible. We do this through applying and developing groundbreaking technology and innovating to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our dedicat..."
     },
     {
       "id": "833518082b049606",
@@ -700,6 +1351,7 @@
       "ingested_at": "2026-05-18T16:53:28.566474+00:00",
       "last_seen_at": "2026-05-18T16:53:28.566474+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Part-Time Evening DIY & Home Maintenance Assistant Apply at UKCIL.com. Reference: d370698f We are looking for a reliable, practical, and hardworking individual to assist with a variety of home and garden tasks, DIY projects, joinery work, and general independent living support within a private home ..."
     },
     {
@@ -725,6 +1377,7 @@
       "ingested_at": "2026-05-18T16:53:28.566528+00:00",
       "last_seen_at": "2026-05-18T16:53:28.566528+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Rapid Response Operatives (Grounds Maintenance & Street Cleansing) Location: Warwick and towns/villages across Warwickshire Hourly Rate: \u00a313.31 Contract type: Permanent, full-time. Working hours: 40 hours. Wednesday to Sunday, 10:00-18:00 About the role Are you seeking a new opportunity to train wit..."
     },
     {
@@ -748,8 +1401,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T13:22:57Z",
       "ingested_at": "2026-05-18T16:53:28.520453+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.520453+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.255514+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "BBC England Security support Officer - BBC Salford & BBC Blackburn Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that m..."
     },
     {
@@ -773,9 +1427,36 @@
       "company_logo": null,
       "posted_at": "2026-05-18T13:20:45Z",
       "ingested_at": "2026-05-18T16:53:28.520469+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.520469+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.255522+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
+    },
+    {
+      "id": "58a8e855b095b678",
+      "source": "adzuna",
+      "external_id": "5733277395",
+      "title": "Environmental Services EVS Manager",
+      "company": "Old Dominion Rehabilitation and Nursing",
+      "description": "Old Dominion Rehabilitation and Nursing - Environmental Services EVS Manager Job Description The Environmental Services (EVS) Manager is responsible for developing and executing facility solutions to ensure all health and safety standards are met. Responsible for servicing and/or maintaining a physical location or site to leadership specifications. Leads the operations of facility accounts by ensuring areas of responsibility meet objectives and takes the quality and service of Laundry & Houseke\u2026",
+      "category": "Maintenance Jobs",
+      "tags": [
+        "maintenance-jobs"
+      ],
+      "job_type": "",
+      "location": "Tabb, York County",
+      "salary_min": 57506.09,
+      "salary_max": 57506.09,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733277395?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733277395?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:15:31Z",
+      "ingested_at": "2026-05-18T20:20:46.079797+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.079797+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Old Dominion Rehabilitation and Nursing - Environmental Services EVS Manager Job Description The Environmental Services (EVS) Manager is responsible for developing and executing facility solutions to ensure all health and safety standards are met. Responsible for servicing and/or maintaining a physi..."
     },
     {
       "id": "5c32f368557866c4",
@@ -800,6 +1481,7 @@
       "ingested_at": "2026-05-18T16:53:28.330895+00:00",
       "last_seen_at": "2026-05-18T16:53:28.330895+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Job Description Job Description AAMCO Transmission & Total Car Care in St Matthews is currently seeking \u200ban Automotive Technician to become an integral part of our leadership team! At AAMCO we are mastering the craft of modern automotive repair to become the best technicians in the industry. Our dyn..."
     },
     {
@@ -823,8 +1505,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T12:04:41Z",
       "ingested_at": "2026-05-18T16:53:28.366654+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.366654+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.061931+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Job Description Job Description Summary of Job The Industrial Maintenance Electrician Technician is responsible for supporting corrective maintenance (CM) , preventive maintenance (PM) , and Kaizen (continuous improvement) activities to ensure equipment reliability and optimal performance. This role..."
     },
     {
@@ -850,6 +1533,7 @@
       "ingested_at": "2026-05-18T16:53:28.328215+00:00",
       "last_seen_at": "2026-05-18T16:53:28.328215+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Job Number 26059976 Job Category Engineering & Facilities Location The St. Regis San Francisco, 125 3rd St, San Francisco, California, United States, 94103 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $66.34-$66.34 per hour POSITIO..."
     },
     {
@@ -875,6 +1559,7 @@
       "ingested_at": "2026-05-18T16:53:28.329485+00:00",
       "last_seen_at": "2026-05-18T16:53:28.329485+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Additional Information Job Number 26059261 Job Category Engineering & Facilities Location Renaissance Nashville Hotel, 611 Commerce St, Nashville, Tennessee, United States, 37203 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: $23.00-$23.00 per hour POSITIO..."
     },
     {
@@ -898,8 +1583,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T10:03:58Z",
       "ingested_at": "2026-05-18T16:53:28.477206+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.477206+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.182996+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -923,8 +1609,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T10:03:58Z",
       "ingested_at": "2026-05-18T16:53:28.477224+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.477224+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.183015+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -950,6 +1637,7 @@
       "ingested_at": "2026-05-18T16:53:28.477278+00:00",
       "last_seen_at": "2026-05-18T16:53:28.477278+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -973,8 +1661,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T10:03:55Z",
       "ingested_at": "2026-05-18T16:53:28.477380+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.477380+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.184217+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -998,8 +1687,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T10:03:54Z",
       "ingested_at": "2026-05-18T16:53:28.477411+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.477411+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.184577+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -1023,8 +1713,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T07:01:06Z",
       "ingested_at": "2026-05-18T16:53:28.478138+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.478138+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.186312+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "As a global marketing experience company, Quad\u2019s goal is to help our clients win every day. We use our data-driven integrated marketing and manufacturing platform to streamline solutions for our clients, reduce friction and enhance their marketing spend effectiveness. We\u2019ve built a rich legacy by be..."
     },
     {
@@ -1050,6 +1741,7 @@
       "ingested_at": "2026-05-18T16:53:28.410146+00:00",
       "last_seen_at": "2026-05-18T16:53:28.410146+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Responsible for the actual service and/or repair of vehicles assigned to them by service management or their designated representatives. Essential Duties and Responsibilities Properly complete the service and/or repairs for which the technician is trained as assigned by management or their designate..."
     },
     {
@@ -1073,8 +1765,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T06:17:09Z",
       "ingested_at": "2026-05-18T16:53:28.478315+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.478315+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.186446+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Hillsboro Aero Academy is looking to hire A&P Mechanics in its Redmond campus. This role involves maintaining and servicing Cessna 152s, Cessna 172s, Piper Seminoles, and Robinson helicopters in a dynamic shop environment. We are seeking skilled mechanics who can troubleshoot, perform inspections, a..."
     },
     {
@@ -1100,6 +1793,7 @@
       "ingested_at": "2026-05-18T16:53:28.469236+00:00",
       "last_seen_at": "2026-05-18T16:53:28.469236+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Traveling Maintenance Supervisor Location: Charleston, SC area Summary The Traveling Maintenance Manager will assist in maintenance operations related to the portfolio of NHE managed communities including staff recruitment and retention, staff training, negotiations with vendors and suppliers, while..."
     },
     {
@@ -1125,6 +1819,7 @@
       "ingested_at": "2026-05-18T16:53:28.411926+00:00",
       "last_seen_at": "2026-05-18T16:53:28.411926+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Responsible for the actual service and/or repair of vehicles assigned to them by service management or their designated representatives. Essential Duties and Responsibilities Properly complete the service and/or repairs for which the technician is trained as assigned by management or their designate..."
     },
     {
@@ -1148,8 +1843,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T05:51:57Z",
       "ingested_at": "2026-05-18T16:53:28.478530+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.478530+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.186666+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Hillsboro Aero Academy is looking to hire A&P Mechanics in its Redmond campus. This role involves maintaining and servicing Cessna 152s, Cessna 172s, Piper Seminoles, and Robinson helicopters in a dynamic shop environment. We are seeking skilled mechanics who can troubleshoot, perform inspections, a..."
     },
     {
@@ -1173,8 +1869,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T05:50:57Z",
       "ingested_at": "2026-05-18T16:53:28.741962+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.741962+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.494258+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Benefits: Competitive salary Health insurance Job Overview We are seeking a reliable and detail-oriented Property Maintenance Associate to join our team. This role is essential in ensuring the upkeep, safety, and functionality of our properties while supporting positi..."
     },
     {
@@ -1200,6 +1897,7 @@
       "ingested_at": "2026-05-18T16:53:28.412084+00:00",
       "last_seen_at": "2026-05-18T16:53:28.412084+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "The Automotive Technician is responsible for the actual service and/or repair of vehicles assigned to them by service management or their designated representatives. Essential Duties and Responsibilities Properly complete the service and/or repairs for which the technician is trained as assigned by ..."
     },
     {
@@ -1225,6 +1923,7 @@
       "ingested_at": "2026-05-18T16:53:28.470049+00:00",
       "last_seen_at": "2026-05-18T16:53:28.470049+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Job Title: Service Technician Department: Maintenance - Daleville Town Center Apartments Reports To: Community Director and Service Director FLSA Status: Non-Exempt Position Summary: Performs technical and mechanical work that ensures the inside and external buildings, grounds, amenities, and common..."
     },
     {
@@ -1250,6 +1949,7 @@
       "ingested_at": "2026-05-18T16:53:28.371372+00:00",
       "last_seen_at": "2026-05-18T16:53:28.371372+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Description Independent Management Services is a full-service property management and marketing firm, specializing in the revitalization of under-managed multifamily housing developments. Since our founding in 1989, we have expanded our nationwide presence to include over 100 sustainable communities..."
     },
     {
@@ -1273,8 +1973,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T03:07:24Z",
       "ingested_at": "2026-05-18T16:53:28.347212+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.347212+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.024209+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "POSITION SUMMARY The Facilities & IT Manager will be supervising several different departments. The responsibility of this role is day-to-day physical plant maintenance, operation, facilities redevelopment projects, overseeing technology & security infrastructure and support staff. Most of this role..."
     },
     {
@@ -1298,8 +1999,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T02:59:58Z",
       "ingested_at": "2026-05-18T16:53:28.471826+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.471826+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.179575+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Maintenance Manager StoryPoint Granger As a Maintenance Manager you will take on a rewarding position with an innovative company where hard work pays off and advancement is always a possibility. Required Experience State Builder\ufffds License and HVAC certification preferred; Valid driver\ufffds license requ..."
     },
     {
@@ -1323,8 +2025,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T02:50:31Z",
       "ingested_at": "2026-05-18T16:53:28.694344+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.694344+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.454466+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Maintenance Supervisor - Taber - UniFirst Canada Location: Taber, Alberta Job ID 2602395 Our Team is Kind of a Big Deal UniFirst Canada is seeking a reliable and hardworking Maintenance Supervisor to join our UniFirst community! As the Maintenance Supervisor you will ensure all facility equipment is..."
     },
     {
@@ -1348,8 +2051,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T02:50:04Z",
       "ingested_at": "2026-05-18T16:53:28.622949+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.622949+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.379619+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Additional Information Job Number 26060000 Job Category Landscaping & Grounds Location Delta Hotels Sault Ste. Marie Waterfront, 208 St Marys River Drive, Sault Ste. Marie, ONT, Canada, P6A 5V4 VIEW ON MAP (https://www.google.com/maps?q=Delta%20Hotels%20Sault%20Ste.%20Marie%20Waterfront%2C%20208%20S..."
     },
     {
@@ -1373,8 +2077,9 @@
       "company_logo": null,
       "posted_at": "2026-05-18T00:55:14Z",
       "ingested_at": "2026-05-18T16:53:28.472116+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.472116+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.179800+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Job Title Groundskeeper Agency Texas A&M University - Kingsville Department Office of Facilities, Planning, Construction, and Safety Proposed Minimum Salary Commensurate Job Location Kingsville, Texas Job Type Staff Job Description About Texas A&M University\u2013Kingsville Texas A&M University\u2013Kingsvill..."
     },
     {
@@ -1398,8 +2103,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T23:46:06Z",
       "ingested_at": "2026-05-18T16:53:28.472813+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.472813+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.180237+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Maintenance Technician Qualifications: High school graduate or equivalent. A valid Alabama Class A Commercial Driver\u2019s License (CDL). Good physical and emotional health including the ability to perform duties described in essential functions. Effective interpersonal communication skills. Such altern..."
     },
     {
@@ -1425,6 +2131,7 @@
       "ingested_at": "2026-05-18T16:53:28.472888+00:00",
       "last_seen_at": "2026-05-18T16:53:28.472888+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Job Description Job Description As a member of the property maintenance team, the Assistant Maintenance Engineer is accountable for ensuring the proper operation of the hotel. From plumbing and electrical systems to HVAC and pool maintenance, you assist with general facility upkeep. Reporting to the..."
     },
     {
@@ -1448,8 +2155,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T20:27:58Z",
       "ingested_at": "2026-05-18T16:53:28.334885+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.334885+00:00",
+      "last_seen_at": "2026-05-18T20:20:45.982909+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Pay Rate $24.76 per hour Telecommute Status Onsite Announcement PRIDE Industries is a fast-paced company with a mission: To Create Jobs for People with Disabilities while providing high quality, value-added solutions to our nationwide customers. We are currently recruiting to fill the following posi..."
     },
     {
@@ -1473,8 +2181,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:53:21Z",
       "ingested_at": "2026-05-18T16:53:28.740148+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.740148+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.491419+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "About Us We are a well-established plastic card manufacturer producing secure cards for financial, commercial, and government applications. Our products demand precision at every stage \u2014 from lamination and printing to chip embedding \u2014 and our production teams take pride in keeping things running re..."
     },
     {
@@ -1498,8 +2207,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:53:13Z",
       "ingested_at": "2026-05-18T16:53:28.752467+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.752467+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.501412+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Description POSITION SUMMARY Respond and attend to guest repair requests. Communicate with guests/customers to resolve maintenance issues. Perform preventive maintenance on tools and kitchen and mechanical room equipment, including cleaning and lubrication. Visually inspect tools, equipment, or mach..."
     },
     {
@@ -1523,8 +2233,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:52:56Z",
       "ingested_at": "2026-05-18T16:53:28.701610+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.701610+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.459191+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Introduction The Jim Pattison Auto Group is seeking a detail oriented and organized Warranty Advisor to join our Service team at Jim Pattison Lexus Northshore. This is a critical back end operational role responsible for processing warranty claims, maintaining accurate records, and supporting dealer..."
     },
     {
@@ -1548,8 +2259,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:52:44Z",
       "ingested_at": "2026-05-18T16:53:28.696902+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.696902+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.457009+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Posting Description: Maintenance Mechanic \u2013 Post and Fill (1 position) Are you looking for a role where you can work independently and solve problems? Reporting to the Maintenance Supervisor, you will maintain, and troubleshoot plant equipment and machinery. If you are a qualified licensed Millw..."
     },
     {
@@ -1573,8 +2285,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:52:24Z",
       "ingested_at": "2026-05-18T16:53:28.747862+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.747862+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.497034+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Refrigeration Mechanic (HVAC), Gas Fitter \u2018B' It is acknowledged that Central Okanagan Public Schools operates within the unceded, Traditional Territory of the Okanagan Syilx peoples. The School District enrolls approximately 24,000 students (including over 3,000 students who self-identify as having..."
     },
     {
@@ -1598,8 +2311,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:48:22Z",
       "ingested_at": "2026-05-18T16:53:28.747913+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.747913+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.497068+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "ABOUT US Barricades and Signs is the industry leader for all traffic safety needs in Western Canada. Since 2004, Barricades and Signs has experienced steady growth and can support small scale projects to large scale infrastructure needs. We offer a full range of roadside safety products and onsite t..."
     },
     {
@@ -1623,8 +2337,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:45:10Z",
       "ingested_at": "2026-05-18T16:53:28.684437+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.684437+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.431282+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Summary Primary responsibilities include rental equipment delivery/pickup, set-up/teardown, customer satisfaction and equipment inspection, repair, and maintenance. Prepares and records rental equipment and accessories delivered. Delivers equipment with the Company\ufffds rental trucks and trailers. Insp..."
     },
     {
@@ -1648,8 +2363,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:42:58Z",
       "ingested_at": "2026-05-18T16:53:28.694635+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.694635+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.454639+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Introduction We're looking for two more groundskeepers due to join our growing maintenance team at Monbeef! Description Your new day to day: Maintain grounds through mowing, watering, weed and pest control Keep outdoor areas clean, safe and free of debris Operate and maintain grounds and gardening e..."
     },
     {
@@ -1673,8 +2389,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:42:35Z",
       "ingested_at": "2026-05-18T16:53:28.684676+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.684676+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.431526+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "ROLE PURPOSE The Maintenance and Administrative Coordinator will assist in maintaining a clean and safe environment in and around the properties, both owned and leased by Connective, within their region. This may include performing a variety of interior and exterior maintenance duties. They will coo..."
     },
     {
@@ -1698,8 +2415,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:41:25Z",
       "ingested_at": "2026-05-18T16:53:28.684780+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.684780+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.431597+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Summary Primary responsibilities include rental equipment delivery/pickup, set-up/teardown, customer satisfaction and equipment inspection, repair, and maintenance. Prepares and records rental equipment and accessories delivered. Delivers equipment with the Company\ufffds rental trucks and trailers. Insp..."
     },
     {
@@ -1723,8 +2441,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:32:34Z",
       "ingested_at": "2026-05-18T16:53:28.659804+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.659804+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.409191+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Location: 1795 Main St, Moncton, New Brunswick E1E1H4 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Service Representative. As a Customer Service Representative, you will work as part of a supportive team to..."
     },
     {
@@ -1748,8 +2467,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:31:53Z",
       "ingested_at": "2026-05-18T16:53:28.673427+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.673427+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.420477+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "At Verve Senior Living, we\u2019re driven by a shared commitment to creating meaningful experiences for the older adults we serve. Our teams bring passion, creativity, and heart to everything they do, and it shows in our culture of collaboration, innovation, and continuous improvement. We\u2019re proud to hav..."
     },
     {
@@ -1773,8 +2493,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:31:16Z",
       "ingested_at": "2026-05-18T16:53:28.695426+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.695426+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.454840+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Our Team is Kind of a Big Deal! UniFirst Canada is seeking a reliable and hardworking Maintenance Supervisor to join our UniFirst community! As the Maintenance Supervisor you will ensure all facility equipment is efficiently functioning and identify areas to improve processes, procedures, maintenanc..."
     },
     {
@@ -1798,8 +2519,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:48:37Z",
       "ingested_at": "2026-05-18T16:53:28.660353+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.660353+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.409478+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Location: 156 Bluewater Rd, Bedford, Nova Scotia B4B1G9 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Service Representative. As a Customer Service Representative, you will work as part of a supportive team ..."
     },
     {
@@ -1823,8 +2545,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:46:23Z",
       "ingested_at": "2026-05-18T16:53:28.660428+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.660428+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.409576+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Location: 9521 51 Ave, Edmonton, Alberta T6E4W8 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Service Representative. As a Customer Service Representative, you will work as part of a supportive team to be th..."
     },
     {
@@ -1848,8 +2571,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:44:32Z",
       "ingested_at": "2026-05-18T16:53:28.696796+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.696796+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.456856+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Location: 156 Bluewater Rd, Bedford, Nova Scotia B4B1G9 Canada START TODAY, GET PAID TODAY! New hires eligible for BONUS! Are you organized and proactive? Do you have an eye for detail? Facility Housekeepers set the stage for U-Haul\u2019s exceptional service by keeping the U-Haul facility clean and invi..."
     },
     {
@@ -1873,8 +2597,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:41:50Z",
       "ingested_at": "2026-05-18T16:53:28.660570+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.660570+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.409762+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Compensation Range: $18.00 to $20.00 Hourly Location: 855,925 & 943 Barry Downe Rd, Sudbury, Ontario P3A 3T9 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Service Representative. As a Customer Service Repres..."
     },
     {
@@ -1898,8 +2623,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:39:39Z",
       "ingested_at": "2026-05-18T16:53:28.737384+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.737384+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.488036+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Seekers can review the Job Applicant Privacy Policy by clicking here . Job Description : About Ryder For almost 100 years, Ryder has provided customers around the world with integrated transportation, logistics, and supply chain management solutions that enhance the way they do business. Buildin..."
     },
     {
@@ -1923,8 +2649,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T13:10:31Z",
       "ingested_at": "2026-05-18T16:53:28.521289+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.521289+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256059+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -1948,8 +2675,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T13:10:30Z",
       "ingested_at": "2026-05-18T16:53:28.521309+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.521309+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256067+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "SC Cleared support officers \u00a313 PH Corporate Environments must either have or be able to obtain SC clearance must have lived in UK for 5 years to obtain days nights and weekends 12 hour shifts free company training Free Company uniform Job Overview -To protect our customer's property, people and/or ..."
     },
     {
@@ -1973,8 +2701,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T10:34:47Z",
       "ingested_at": "2026-05-18T16:53:28.612617+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.612617+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.366284+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "A leading BTR real estate company is seeking a reliable and hands-on Caretaker to join a residential estate team in Acton, West London. This is a key on-site role responsible for ensuring the estate is safe, clean, and well-presented at all times. 40 hours between Friday to Friday from 8am start to ..."
     },
     {
@@ -1998,8 +2727,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T05:33:20Z",
       "ingested_at": "2026-05-18T16:53:28.661058+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.661058+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.410561+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Growing with our community, seeking an additional Team member. Here is your Career Opportunity , it's time to join a well established, successful business with a solid reputation of integrity as an industry leading Auto Collision Centre. Waterdown Collision has been s..."
     },
     {
@@ -2023,8 +2753,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:53:49Z",
       "ingested_at": "2026-05-18T16:53:28.750331+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.750331+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.499035+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Louisiana Bridge Builders (\u201cLBB\u201d) is design ing and building the new I-10 Calcasieu River Bridge in Lake Charles, Louisiana (USA) for the Louisiana Department of Transportation and Development (LADOTD). LBB will also be responsible for the reconstruction of interstate highway, various structures, ra..."
     },
     {
@@ -2048,8 +2779,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:47:15Z",
       "ingested_at": "2026-05-18T16:53:28.661669+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.661669+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.411320+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Compensation Range: $18.00 to $20.00 Hourly Location: 2076 Enterprise Way, Kelowna, British Columbia V1Y6H7 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Service Representative. As a Customer Service Represe..."
     },
     {
@@ -2073,8 +2805,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:46:22Z",
       "ingested_at": "2026-05-18T16:53:28.718104+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.718104+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.473364+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "School District 71 is an inclusive learning community that embraces diversity, fosters relationships and empowers all learners to have a positive impact on the world. Our mission is to work with our educational partners to inspire engaged, compassionate, resilient lifelong learners and cultivate a c..."
     },
     {
@@ -2098,8 +2831,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:22:39Z",
       "ingested_at": "2026-05-18T16:53:28.522826+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.522826+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256639+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -2123,8 +2857,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:05:31Z",
       "ingested_at": "2026-05-18T16:53:28.522844+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.522844+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256647+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -2148,8 +2883,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:03:20Z",
       "ingested_at": "2026-05-18T16:53:28.522917+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.522917+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256676+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -2173,8 +2909,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T16:01:38Z",
       "ingested_at": "2026-05-18T16:53:28.523006+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.523006+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256684+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Location Asda PortsmouthPay Rate \u00a312.71Weekly hours 29 Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or..."
     },
     {
@@ -2198,8 +2935,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T15:57:50Z",
       "ingested_at": "2026-05-18T16:53:28.523093+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.523093+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256708+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -2223,8 +2961,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T15:55:57Z",
       "ingested_at": "2026-05-18T16:53:28.615188+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.615188+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.370214+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "SBHA is seeking a reliable and enthusiastic Skilled Labourer to join our team in the Scottish Borders. This is an excellent opportunity for an individual looking for a career in a supportive and environment. This role involves a variety of tasks supporting the maintenance, care, and improvement of o..."
     },
     {
@@ -2248,8 +2987,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T15:51:22Z",
       "ingested_at": "2026-05-18T16:53:28.615478+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.615478+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.370240+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "SBHA is seeking a reliable and enthusiastic Builder to join our team in the Scottish Borders. This is an excellent opportunity for an individual looking for a career in a supportive and environment. This role involves a variety of tasks supporting the maintenance, care, and improvement of our estate..."
     },
     {
@@ -2273,8 +3013,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T13:55:14Z",
       "ingested_at": "2026-05-18T16:53:28.582674+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.582674+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.335347+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Chippenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2298,8 +3039,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T13:29:28Z",
       "ingested_at": "2026-05-18T16:53:28.582686+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.582686+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.335358+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Cheltenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2323,8 +3065,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T13:10:12Z",
       "ingested_at": "2026-05-18T16:53:28.523190+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.523190+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.256784+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Job Overview -To protect our customer's property, people and/or assets by providing security services in direct accordance with the sites published Assignment Instructions (AI's) and any subsequent changes. -Delivering results that meet and / or exceed the Key performance indicators / Service Level ..."
     },
     {
@@ -2348,8 +3091,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T18:59:36Z",
       "ingested_at": "2026-05-18T16:53:28.583406+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.583406+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.336140+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Chippenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2373,8 +3117,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T18:59:36Z",
       "ingested_at": "2026-05-18T16:53:28.583418+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.583418+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.336157+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Cheltenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2398,8 +3143,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T18:42:47Z",
       "ingested_at": "2026-05-18T16:53:28.583476+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.583476+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.336226+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Chippenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2423,8 +3169,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T18:41:29Z",
       "ingested_at": "2026-05-18T16:53:28.583490+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.583490+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.336236+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Maintenance Operative Location: Cheltenham Full-Time | Permanent Mobile role - work from home with daily travel Monday to Friday (occasional flexibility may be required) Salary: \u00a336,420pa plus vehicle or vehicle allowance Excellent benefits package included Are you a skilled Maintenance Operative wi..."
     },
     {
@@ -2448,8 +3195,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T16:44:02Z",
       "ingested_at": "2026-05-18T16:53:28.711716+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.711716+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.468435+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "EMPLOYMENT TYPE: Part Time VACANCY STATUS: We are actively hiring for this position. Join our team and enjoy the many benefits of working for Canada's fastest-growing, privately-owned hospitality company, including a competitive employee compensation package, diverse employee schedules, and internal..."
     },
     {
@@ -2473,8 +3221,9 @@
       "company_logo": null,
       "posted_at": "2026-05-13T10:35:10Z",
       "ingested_at": "2026-05-18T16:53:28.853745+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.853745+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.604061+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Queensland Ballet is seeking multiple casual Facilities Officers. The Facilities Officer works across Queensland Ballet\u2019s day-to-day facilities operations to schedule preventative maintenance tasks, respond to maintenance emergencies, and ensure all building systems are operational. This role works ..."
     },
     {
@@ -2498,8 +3247,9 @@
       "company_logo": null,
       "posted_at": "2026-05-13T05:38:23Z",
       "ingested_at": "2026-05-18T16:53:28.700015+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.700015+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.458417+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Salary: $35.00-$44.00 ABOUT WILLIAMS LAKE FIRST NATION (WLFN) The Williams Lake First Nation (WLFN), or the Texelcemc (people of WLFN) have belonged to the Secwepemc (or Shuswap) Nation for over 6500 years. Today, the WLFN community includes a growing population of ov..."
     },
     {
@@ -2523,8 +3273,9 @@
       "company_logo": null,
       "posted_at": "2026-05-13T01:19:26Z",
       "ingested_at": "2026-05-18T16:53:28.738499+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.738499+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.489083+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "_Job Seekers can review the Job Applicant Privacy Policy by clicking here (http://ryder.com/job-applicant-privacy-policy) ._ Job Description : About Ryder For almost 100 years, Ryder has provided customers around the world with integrated transportation, logistics, and supply chain management soluti..."
     },
     {
@@ -2548,8 +3299,9 @@
       "company_logo": null,
       "posted_at": "2026-05-03T21:53:05Z",
       "ingested_at": "2026-05-18T16:53:28.581159+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.581159+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.333547+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Transform Amazon's global facilities network while driving $100M in operational improvements through next-generation soft services solutions. As a key member of Building Excellence Management, you'll revolutionize how we deliver and optimize our $3.7B annual facilities portfolio through strategic in..."
     },
     {
@@ -2575,6 +3327,7 @@
       "ingested_at": "2026-05-18T16:53:28.581263+00:00",
       "last_seen_at": "2026-05-18T16:53:28.581263+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Description Transform Amazon's global facilities network while driving $100M in operational improvements through next-generation soft services solutions. As a key member of Building Excellence Management, you'll revolutionize how we deliver and optimize our $3.7B annual facilities portfolio through ..."
     }
   ]

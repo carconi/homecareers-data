@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "label": "United States",
+      "count": 6294,
+      "file": "jobs_country_us.json"
+    },
+    {
+      "code": "AU",
+      "label": "Australia",
+      "count": 5987,
+      "file": "jobs_country_au.json"
+    },
+    {
+      "code": "GB",
+      "label": "United Kingdom",
+      "count": 5752,
+      "file": "jobs_country_gb.json"
+    },
+    {
+      "code": "CA",
+      "label": "Canada",
+      "count": 5221,
+      "file": "jobs_country_ca.json"
+    },
+    {
+      "code": "OTHER",
+      "label": "OTHER",
+      "count": 4958,
+      "file": "jobs_country_other.json"
+    },
+    {
+      "code": "REMOTE",
+      "label": "Remote / Global",
+      "count": 130,
+      "file": "jobs_country_remote.json"
+    }
+  ]
+}

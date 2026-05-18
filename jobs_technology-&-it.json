@@ -24,8 +24,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T08:01:29+00:00",
       "ingested_at": "2026-05-18T16:13:41.966223+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817154+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.340961+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 50 MA, und suchen nun weiterhin Verst\u00e4rkung, um Cloud-Projekte bei unseren Kunden durchzuf\u00fchren.\nAufgaben\nDu willst:\n\nDeine Arbeitszeiten selbst bestimmen?\nvon zuhause aus arbeiten (remote)?\nden n\u00e4chsten Schritt in Deiner Karriere gehen und ..."
     },
     {
@@ -50,8 +51,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T08:01:29+00:00",
       "ingested_at": "2026-05-18T16:13:41.966243+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817170+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.341003+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 50 MA, und suchen nun weiterhin Verst\u00e4rkung, um Cloud-Projekte bei unseren Kunden durchzuf\u00fchren.\nAufgaben\nDu willst:\n\nDeine Arbeitszeiten selbst bestimmen?\nvon zuhause aus arbeiten (remote)?\nden n\u00e4chsten Schritt in Deiner Karriere gehen und ..."
     },
     {
@@ -76,8 +78,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T08:01:28+00:00",
       "ingested_at": "2026-05-18T16:13:41.966262+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817186+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.341038+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 50 MA, und suchen nun weiterhin Verst\u00e4rkung, um Cloud-Projekte bei unseren Kunden durchzuf\u00fchren.\nAufgaben\nDu willst:\n\nDeine Arbeitszeiten selbst bestimmen?\nvon zuhause aus arbeiten (remote)?\nden n\u00e4chsten Schritt in Deiner Karriere gehen und ..."
     },
     {
@@ -104,6 +107,7 @@
       "ingested_at": "2026-05-18T16:13:41.966482+00:00",
       "last_seen_at": "2026-05-18T16:20:25.817228+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 50 MA, und suchen nun weiterhin Verst\u00e4rkung, um Java-Projekte bei unseren Kunden durchzuf\u00fchren.\nAufgaben\nDu willst:\n\nDeine Arbeitszeiten selbst bestimmen?\nvon zuhause aus arbeiten (remote)?\nden n\u00e4chsten Schritt in Deiner Karriere gehen und l..."
     },
     {
@@ -130,6 +134,7 @@
       "ingested_at": "2026-05-18T16:13:41.966691+00:00",
       "last_seen_at": "2026-05-18T16:20:25.817310+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Wir suchen einen Developer (Intermediate) f\u00fcr die Modernisierung und Web-Migration eines Controlling-Tools im Rahmen eines Digitalisierungsprojekts. Ziel des Vorhabens ist die \u00dcberf\u00fchrung einer bestehenden Desktop-Anwendung in eine moderne Web-Umgebung unter Ber\u00fccksichtigung aktueller technologische..."
     }
   ]

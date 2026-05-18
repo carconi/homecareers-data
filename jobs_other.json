@@ -1,14 +1,41 @@
 {
   "category": "Other",
-  "total": 7,
+  "total": 8,
   "jobs": [
+    {
+      "id": "b7ad909f6e0567bc",
+      "source": "arbeitnow",
+      "external_id": "remote-founding-full-stack-engineer-munich-268363",
+      "title": "(Remote) Founding Full-Stack Engineer",
+      "company": "alago",
+      "description": "<p>The construction industry loses <strong>$1.6 trillion annually</strong> to inefficiencies \u2014 not because people are careless, but because critical knowledge is trapped in PDFs, transcripts, and scattered systems. Every new project starts from scratch.</p>\n<p>We're building the opposite: an AI co-worker that extends the <strong>Projektsteuerer</strong> (the person who runs complex construction projects), while every project makes our system measurably better. The moat isn't the model \u2014 it's the compounding project memory no competitor can replicate.</p>\n<p>Pre-seed led by <strong>Realyze Ventures</strong> \u2014 LPs include Zech and other major European construction groups. Co-investors: <strong>D11Z</strong> (the family office behind Aleph Alpha) and the <strong>CDTM Venture Fund</strong> (backed by 300+ CDTM alumni including founders of Personio, Alasco and the Technical Director of DeepMind).</p>\n<p>Our software is running today on a <strong>major autobahn construction program</strong> and an <strong>S-Bahn transit program</strong> \u2014 multi-year timelines, hundreds of thousands of pages of specs, protocols, and communications. Real consequences when we get it wrong.</p>\n<h2>Tasks</h2>\n<p><strong>Two hard problems. All production.</strong></p>\n<ol>\n<li><strong>AI-native project management, not a chatbot on top of PDFs</strong><br>\nThe construction industry doesn't need another chat wrapper around GPT. It needs project management software where AI runs in the background \u2014 through cronjobs, proactive alerts, and task dashboards \u2014 not in a sidebar chat window. The hard product question is <strong>how</strong> AI shows up: when as silent background automation, when as a surfaced recommendation the PM approves, when as a fully delegated task the user only reviews after the fact.</li>\n<li><strong>Extending harness engineering all the way to the UI</strong><br>\nAgent harnesses don't stop at the backend. A multi-step agent run that streams tokens, calls tools, hits failure modes, and recovers gracefully needs a frontend that makes all of that legible in real time. You'll plumb Vercel AI SDK streams from our agent layer straight into the component tree \u2014 streaming, tool-call traces, interrupts, partial renders, graceful failure \u2014 all as first-class UI concerns, not afterthoughts.</li>\n</ol>\n<p><strong>Stack:</strong> TypeScript, Next.js, Vercel, Supabase (Postgres + pgvector), LangChain, Vercel AI SDK, LangFuse, shadcn/ui. <strong>\u20ac500/month AI tooling budget</strong> per engineer \u2014 Claude Code, Cursor background agents, experimentation with frontier models. No legacy. Greenfield.</p>\n<h2>Requirements</h2>\n<p><strong>Who we're looking for</strong></p>\n<ul>\n<li><strong>Product sense:</strong> you reason from user pain \u2192 solution \u2192 measurable outcome. You can talk to non-technical customers and understand their workflows.</li>\n<li><strong>Velocity + craft:</strong> prototype fast, measure everything, iterate on real feedback. But you care about reliability because the downside of wrong is real in construction.</li>\n<li><strong>Comfort with the unknown:</strong> many of these problems don't have Stack Overflow answers. You read papers, prototype, and compare approaches.</li>\n<li><strong>Bonus</strong>: strong open-source work, previous early-employee startup experience, domain depth in document understanding or agent systems, or shipped systems that replaced hours of human labor.</li>\n<li><strong>Level is opportunistic:</strong> We've seen brilliant new grads outperform staff engineers and vice versa. If you're exceptional, we'll find the right scope.</li>\n<li><strong>Language:</strong> We work in English. German is nice-to-have for customer conversations but <strong>not required</strong> \u2014 we have native speakers for that.</li>\n</ul>\n<h2>Benefits</h2>\n<p>As one of our first hires, you\u2019ll do more than contribute \u2014 you\u2019ll help <strong>shape</strong> how Alago works: our culture, systems, and growth strategy. You\u2019ll work directly with the founders, gain exposure to every function, and ship projects that have immediate impact.</p>\n<ul>\n<li><strong>10\u00d7 Learning Curve.</strong> Work with cutting-edge AI to tackle real-world challenges every day</li>\n<li><strong>Work directly with the founders.</strong> You\u2019ll own critical parts of alago end-to-end, laying the technical foundation while balancing rapid iteration, customer value, and long-term scalability.</li>\n<li><strong>Hybrid:</strong> <strong>A vibrant in-office culture in our central Munich office</strong>. 3 days per week in our central Munich office, flexible otherwise.</li>\n<li><strong>Meaningful equity stake: 0.5% \u2013 1.5%</strong> (4-year vest, 1.5-year cliff)</li>\n<li><strong>Your needs and well-being matter to us</strong>. You\u2019ll get access to sponsored EGYM Wellpass to find inner peace at yoga or kill it at HIIT workouts.</li>\n</ul>\n<p>We\u2019re building for scale \u2014 but right now, it\u2019s still early. That means lots of autonomy, tight feedback loops, and the freedom to grow into whatever role suits your strengths, whether that\u2019s become top individual contributor or stepping into leadership roles like VP Engineering.</p>\n<p><strong>Three stages. No five-round loops.</strong></p>\n<ol>\n<li><strong>90-minute first call</strong> with one of our engineers and then if you impress us, you will speak to one of the co-founders directly.</li>\n<li><strong>Onsite case study in Munich</strong>. We send you the materials in advance \u2014 plan on about 4 hours of preparation. You come to our office and we work through it together. This is where we see how you think, debug, and ship under real conditions.</li>\n<li><strong>Offer</strong>. Decision within 24 hours of the case study. Offer out within 48 hours.</li>\n</ol>\n<p>Find <a href=\"https://www.arbeitnow.com/\">Jobs in Germany</a> on Arbeitnow</a>",
+      "category": "Other",
+      "tags": [
+        "Remote",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "location": "Munich",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/alago/remote-founding-full-stack-engineer-munich-268363",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-05-18T15:30:36+00:00",
+      "ingested_at": "2026-05-18T19:02:43.340170+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.340170+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "The construction industry loses $1.6 trillion annually to inefficiencies \u2014 not because people are careless, but because critical knowledge is trapped in PDFs, transcripts, and scattered systems. Every new project starts from scratch.\nWe're building the opposite: an AI co-worker that extends the Proj..."
+    },
     {
       "id": "2b75ec557c2126ed",
       "source": "arbeitnow",
       "external_id": "bezirksleiterin-vertrieb-aspach-20152",
       "title": "Bezirksleiter:in Vertrieb",
       "company": "Fair-Consulting-24",
-      "description": "<p><strong>Wir suchen weitere Vertriebsprofis als Vertiebsleiter Regional ,Kollegen f\u00fcr den Aussendienst ! Vertriebspartner!</strong></p>\n<p><strong>wir sind bereits seit 4 Jahrzehnten am Markt und suchen Mitarbeiter zur Gebietserweiterung.</strong></p>\n<p><strong>Das lukrative \u2013 stornofreie \u2013</strong></p>\n<p><strong>Erg\u00e4nzungsangebot f\u00fcr Vericherungskaufleute</strong></p>\n<p><strong>mit erheblichem Mehrwert f\u00fcr ihre Kunden.</strong></p>\n<p><strong>Wir haben uns auf die Themen Steuern sparen spezialisiert !</strong></p>\n<p><strong>Seit Jahren haben wir ca. 80% Abschlussquote beim Kunden</strong>.</p>\n<p><strong>Wir bieten:</strong></p>\n<p>**-**haupt- / nebenberufliche T\u00e4tigkeit</p>\n<ul>\n<li>\n<p>Freiberufliche T\u00e4tigkeit</p>\n</li>\n<li>\n<p>Au<strong>\u00dferordentliche Verdienstm\u00f6glichkeiten ohne aktiven Verkauf</strong></p>\n</li>\n</ul>\n<p>Details im pers\u00f6nlichen Gespr\u00e4ch / Telefonat, da die M\u00f6glichkeiten umfassend sind.</p>\n<p>Ausbildung in der Kundenbetreuung.</p>\n<p><strong>Quereinsteiger beraten die Kunden mit Unterst\u00fctzung durch Experten.</strong></p>\n<p><strong>Wenn Sie Interesse haben und zudem Neue Ziele haben,</strong></p>\n<p><strong>Vertrieb neu erleben wollen !</strong></p>\n<p><strong>Bei Interesse senden Sie uns eine Mail an: info@fair-consulting-24oder rufen uns an:                             01722478898</strong></p>\n<h2>Aufgaben</h2>\n<p><strong>Au\u00dferordentliche Verdienstm\u00f6glichkeiten ohne aktiven Verkauf</strong></p>\n<h2>Qualifikation</h2>\n<p>Finanzdienstleister.Versicherungsmakler- Versicherungsagenturen</p>\n<h2>Benefits</h2>\n<p><strong>Seit Jahren haben wir ca. 80% Abschlussquote beim Kunden</strong>. Stornofreie Provisionen</p>\n<p><strong>Wenn Sie Interesse haben und zudem Neue Ziele haben,</strong></p>\n<p><strong>Vertrieb neu erleben wollen !</strong></p>\n<p><strong>Bei Interesse senden Sie uns eine Mail an: info@fair-consulting-24oder rufen uns an:                             01722478898</strong></p>\n<p>Find <a href=\"https://www.arbeitnow.com/\">Jobs in Germany</a> on Arbeitnow</a>",
+      "description": "<p><strong>Wir suchen weitere Vertriebsprofis als Vertiebsleiter Regional ,Kollegen f\u00fcr den Aussendienst ! Vertriebspartner!</strong></p>\n<p><strong>wir sind bereits seit 4 Jahrzehnten am Markt und suchen Mitarbeiter zur Gebietserweiterung.</strong></p>\n<p><strong>Das lukrative \u2013 stornofreie \u2013</strong></p>\n<p><strong>Erg\u00e4nzungsangebot f\u00fcr Vericherungskaufleute</strong></p>\n<p><strong>mit erheblichem Mehrwert f\u00fcr ihre Kunden.</strong></p>\n<p><strong>Wir haben uns auf die Themen Steuern sparen spezialisiert !</strong></p>\n<p><strong>Seit Jahren haben wir ca. 80% Abschlussquote beim Kunden</strong>.</p>\n<p><strong>Wir bieten:</strong></p>\n<p>**-**haupt- / nebenberufliche T\u00e4tigkeit</p>\n<ul>\n<li>\n<p>Freiberufliche T\u00e4tigkeit</p>\n</li>\n<li>\n<p>Au<strong>\u00dferordentliche Verdienstm\u00f6glichkeiten ohne aktiven Verkauf</strong></p>\n</li>\n</ul>\n<p>Details im pers\u00f6nlichen Gespr\u00e4ch / Telefonat, da die M\u00f6glichkeiten umfassend sind.</p>\n<p>Ausbildung in der Kundenbetreuung.</p>\n<p><strong>Quereinsteiger beraten die Kunden mit Unterst\u00fctzung durch Experten.</strong></p>\n<p><strong>Wenn Sie Interesse haben und zudem Neue Ziele haben,</strong></p>\n<p><strong>Vertrieb neu erleben wollen !</strong></p>\n<p><strong>Bei Interesse senden Sie uns eine Mail an: info@fair-consulting-24oder rufen uns an:                             01722478898</strong></p>\n<h2>Aufgaben</h2>\n<p><strong>Au\u00dferordentliche Verdienstm\u00f6glichkeiten ohne aktiven Verkauf</strong></p>\n<h2>Qualifikation</h2>\n<p>Finanzdienstleister.Versicherungsmakler- Versicherungsagenturen</p>\n<h2>Benefits</h2>\n<p><strong>Seit Jahren haben wir ca. 80% Abschlussquote beim Kunden</strong>. Stornofreie Provisionen</p>\n<p><strong>Wenn Sie Interesse haben und zudem Neue Ziele haben,</strong></p>\n<p><strong>Vertrieb neu erleben wollen !</strong></p>\n<p><strong>Bei Interesse senden Sie uns eine Mail an: info@fair-consulting-24oder rufen uns an:                             01722478898</strong></p>\n<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
       "category": "Other",
       "tags": [
         "Remote",
@@ -25,8 +52,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T10:30:34+00:00",
       "ingested_at": "2026-05-18T16:13:41.966181+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817119+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.340875+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Wir suchen weitere Vertriebsprofis als Vertiebsleiter Regional ,Kollegen f\u00fcr den Aussendienst ! Vertriebspartner!\nwir sind bereits seit 4 Jahrzehnten am Markt und suchen Mitarbeiter zur Gebietserweiterung.\nDas lukrative \u2013 stornofreie \u2013\nErg\u00e4nzungsangebot f\u00fcr Vericherungskaufleute\nmit erheblichem Mehr..."
     },
     {
@@ -51,8 +79,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T09:00:50+00:00",
       "ingested_at": "2026-05-18T16:13:41.966202+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817135+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.340914+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Mit \u00fcber 140.000 Mitgliedern und \u00fcber 50 Fitnessstudios sind wir die Nr. 1 im Norden \u2013 und wachsen weiter!\nAls wellyou bieten wir moderne Fitnessstudios und eine Gemeinschaft, in der sich jeder wohlf\u00fchlt \u2013 vom Einsteiger bis zum Profi.\nUnsere Mission: Menschen zu motivieren, das Beste aus sich rausz..."
     },
     {
@@ -79,8 +108,9 @@
       "company_logo": "",
       "posted_at": "2026-05-15T00:02:07+00:00",
       "ingested_at": "2026-05-18T04:21:53.382527+00:00",
-      "last_seen_at": "2026-05-18T16:20:22.148085+00:00",
+      "last_seen_at": "2026-05-18T19:02:39.695570+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "\nLooking for motivated individuals who want more out of their income and career.\nThis is a remote opportunity where you\u00e2\u0080\u0099ll work directly with individuals who have requested help understanding their financial protection options. No cold outreach.\nIf you\u00e2\u0080\u0099re someone who is competitive, coachable, a..."
     },
     {
@@ -106,8 +136,9 @@
       "company_logo": "",
       "posted_at": "2026-05-14T00:01:01+00:00",
       "ingested_at": "2026-05-18T04:21:53.382767+00:00",
-      "last_seen_at": "2026-05-18T16:20:22.148357+00:00",
+      "last_seen_at": "2026-05-18T19:02:39.697720+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "About Bennie\n\nBennie (www.bennie.com) is an employee benefits services and technology firm that helps companies create a healthier workplace. Bennie provides services and technology that are beyond what growing companies typically receive, yet exactly what they need. \n\nBennie has built the ultimate ..."
     },
     {
@@ -137,8 +168,9 @@
       "company_logo": "",
       "posted_at": "2026-05-12T00:00:20+00:00",
       "ingested_at": "2026-05-18T04:21:53.383186+00:00",
-      "last_seen_at": "2026-05-18T16:20:22.148959+00:00",
+      "last_seen_at": "2026-05-18T19:02:39.698397+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Calyxo, Inc. is a medical device company headquartered in Pleasanton, California, USA. The company was founded in 2016 to address the profound need for improved kidney stone treatment. Kidney stone disease is a common, painful condition that consumes vast amounts of healthcare resources each year. O..."
     },
     {
@@ -163,8 +195,9 @@
       "company_logo": "",
       "posted_at": "2026-05-08T01:00:28+00:00",
       "ingested_at": "2026-05-18T04:21:53.383615+00:00",
-      "last_seen_at": "2026-05-18T16:20:22.149537+00:00",
+      "last_seen_at": "2026-05-18T19:02:39.699021+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "OverviewWe're looking for a Web Development Specialist to build and maintain marketing websites and landing pages for our agency's B2B technology clients. This is a hands-on production role across the three platforms our clients live on most: WordPress, HubSpot CMS (COS), and Webflow.You should be e..."
     },
     {
@@ -192,8 +225,9 @@
       "company_logo": "",
       "posted_at": "2026-05-08T00:01:14+00:00",
       "ingested_at": "2026-05-18T04:21:53.383666+00:00",
-      "last_seen_at": "2026-05-18T16:20:22.149597+00:00",
+      "last_seen_at": "2026-05-18T19:02:39.699164+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Get to Know Rivia Mind\n\nAt Rivia Mind, we believe great mental health care begins with a human connection.\n\nWhere We Are: We are a psychiatrist-owned mental health practice rooted in New York City, serving individuals across New York, New Jersey, Connecticut, Florida, and Massachusetts through both ..."
     }
   ]

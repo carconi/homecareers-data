@@ -1,0 +1,32 @@
+{
+  "category": "Emplois Informatique",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "c99caa13e5d29417",
+      "source": "adzuna",
+      "external_id": "5722045574",
+      "title": "Ads Quality Rater - Dutch (France)",
+      "company": "Welo Global",
+      "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world\u2019s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater , you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you\u2019ll tell the AI program how good or bad its advertisement suggestions are based on the user\u2019s keywords. You will review ads in both English and Dutch This role is great for people who: - Surf the\u2026",
+      "category": "Emplois Informatique",
+      "tags": [
+        "it-jobs"
+      ],
+      "job_type": "",
+      "location": "France",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.fr/details/5722045574?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.fr/details/5722045574?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-07T22:39:23Z",
+      "ingested_at": "2026-05-18T04:32:02.028032+00:00",
+      "last_seen_at": "2026-05-18T04:32:02.028032+00:00",
+      "expired": 0,
+      "country": "",
+      "description_preview": "Welo Data is an award-winning localization and data transformation company. We run one of the world\u2019s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater , you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words,..."
+    }
+  ]
+}

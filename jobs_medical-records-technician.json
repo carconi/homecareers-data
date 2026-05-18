@@ -25,8 +25,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T11:22:27.9200",
       "ingested_at": "2026-05-18T04:32:04.118149+00:00",
-      "last_seen_at": "2026-05-18T16:53:31.416661+00:00",
+      "last_seen_at": "2026-05-18T20:20:49.691744+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Major duties include but are not limited to: Responsible for performing audits of coded data, developing criteria, collecting data, graphing and analyzing results, creating reports and communicating in writing and/or in person to appropriate leadership and groups. Applies comprehensive knowledge of ..."
     },
     {
@@ -52,8 +53,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T10:09:40.0000",
       "ingested_at": "2026-05-18T04:32:04.118071+00:00",
-      "last_seen_at": "2026-05-18T16:53:31.416533+00:00",
+      "last_seen_at": "2026-05-18T20:20:49.691066+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "Duties include but are not limited to: Assigns codes to documented patient care encounters (inpatient and outpatient) covering the full range of health care services provided by the VAMC. Patient encounters are often complicated and complex requiring extensive coding expertise. Applies advanced know..."
     },
     {
@@ -79,8 +81,9 @@
       "company_logo": null,
       "posted_at": "2026-05-11T00:00:00.0000",
       "ingested_at": "2026-05-18T04:32:04.117756+00:00",
-      "last_seen_at": "2026-05-18T16:53:31.416063+00:00",
+      "last_seen_at": "2026-05-18T20:20:49.690701+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "PLEASE NOTE: This position is designated as Remote. Remote work is defined as full-time employment conducted outside of a VA facility or in VA-leased spaces. The option for remote work will be assessed continuously, and the selected individual may need to return to a VA office if required. The VA wi..."
     },
     {
@@ -106,8 +109,9 @@
       "company_logo": null,
       "posted_at": "2026-05-11T00:00:00.0000",
       "ingested_at": "2026-05-18T04:32:04.117778+00:00",
-      "last_seen_at": "2026-05-18T16:53:31.416082+00:00",
+      "last_seen_at": "2026-05-18T20:20:49.690739+00:00",
       "expired": 0,
+      "country": "US",
       "description_preview": "PLEASE NOTE: This position is designated as Remote. Remote work is defined as full-time employment conducted outside of a VA facility or in VA-leased spaces. The option for remote work will be assessed continuously, and the selected individual may need to return to a VA office if required. The VA wi..."
     }
   ]

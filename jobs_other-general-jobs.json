@@ -1,7 +1,33 @@
 {
   "category": "Other/General Jobs",
-  "total": 14,
+  "total": 18,
   "jobs": [
+    {
+      "id": "7b0e20eeedfb8bf7",
+      "source": "adzuna",
+      "external_id": "5733304779",
+      "title": "Branch Manager",
+      "company": "Kennards Hire",
+      "description": "Branch Manager Cannington Be part of a growing, innovative business that is leading the industry forward Contribute to an iconic brand with over 200 branches in AUS & NZ Great salary package including car, fuel card and phone With Kennards Hire You Can As a company that\u2019s been around since 1948, we know what matters most: family and it\u2019s at the heart of everything we do. We\u2019re the largest family-owned equipment hire company in Australia and New Zealand, with more than 2,000 team members located\u2026",
+      "category": "Other/General Jobs",
+      "tags": [
+        "other-general-jobs"
+      ],
+      "job_type": "part_time",
+      "location": "White Gum Valley, Fremantle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/land/ad/5733304779?se=zvJy7_VS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=467C46CA2153FD9FFEE258EA798CC6EDA38D8A1C",
+      "affiliate_url": "https://www.adzuna.com.au/land/ad/5733304779?se=zvJy7_VS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=467C46CA2153FD9FFEE258EA798CC6EDA38D8A1C",
+      "company_logo": null,
+      "posted_at": "2026-05-19T05:21:24Z",
+      "ingested_at": "2026-05-18T20:20:46.580858+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.580858+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Branch Manager Cannington Be part of a growing, innovative business that is leading the industry forward Contribute to an iconic brand with over 200 branches in AUS & NZ Great salary package including car, fuel card and phone With Kennards Hire You Can As a company that\u2019s been around since 1948, we ..."
+    },
     {
       "id": "b37d5526824abdc2",
       "source": "adzuna",
@@ -25,6 +51,7 @@
       "ingested_at": "2026-05-18T16:53:28.835907+00:00",
       "last_seen_at": "2026-05-18T16:53:28.835907+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "New opportunity at the Authority to specialise in land use planning and natural hazards! Ongoing full-time opportunity Role based in Parramatta/Sydney, with flexible/hybrid working environment Salary relative to experience, and ranges from $113,574 - $125,720  super About the role We are seeking an ..."
     },
     {
@@ -50,6 +77,7 @@
       "ingested_at": "2026-05-18T16:53:28.836097+00:00",
       "last_seen_at": "2026-05-18T16:53:28.836097+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Expressions of Interest - Senior Advisor, Workplace Relations & Advisory Services Join Corporate Services, a division within the Department of Creative Industries, Tourism, Hospitality and Sport Clerk Grade 9/10 role with salary between $129,464 and $142,665 per annum plus superannuation. Temporary ..."
     },
     {
@@ -75,6 +103,7 @@
       "ingested_at": "2026-05-18T16:53:28.901500+00:00",
       "last_seen_at": "2026-05-18T16:53:28.901500+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Manager Child Wellbeing Unit (CWU) - Identified At the NSW Department of Education , we educate and inspire lifelong learners \u2013 from early childhood, through schooling to vocational education and training. Temporary Full-Time until 30 June 2028 Located in Parramatta with flexible working arrangement..."
     },
     {
@@ -98,9 +127,88 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:26:30Z",
       "ingested_at": "2026-05-18T16:53:28.872122+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.872122+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.624812+00:00",
       "expired": 0,
+      "country": "AU",
       "description_preview": "Project Officer, Course Design (Industry Training) Exciting opportunity to join Liquor and Gaming NSW, we're responsible for regulating liquor, wagering, gaming, and registered clubs in NSW. This is a Clerk Grade 7/8 role with a salary range of $113,574 - $125,720 per annum plus superannuation Ongoi..."
+    },
+    {
+      "id": "d51b8b229c0d793c",
+      "source": "adzuna",
+      "external_id": "5733289543",
+      "title": "Training Officer",
+      "company": "ABM UK",
+      "description": "LOCATION: Stansted Airport SHIFT PATTERN: 4 on 2 off, 40 hours per week SALARY: Competitive If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com . We're here to help! About the Role We are seeking a highly motivated and experienced Training Officer to join our Ground Handling Training Team. In this role, you will support Ryanair with the delivery of initial, recurrent, and complian\u2026",
+      "category": "Other/General Jobs",
+      "tags": [
+        "other-general-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "London Stansted Airport, Stansted",
+      "salary_min": 36798.04,
+      "salary_max": 36798.04,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5733289543?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5733289543?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T18:47:19Z",
+      "ingested_at": "2026-05-18T20:20:46.322929+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.322929+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "LOCATION: Stansted Airport SHIFT PATTERN: 4 on 2 off, 40 hours per week SALARY: Competitive If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com . We're here to help! About the Role We ..."
+    },
+    {
+      "id": "763433d4847e6506",
+      "source": "adzuna",
+      "external_id": "5733288911",
+      "title": "Driver Helper - $25.00/hr",
+      "company": "gategroup",
+      "description": "We\u2019re looking for motivated, engaged people to help make everyone\u2019s journeys better. Hourly rate $25.00Application Closure: -We are accepting applications for this position on an ongoing basis. Job Summary: A Customer Service Assistant (CSA) is responsible for loading equipment onto trucks, guiding the Customer Service Representative (CSR) to aircraft, and moving equipment from the truck to the aircraft galley. Main Duties and Responsibilities: Assists Customer Service Representative (CSR) in c\u2026",
+      "category": "Other/General Jobs",
+      "tags": [
+        "other-general-jobs"
+      ],
+      "job_type": "",
+      "location": "Denver, Colorado",
+      "salary_min": 0.0,
+      "salary_max": 52000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5733288911?se=3N70pOxS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=5D40B0E0C3E60E984800685F8E17C93453844838",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5733288911?se=3N70pOxS8RGdQ72y0UTWww&utm_medium=api&utm_source=3bc8f735&v=5D40B0E0C3E60E984800685F8E17C93453844838",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:45:49Z",
+      "ingested_at": "2026-05-18T20:20:46.049770+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.049770+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "We\u2019re looking for motivated, engaged people to help make everyone\u2019s journeys better. Hourly rate $25.00Application Closure: -We are accepting applications for this position on an ongoing basis. Job Summary: A Customer Service Assistant (CSA) is responsible for loading equipment onto trucks, guiding ..."
+    },
+    {
+      "id": "4d98f77445740e86",
+      "source": "adzuna",
+      "external_id": "5733284937",
+      "title": "Traveling Recertification Specialist (C&L - Affordable Housing Compliance)",
+      "company": "Pratum Companies",
+      "description": "Traveling Recertification Specialist - Compliance and Leasing Division The Pratum Compliance and Leasing division is a professional, fast-paced, collaborative organization, seeking to expand by providing consulting services in the apartment industry. On-site quality service is our goal, and we are committed to helping our team members accomplish it with any available tools and resources at hand. IMPORTANT : This is not a work-from-home position but will require up to 100% travel to work on-site\u2026",
+      "category": "Other/General Jobs",
+      "tags": [
+        "other-general-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Gaithersburg, Montgomery County",
+      "salary_min": 41156.35,
+      "salary_max": 41156.35,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/details/5733284937?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com/details/5733284937?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-05-18T13:31:46Z",
+      "ingested_at": "2026-05-18T20:20:45.958856+00:00",
+      "last_seen_at": "2026-05-18T20:20:45.958856+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Traveling Recertification Specialist - Compliance and Leasing Division The Pratum Compliance and Leasing division is a professional, fast-paced, collaborative organization, seeking to expand by providing consulting services in the apartment industry. On-site quality service is our goal, and we are c..."
     },
     {
       "id": "fb33c74357af0873",
@@ -125,6 +233,7 @@
       "ingested_at": "2026-05-18T16:53:28.355754+00:00",
       "last_seen_at": "2026-05-18T16:53:28.355754+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Labcorp is seeking a Lab Assistant to join our Environmental Services team in Birmingham, AL. Work Schedule: Monday - Friday 4:00am - 12:30pm. Job Responsibilities Handle, transport, and dispose of regulated medical waste, biohazardous materials, and chemical waste according to OSHA, CDC, and facili..."
     },
     {
@@ -150,6 +259,7 @@
       "ingested_at": "2026-05-18T16:53:28.365379+00:00",
       "last_seen_at": "2026-05-18T16:53:28.365379+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "GardaWorld Security Services is Now Hiring a Surveillance Security Officer! Ready to suit up as a Surveillance Security Guard? What matters most about a role like this is your sharp eye, capturing every detail as you scan a series of screens. Tell us about your strong observation skills with attenti..."
     },
     {
@@ -175,6 +285,7 @@
       "ingested_at": "2026-05-18T16:53:28.370677+00:00",
       "last_seen_at": "2026-05-18T16:53:28.370677+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Job Summary: WHO ARE WE? Vibee builds unforgettable destination experiences for fans around the world. Founded by Live Nation, the world\u2019s leading live entertainment company, and Insomniac, Vibee provides fans the opportunity to immerse themselves in the best music and entertainment events on land a..."
     },
     {
@@ -198,8 +309,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:51:05Z",
       "ingested_at": "2026-05-18T16:53:28.740428+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.740428+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.491939+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Canadian-based and led, Agnico Eagle is Canada's largest mining company and the second largest gold producer in the world. It produces precious metals from operations in Canada, Australia, Finland and Mexico and has a pipeline of high-quality exploration and development projects. Agnico Eagle is a p..."
     },
     {
@@ -223,8 +335,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T16:40:22Z",
       "ingested_at": "2026-05-18T16:53:28.671200+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.671200+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.417230+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Help Build a Canada Without Homelessness At the Canadian Alliance to End Homelessness (CAEH), we believe homelessness is solvable. We work alongside communities, governments, frontline organizations, and people with lived expertise to help build housing-focused systems that measurably reduce homeles..."
     },
     {
@@ -248,8 +361,9 @@
       "company_logo": null,
       "posted_at": "2026-05-17T12:46:21Z",
       "ingested_at": "2026-05-18T16:53:28.528925+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.528925+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.267612+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "Commercial Assessments & Lifecycle Manager Location: Cambridge, UK (Ad-hoc) Department: Global Commercial Analytics Job type: 12-month Fixed-Term Contract Join us and make a difference when it matters most! At Mundipharma, we are proud of the work we do to bring innovative treatments to patients. We..."
     },
     {
@@ -273,8 +387,9 @@
       "company_logo": null,
       "posted_at": "2026-05-16T16:49:03Z",
       "ingested_at": "2026-05-18T16:53:28.675180+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.675180+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.422181+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Summary We are seeking an experienced and patient-focused professional to join our Radioligand Therapy (RLT) team as Manager, Customer Operations. In this role, you will lead the end-to-end ordering and delivery process, ensuring seamless, compliant, and high-quality service to healt..."
     },
     {
@@ -298,8 +413,9 @@
       "company_logo": null,
       "posted_at": "2026-05-15T09:27:26Z",
       "ingested_at": "2026-05-18T16:53:28.496786+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.496786+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.207317+00:00",
       "expired": 0,
+      "country": "GB",
       "description_preview": "We\u2019re looking for someone with the passion to support the development, maintenance and improvement of Bristol SU\u2019s website and related digital content. The role combines front\u2011end web development, content management and design with regular engagement with staff teams and students to understand their..."
     },
     {
@@ -323,8 +439,9 @@
       "company_logo": null,
       "posted_at": "2026-05-14T05:26:23Z",
       "ingested_at": "2026-05-18T16:53:28.725427+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.725427+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.479971+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Work Term: Permanent Work Language: English Hours: 40 to 48 hours per week Education: College/CEGEP Experience: 3 years to less than 5 years Work site environment Non-smoking Work setting Staff accommodation available Staff accommodation provided Remote location Campground Hunting and fishing lodge ..."
     },
     {
@@ -348,8 +465,9 @@
       "company_logo": null,
       "posted_at": "2026-05-03T05:27:30Z",
       "ingested_at": "2026-05-18T16:53:28.730015+00:00",
-      "last_seen_at": "2026-05-18T16:53:28.730015+00:00",
+      "last_seen_at": "2026-05-18T20:20:46.483519+00:00",
       "expired": 0,
+      "country": "CA",
       "description_preview": "Job Description Job Description Marks, part of the Propelis Group, Marks is a consumer experience agency creating engaging moments across the entire brand spectrum\u2014from brand design and packaging, to content and consumer connections. We are a collaborative global network of 1,900 team members across..."
     }
   ]

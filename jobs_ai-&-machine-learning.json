@@ -24,8 +24,9 @@
       "company_logo": "",
       "posted_at": "2026-05-18T10:30:34+00:00",
       "ingested_at": "2026-05-18T16:13:41.966159+00:00",
-      "last_seen_at": "2026-05-18T16:20:25.817086+00:00",
+      "last_seen_at": "2026-05-18T19:02:43.340827+00:00",
       "expired": 0,
+      "country": "REMOTE",
       "description_preview": "Pinnipedia is a new Berlin startup building a cloud platform that automates and assists the creation of audit-ready IT-security concepts (e.g., BSI-Grundschutz, C5). We\u2019re IGP-funded (2025/26) and co-develop with FU Berlin and pilot users from industry and security consulting.\nWe\u2019re hiring an AI Eng..."
     },
     {
@@ -53,6 +54,7 @@
       "ingested_at": "2026-05-18T16:13:41.966587+00:00",
       "last_seen_at": "2026-05-18T16:20:25.817291+00:00",
       "expired": 0,
+      "country": "",
       "description_preview": "Ben jij een gedreven sales professional die energie krijgt van het adviseren over cutting-edge AI-oplossingen? Bij SevenLab transformeren we de manier waarop bedrijven AI software laten ontwikkelen met ons unieke Software Development As A Service (SDaaS) model. We zoeken een Account Executive die co..."
     }
   ]
