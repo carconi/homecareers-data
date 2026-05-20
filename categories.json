@@ -152,8 +152,13 @@
     },
     {
       "name": "Marketing",
-      "count": 28,
+      "count": 34,
       "file": "jobs_marketing.json"
+    },
+    {
+      "name": "Customer Support",
+      "count": 18,
+      "file": "jobs_customer-support.json"
     },
     {
       "name": "Other/General Jobs",
@@ -166,9 +171,9 @@
       "file": "jobs_medical-officer.json"
     },
     {
-      "name": "Customer Support",
-      "count": 17,
-      "file": "jobs_customer-support.json"
+      "name": "Other",
+      "count": 11,
+      "file": "jobs_other.json"
     },
     {
       "name": "Design",
@@ -176,19 +181,14 @@
       "file": "jobs_design.json"
     },
     {
-      "name": "Other",
-      "count": 8,
-      "file": "jobs_other.json"
+      "name": "Technology & IT",
+      "count": 10,
+      "file": "jobs_technology-&-it.json"
     },
     {
       "name": "Software Development",
       "count": 6,
       "file": "jobs_software-development.json"
-    },
-    {
-      "name": "Technology & IT",
-      "count": 5,
-      "file": "jobs_technology-&-it.json"
     },
     {
       "name": "IT-Stellen",
@@ -244,6 +244,11 @@
       "name": "Customer Service",
       "count": 3,
       "file": "jobs_customer-service.json"
+    },
+    {
+      "name": "Sales & Business Dev",
+      "count": 2,
+      "file": "jobs_sales-&-business-dev.json"
     },
     {
       "name": "Design & Creative",
