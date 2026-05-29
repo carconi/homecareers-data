@@ -1,0 +1,34 @@
+{
+  "category": "Operations Research",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "9e14d34649be6811",
+      "source": "usajobs",
+      "external_id": "DE-12955820-26-AB",
+      "title": "Graduate Student Research Assistant",
+      "company": "Judicial Branch - Agency Wide",
+      "description": "The Research Division undertakes empirical research related to the operation of the federal courts, often at the request of the Judicial Conference of the United States and its committees, specific courts, or other groups in the federal court system. The primary duties and responsibilities of the graduate student research assistant are to provide support to Research Division project teams in the design and conduct of social science research aimed at discovering innovative or improved approaches to the judicial administration in federal appellate, district, and bankruptcy courts. Specific duties and responsibilities, generally exercised under the guidance of a Research Associate or Senior Research Associate, may include support with: Conducting literature reviews; Organizing, coding, and analyzing data; Creating and documenting datasets; Creating tables and graphs to present research findings; Developing research instruments such as interview protocols, questionnaires, and coding protocols; Writing and administering online surveys; and Writing reports of research findings. The Federal Judicial Center offers a range of telework and flexible work schedule options based on the employee's position categorization. The Graduate Student Research Assistant position is a remote-eligible position and will not require relocation.",
+      "category": "Operations Research",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "12-39 hours per week",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 21.36,
+      "salary_max": 24.04,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/869474800",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-27T00:00:00.0000",
+      "ingested_at": "2026-05-29T05:27:44.670803+00:00",
+      "last_seen_at": "2026-05-29T05:27:44.670803+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Research Division undertakes empirical research related to the operation of the federal courts, often at the request of the Judicial Conference of the United States and its committees, specific courts, or other groups in the federal court system. The primary duties and responsibilities of the gr..."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "category": "Data and Analytics",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "6f9bb420df53fd52",
+      "source": "remotive",
+      "external_id": "2090903",
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "description": "<p><u>Who We Are</u><br><br>Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks.<br>We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings.<br><br><u>About You</u><br><br>We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused digital work. We're especially interested in:</p>\n<ul style=\"\">\n<li style=\"\">People who can carefully review written information, images, documents, or other digital content</li>\n<li style=\"\">Strong readers and writers with good judgment</li>\n<li style=\"\">People who can follow detailed instructions consistently</li>\n<li style=\"\">Individuals who are comfortable using web-based tools and online platforms</li>\n<li style=\"\">People who take quality seriously and can spot mistakes or inconsistencies</li>\n<li style=\"\">Those who enjoy focused, independent work while contributing to a larger project</li>\n<li style=\"\">Strong character matters \u2014 we value integrity, reliability, curiosity, and a commitment to high-quality work</li>\n</ul>\n<p><br><br><u>Qualifications</u></p>\n<ul style=\"\">\n<li style=\"\">Comfortable using a computer for extended periods</li>\n<li style=\"\">Reliable internet connection</li>\n<li style=\"\">Strong attention to detail</li>\n<li style=\"\">Ability to follow written guidelines and project instructions</li>\n<li style=\"\">Clear written communication skills</li>\n<li style=\"\">Basic familiarity with spreadsheets, online forms, or web-based work tools</li>\n<li style=\"\">Ability to work independently and meet deadlines</li>\n<li style=\"\">Prior experience in data labeling, annotation, quality review, research, writing, customer support, operations, or administrative work is helpful but not required</li>\n</ul>\n<p><!-- x-tinymce/html --></p>\n<p><br><br><u>Compensation</u><br><br>Compensation is $18- $22 an hour and a max of 40 hours a week.<br><br><u>A Place to Do Meaningful Work</u><br><br>Data labeling may sound simple, but it plays an important role in improving the technology people use every day. At Workada, your work helps create the examples and feedback that make advanced systems more accurate, consistent, and useful.<br><br>We're looking for people who care about accuracy, consistency, and careful judgment. Whether you're reviewing text, categorizing information, evaluating responses, or checking data quality, your work helps improve the way technology performs.</p>\n<img src=\"https://remotive.com/job/track/2090903/blank.gif?source=public_api\" alt=\"\"/>",
+      "category": "Data and Analytics",
+      "tags": [
+        "research",
+        "digital content",
+        "spreadsheets"
+      ],
+      "job_type": "freelance",
+      "location": "USA",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "affiliate_url": null,
+      "company_logo": "https://remotive.com/job/2090903/logo",
+      "posted_at": "2026-05-27T07:12:56",
+      "ingested_at": "2026-05-29T04:33:47.157008+00:00",
+      "last_seen_at": "2026-05-29T04:33:47.157008+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Who We AreWorkada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks.We believe careful data work matters. Every rev..."
+    }
+  ]
+}

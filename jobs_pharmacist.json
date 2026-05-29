@@ -1,7 +1,63 @@
 {
   "category": "Pharmacist",
-  "total": 1,
+  "total": 3,
   "jobs": [
+    {
+      "id": "058f1ff6db77a970",
+      "source": "usajobs",
+      "external_id": "CBSX-12965292-26-GK",
+      "title": "CLINICAL PHARMACIST",
+      "company": "Veterans Health Administration",
+      "description": "VA Careers - Pharmacy: https://youtube.com/embed/Fn_ickNBEws **The salary range listed on this announcement only reflects the General Schedule incorporating Rest of U.S. basic pay. Upon selection, the salary will be adjusted to include the special salary rate and locality adjustment for the specific location.** Major duties include but are not limited to the following: Professionally receives and handles escalated telephone calls from and responds to veterans, their family members and/or legal representatives regarding a broad range of topics, including: appropriate use of medications and medical devices, basic billing inquiries, clinical questions, medication refills/renewals, drug-drug interactions, adverse effects, food-drug interactions, product availability, and pharmacy policies as appropriate. Monitors provider's orders for appropriateness of therapy and reports drug errors, adverse drug reactions, allergies, incompatibilities, side effects and patient compliance issues and appropriately interacts with the ordering provider or attending as needed. Actively reviews patient medication regimens for cost effective drug selection, dosing, contraindications, therapeutic duplication, appropriate route and method of administration, drug interactions, and therapeutic outcomes as required. Provides findings and responses to drug information requests to prescribers in a timely manner and provides appropriate alternatives to current treatment plans as needed. Utilizes patient care information systems such as VistA and CPRS to obtain critical patient data elements and to document clinical interventions and other pertinent patient care issues in a timely and professional manner. Manages recalls and medication shortage situations by substituting alternate dosage strengths or products per facility policy. Enters supply orders appropriate for patient care per VISN CCC policy. Manages various actions, as appropriate, for medication orders to include flagging prescriptions, managing view alerts, using the \"hold\" function, and generating unsigned discontinued orders using the \"service reject\" function. Reviews prescription renewal verification requests and takes appropriate action to extend refills until the next scheduled appointment under the provider's name per VISN CCC policy. Obtains medication histories from patients and summarizes significant findings in the medical record and/or to the provider as appropriate. Performs medication reconciliation at all transitions of care, including updating the medication profile to reflect an accurate, active list of VA and non- VA medications. Work Schedule: Rotating shifts between 7:00pm to 7:00am and 7:00am to 7:00pm, but will be scheduled 7 on 7 off during WHEN (Weekends, Holidays, Evenings, and Nights). Telework: Not Available Virtual: This is a virtual position. Functional Statement #: 000000 Relocation/Recruitment Incentives: Not Authorized Permanent Change of Station (PCS): Not Authorized",
+      "category": "Pharmacist",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 89508.0,
+      "salary_max": 116362.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870171100",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-20T17:32:43.3770",
+      "ingested_at": "2026-05-21T18:42:12.268733+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.268733+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "VA Careers - Pharmacy: https://youtube.com/embed/Fn_ickNBEws **The salary range listed on this announcement only reflects the General Schedule incorporating Rest of U.S. basic pay. Upon selection, the salary will be adjusted to include the special salary rate and locality adjustment for the specific..."
+    },
+    {
+      "id": "fc679cb3e9e4da78",
+      "source": "usajobs",
+      "external_id": "CAZM-12966267-26-KLI",
+      "title": "Pharmacist (Pharmacy Supervisor) Clinical Contact Center/VA Health Connect",
+      "company": "Veterans Health Administration",
+      "description": "The Pharmacy Supervisor is accountable to the CCC Pharmacy Chief or other immediate supervisor who provides the administrative oversight, work assignment, management of time and leave and completion of all aspects of the performance evaluation. Projects will be both self-initiated and assigned with additional assignments issued as workload dictates, with overall goals and objectives being communicated by the incumbents designated supervisor. The technician supervisor works collaboratively with all levels of VA leadership and services within and outside of the VHA and VISN as well as non-VA health care entities which provide care to patients. During non-administrative tours, a designated administrative official provides general employee guidance and documents relevant issues for referral and review by the appropriate supervisor. Administration/Supervisory: Manages the day-to-day operations of the VISN CCC Pharmacy Service and serves as the immediate supervisor for the pharmacists and pharmacy technician supervisors. Resolves personnel matters dealing with employees and union representatives in regard to employee- management concerns. Approves or denies leave requests for the VISN CCC pharmacists and pharmacy technician supervisors based on workload needs. This includes the addition of new tours of duty as needed. Completes performance evaluations, recommendations for awards, and/or disciplinary actions for the VISN CCC Pharmacy Service staff and makes recommendations to the VISN CCC Pharmacy Chief or designee, when appropriate. Acts as a liaison and point of contact between the VISN CCC Pharmacy Service and the facilities serviced. Participates in the development and revision of VISN CCC Pharmacy Service policies, procedures, and training. Responds to elevated patient inquiries, as needed, and ensures that customer satisfaction is achieved. Prepares reports and documentation upon request from the VISN, VISN CCC Board of Directors or appropriate governance structure. Arranges continuous improvement huddles for pharmacy staff as a means of communication and process improvement. Serves as a backup with respect to any duties normally performed by GS-12 VISN CCC pharmacists. Education/Training: Participates in meetings, conferences, and training programs relevant to the development and maintenance of the VISN CCC Pharmacy Service. Promotes employee professional development through continuing education programs. Works with the VISN CCC Pharmacy Service Chief to identify and plan relevant staff related development and educational programs. Assists in preparing and coordinating new employees' on-boarding experience. Responsible for implementing, documenting training, and expanding capabilities of all VISN CCC Pharmacy Service staff. Serves as a preceptor for pharmacy students and/or pharmacy residents. Work Schedule: CCC is open a 365-day 24/7, 80 hours per pay period. Work schedules will be determined based on staffing needs and may require rotating shifts. Holidays and weekend work are required. Virtual: This is a virtual position. Functional Statement #: 55801-F Relocation/Recruitment Incentives: Not Authorized Permanent Change of Station (PCS): Not Authorized",
+      "category": "Pharmacist",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 149490.0,
+      "salary_max": 194339.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870076300",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-20T12:04:52.9370",
+      "ingested_at": "2026-05-21T18:42:12.268551+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.268551+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Pharmacy Supervisor is accountable to the CCC Pharmacy Chief or other immediate supervisor who provides the administrative oversight, work assignment, management of time and leave and completion of all aspects of the performance evaluation. Projects will be both self-initiated and assigned with ..."
+    },
     {
       "id": "b1b74198ee9114d5",
       "source": "usajobs",
@@ -25,7 +81,7 @@
       "company_logo": null,
       "posted_at": "2026-05-14T10:06:02.1270",
       "ingested_at": "2026-05-18T04:32:04.118061+00:00",
-      "last_seen_at": "2026-05-18T20:20:49.691043+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.261867+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "VA Careers - Pharmacy: https://youtube.com/embed/Fn_ickNBEws **The salary range listed on this announcement only reflects the General Schedule incorporating Rest of U.S. basic pay. Upon selection, the salary will be adjusted to include the special salary rate and locality adjustment for the specific..."

@@ -1,7 +1,35 @@
 {
   "category": "Social Work",
-  "total": 1,
+  "total": 2,
   "jobs": [
+    {
+      "id": "272674270a49c968",
+      "source": "usajobs",
+      "external_id": "CBSW-12965209-26-DM",
+      "title": "Senior Social Worker -Behavioral Health Interdisciplinary Program- Dual Diagnosis",
+      "company": "Veterans Health Administration",
+      "description": "The Senior Social Worker works collaboratively across VA programs to treat Veterans with dual diagnosis (mental health and substance use disorders). This may include providing substance use disorder (SUD) treatment within a Behavioral Health Interdisciplinary Program (BHIP) team, and partnering with the SUD Program on developing and implementing Harm Reduction Services within BHIP to offer the full continuum of care to Veterans who decline or are not appropriate for treatment of their SUD within the SUDP. Major duties include: Work with the SUDP Harm Reduction coordinator to ensure Veterans within BHIP teams have access to harm reduction services, which may include collaborating with various VA departments and community agencies. Completes Mental Health assessments and provides evidence-based psychotherapeutic interventions, including individual and group psychotherapy within a BHIP team. Provide case management, crisis intervention, advocacy services, and the coordination of linkages to other appropriate VA or community service providers/agencies as needed by the Veteran. Develop appropriate professional relationships with the Veterans and meet the Veteran where they are in the recovery process as Veterans who may benefit from harm reduction services are frequently also diagnosed with co-occurring mental health, physical health and social problems that require care coordination and referral. Develop liaison relationships with more acute treatment providers, specialty programs, and community human service agencies. Work Schedule: Monday - Friday, 8:00am - 4:30pm Telework: Not Available Virtual: This is not a virtual position. Remote: This position may be eligible for remote work and is currently operating under an extension of the Return-to-Office (RTO) mandate. Please note that remote work eligibility is reviewed on an ongoing basis and does not imply a permanent remote work status until an exemption is approved. You must live within 50 miles of a VA Medical Center.. Functional Statement #: 10476F Relocation/Recruitment Incentives: Not Authorized EDRP Authorized: Former EDRP participants ineligible to apply for incentive. Contact V21CCOEEDRP@va.gov , the EDRP Coordinator for questions/assistance. Learn more Permanent Change of Station (PCS): Not Authorized",
+      "category": "Social Work",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 97100.0,
+      "salary_max": 126233.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870220500",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-21T09:50:27.8330",
+      "ingested_at": "2026-05-21T18:42:12.268927+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.268927+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Senior Social Worker works collaboratively across VA programs to treat Veterans with dual diagnosis (mental health and substance use disorders). This may include providing substance use disorder (SUD) treatment within a Behavioral Health Interdisciplinary Program (BHIP) team, and partnering with..."
+    },
     {
       "id": "27586fa75482d8b8",
       "source": "usajobs",
@@ -25,7 +53,7 @@
       "company_logo": null,
       "posted_at": "2026-05-13T11:19:47.6500",
       "ingested_at": "2026-05-18T04:32:04.117933+00:00",
-      "last_seen_at": "2026-05-18T20:20:49.690972+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.260626+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "This position currently has a Return to Office (RTO) mid-term extension (180-days). Remote work is currently authorized; however, candidates may be subject to return to office in the event policy changes or the exemption is not extended. Duties and skills needed to be successful in this position inc..."

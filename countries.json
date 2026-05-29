@@ -3,37 +3,37 @@
     {
       "code": "US",
       "label": "United States",
-      "count": 6294,
+      "count": 18538,
       "file": "jobs_country_us.json"
-    },
-    {
-      "code": "AU",
-      "label": "Australia",
-      "count": 5987,
-      "file": "jobs_country_au.json"
     },
     {
       "code": "GB",
       "label": "United Kingdom",
-      "count": 5752,
+      "count": 15954,
       "file": "jobs_country_gb.json"
+    },
+    {
+      "code": "AU",
+      "label": "Australia",
+      "count": 14302,
+      "file": "jobs_country_au.json"
     },
     {
       "code": "CA",
       "label": "Canada",
-      "count": 5221,
+      "count": 12183,
       "file": "jobs_country_ca.json"
     },
     {
       "code": "OTHER",
       "label": "OTHER",
-      "count": 4958,
+      "count": 4954,
       "file": "jobs_country_other.json"
     },
     {
       "code": "REMOTE",
       "label": "Remote / Global",
-      "count": 147,
+      "count": 336,
       "file": "jobs_country_remote.json"
     }
   ]

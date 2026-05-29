@@ -2,133 +2,148 @@
   "categories": [
     {
       "name": "IT Jobs",
-      "count": 5215,
+      "count": 13693,
       "file": "jobs_it-jobs.json"
     },
     {
       "name": "Healthcare & Nursing Jobs",
-      "count": 3038,
+      "count": 5830,
       "file": "jobs_healthcare-&-nursing-jobs.json"
     },
     {
       "name": "Accounting & Finance Jobs",
-      "count": 2376,
+      "count": 5741,
       "file": "jobs_accounting-&-finance-jobs.json"
     },
     {
       "name": "Engineering Jobs",
-      "count": 2116,
+      "count": 4975,
       "file": "jobs_engineering-jobs.json"
     },
     {
       "name": "Sales Jobs",
-      "count": 1933,
+      "count": 4773,
       "file": "jobs_sales-jobs.json"
     },
     {
       "name": "PR, Advertising & Marketing Jobs",
-      "count": 1643,
+      "count": 3896,
       "file": "jobs_pr,-advertising-&-marketing-jobs.json"
     },
     {
       "name": "Admin Jobs",
-      "count": 1463,
+      "count": 3406,
       "file": "jobs_admin-jobs.json"
     },
     {
       "name": "Teaching Jobs",
-      "count": 1335,
+      "count": 2723,
       "file": "jobs_teaching-jobs.json"
     },
     {
       "name": "Logistics & Warehouse Jobs",
-      "count": 1137,
+      "count": 2427,
       "file": "jobs_logistics-&-warehouse-jobs.json"
     },
     {
-      "name": "Customer Services Jobs",
-      "count": 975,
-      "file": "jobs_customer-services-jobs.json"
-    },
-    {
       "name": "Trade & Construction Jobs",
-      "count": 953,
+      "count": 2343,
       "file": "jobs_trade-&-construction-jobs.json"
     },
     {
+      "name": "Customer Services Jobs",
+      "count": 2106,
+      "file": "jobs_customer-services-jobs.json"
+    },
+    {
+      "name": "HR & Recruitment Jobs",
+      "count": 1814,
+      "file": "jobs_hr-&-recruitment-jobs.json"
+    },
+    {
       "name": "Hospitality & Catering Jobs",
-      "count": 806,
+      "count": 1725,
       "file": "jobs_hospitality-&-catering-jobs.json"
     },
     {
       "name": "Legal Jobs",
-      "count": 643,
+      "count": 1514,
       "file": "jobs_legal-jobs.json"
     },
     {
-      "name": "HR & Recruitment Jobs",
-      "count": 635,
-      "file": "jobs_hr-&-recruitment-jobs.json"
-    },
-    {
-      "name": "Creative & Design Jobs",
-      "count": 549,
-      "file": "jobs_creative-&-design-jobs.json"
-    },
-    {
       "name": "Retail Jobs",
-      "count": 542,
+      "count": 1182,
       "file": "jobs_retail-jobs.json"
     },
     {
+      "name": "Creative & Design Jobs",
+      "count": 1177,
+      "file": "jobs_creative-&-design-jobs.json"
+    },
+    {
       "name": "Social work Jobs",
-      "count": 418,
+      "count": 1053,
       "file": "jobs_social-work-jobs.json"
     },
     {
-      "name": "Part time Jobs",
-      "count": 398,
-      "file": "jobs_part-time-jobs.json"
-    },
-    {
-      "name": "Manufacturing Jobs",
-      "count": 354,
-      "file": "jobs_manufacturing-jobs.json"
-    },
-    {
       "name": "Consultancy Jobs",
-      "count": 351,
+      "count": 1021,
       "file": "jobs_consultancy-jobs.json"
     },
     {
+      "name": "Part time Jobs",
+      "count": 885,
+      "file": "jobs_part-time-jobs.json"
+    },
+    {
       "name": "Scientific & QA Jobs",
-      "count": 332,
+      "count": 827,
       "file": "jobs_scientific-&-qa-jobs.json"
     },
     {
-      "name": "Travel Jobs",
-      "count": 215,
-      "file": "jobs_travel-jobs.json"
+      "name": "Manufacturing Jobs",
+      "count": 790,
+      "file": "jobs_manufacturing-jobs.json"
     },
     {
       "name": "Energy, Oil & Gas Jobs",
-      "count": 189,
+      "count": 380,
       "file": "jobs_energy,-oil-&-gas-jobs.json"
     },
     {
       "name": "Graduate Jobs",
-      "count": 139,
+      "count": 370,
       "file": "jobs_graduate-jobs.json"
     },
     {
+      "name": "Property Jobs",
+      "count": 307,
+      "file": "jobs_property-jobs.json"
+    },
+    {
       "name": "Maintenance Jobs",
-      "count": 128,
+      "count": 307,
       "file": "jobs_maintenance-jobs.json"
     },
     {
-      "name": "Property Jobs",
-      "count": 103,
-      "file": "jobs_property-jobs.json"
+      "name": "Travel Jobs",
+      "count": 303,
+      "file": "jobs_travel-jobs.json"
+    },
+    {
+      "name": "Domestic help & Cleaning Jobs",
+      "count": 90,
+      "file": "jobs_domestic-help-&-cleaning-jobs.json"
+    },
+    {
+      "name": "Marketing",
+      "count": 87,
+      "file": "jobs_marketing.json"
+    },
+    {
+      "name": "Charity & Voluntary Jobs",
+      "count": 82,
+      "file": "jobs_charity-&-voluntary-jobs.json"
     },
     {
       "name": "Unknown",
@@ -136,14 +151,14 @@
       "file": "jobs_unknown.json"
     },
     {
-      "name": "Charity & Voluntary Jobs",
-      "count": 46,
-      "file": "jobs_charity-&-voluntary-jobs.json"
+      "name": "Technology & IT",
+      "count": 42,
+      "file": "jobs_technology-&-it.json"
     },
     {
-      "name": "Domestic help & Cleaning Jobs",
-      "count": 41,
-      "file": "jobs_domestic-help-&-cleaning-jobs.json"
+      "name": "Other/General Jobs",
+      "count": 40,
+      "file": "jobs_other-general-jobs.json"
     },
     {
       "name": "Engineering",
@@ -151,19 +166,19 @@
       "file": "jobs_engineering.json"
     },
     {
-      "name": "Marketing",
-      "count": 34,
-      "file": "jobs_marketing.json"
-    },
-    {
       "name": "Customer Support",
-      "count": 18,
+      "count": 36,
       "file": "jobs_customer-support.json"
     },
     {
-      "name": "Other/General Jobs",
-      "count": 18,
-      "file": "jobs_other-general-jobs.json"
+      "name": "Other",
+      "count": 35,
+      "file": "jobs_other.json"
+    },
+    {
+      "name": "Design & Creative",
+      "count": 19,
+      "file": "jobs_design-&-creative.json"
     },
     {
       "name": "Medical Officer",
@@ -171,9 +186,9 @@
       "file": "jobs_medical-officer.json"
     },
     {
-      "name": "Other",
-      "count": 11,
-      "file": "jobs_other.json"
+      "name": "Medical Records Technician",
+      "count": 15,
+      "file": "jobs_medical-records-technician.json"
     },
     {
       "name": "Design",
@@ -181,9 +196,14 @@
       "file": "jobs_design.json"
     },
     {
-      "name": "Technology & IT",
+      "name": "Finance & Accounting",
       "count": 10,
-      "file": "jobs_technology-&-it.json"
+      "file": "jobs_finance-&-accounting.json"
+    },
+    {
+      "name": "Sales & Business Dev",
+      "count": 9,
+      "file": "jobs_sales-&-business-dev.json"
     },
     {
       "name": "Software Development",
@@ -191,14 +211,44 @@
       "file": "jobs_software-development.json"
     },
     {
+      "name": "Writing & Content",
+      "count": 5,
+      "file": "jobs_writing-&-content.json"
+    },
+    {
       "name": "IT-Stellen",
       "count": 5,
       "file": "jobs_it-stellen.json"
     },
     {
-      "name": "Medical Records Technician",
+      "name": "Pharmacy Technician",
       "count": 4,
-      "file": "jobs_medical-records-technician.json"
+      "file": "jobs_pharmacy-technician.json"
+    },
+    {
+      "name": "Data & Analytics",
+      "count": 4,
+      "file": "jobs_data-&-analytics.json"
+    },
+    {
+      "name": "AI & Machine Learning",
+      "count": 4,
+      "file": "jobs_ai-&-machine-learning.json"
+    },
+    {
+      "name": "Administrative & Operations",
+      "count": 4,
+      "file": "jobs_administrative-&-operations.json"
+    },
+    {
+      "name": "General Student Trainee",
+      "count": 4,
+      "file": "jobs_general-student-trainee.json"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "count": 4,
+      "file": "jobs_artificial-intelligence.json"
     },
     {
       "name": "Sales",
@@ -221,6 +271,16 @@
       "file": "jobs_operations.json"
     },
     {
+      "name": "Financial Administration And Program",
+      "count": 3,
+      "file": "jobs_financial-administration-and-program.json"
+    },
+    {
+      "name": "Pharmacist",
+      "count": 3,
+      "file": "jobs_pharmacist.json"
+    },
+    {
       "name": "Data",
       "count": 3,
       "file": "jobs_data.json"
@@ -229,11 +289,6 @@
       "name": "Information Technology Management",
       "count": 3,
       "file": "jobs_information-technology-management.json"
-    },
-    {
-      "name": "Artificial Intelligence",
-      "count": 3,
-      "file": "jobs_artificial-intelligence.json"
     },
     {
       "name": "Writing",
@@ -246,19 +301,29 @@
       "file": "jobs_customer-service.json"
     },
     {
-      "name": "Sales & Business Dev",
+      "name": "Retail & E-Commerce",
       "count": 2,
-      "file": "jobs_sales-&-business-dev.json"
+      "file": "jobs_retail-&-e-commerce.json"
     },
     {
-      "name": "Design & Creative",
+      "name": "Product & Project Management",
       "count": 2,
-      "file": "jobs_design-&-creative.json"
+      "file": "jobs_product-&-project-management.json"
     },
     {
-      "name": "AI & Machine Learning",
+      "name": "Product Management",
       "count": 2,
-      "file": "jobs_ai-&-machine-learning.json"
+      "file": "jobs_product-management.json"
+    },
+    {
+      "name": "Manufacturing & Quality",
+      "count": 2,
+      "file": "jobs_manufacturing-&-quality.json"
+    },
+    {
+      "name": "Social Work",
+      "count": 2,
+      "file": "jobs_social-work.json"
     },
     {
       "name": "Psychology",
@@ -281,9 +346,64 @@
       "file": "jobs_vertriebsstellen.json"
     },
     {
-      "name": "Data & Analytics",
+      "name": "Physician Assistant",
       "count": 1,
-      "file": "jobs_data-&-analytics.json"
+      "file": "jobs_physician-assistant.json"
+    },
+    {
+      "name": "HR & Recruiting",
+      "count": 1,
+      "file": "jobs_hr-&-recruiting.json"
+    },
+    {
+      "name": "Banking & Insurance",
+      "count": 1,
+      "file": "jobs_banking-&-insurance.json"
+    },
+    {
+      "name": "Data and Analytics",
+      "count": 1,
+      "file": "jobs_data-and-analytics.json"
+    },
+    {
+      "name": "Operations Research",
+      "count": 1,
+      "file": "jobs_operations-research.json"
+    },
+    {
+      "name": "Mathematics And Statistics Student Trainee",
+      "count": 1,
+      "file": "jobs_mathematics-and-statistics-student-trainee.json"
+    },
+    {
+      "name": "Supply Chain & Logistics",
+      "count": 1,
+      "file": "jobs_supply-chain-&-logistics.json"
+    },
+    {
+      "name": "Management And Program Analysis",
+      "count": 1,
+      "file": "jobs_management-and-program-analysis.json"
+    },
+    {
+      "name": "Social Services Aid And Assistant",
+      "count": 1,
+      "file": "jobs_social-services-aid-and-assistant.json"
+    },
+    {
+      "name": "Miscellaneous Administration And Program",
+      "count": 1,
+      "file": "jobs_miscellaneous-administration-and-program.json"
+    },
+    {
+      "name": "General Legal And Kindred Administration",
+      "count": 1,
+      "file": "jobs_general-legal-and-kindred-administration.json"
+    },
+    {
+      "name": "Healthcare",
+      "count": 1,
+      "file": "jobs_healthcare.json"
     },
     {
       "name": "Administrative Law Judge",
@@ -301,19 +421,9 @@
       "file": "jobs_general-investigation.json"
     },
     {
-      "name": "Pharmacist",
-      "count": 1,
-      "file": "jobs_pharmacist.json"
-    },
-    {
       "name": "General Education And Training",
       "count": 1,
       "file": "jobs_general-education-and-training.json"
-    },
-    {
-      "name": "Social Work",
-      "count": 1,
-      "file": "jobs_social-work.json"
     },
     {
       "name": "Licensed Professional Mental Health Counselor",
@@ -331,11 +441,6 @@
       "file": "jobs_stellen-aus-buchhaltung-&-finanzwesen.json"
     },
     {
-      "name": "Pharmacy Technician",
-      "count": 1,
-      "file": "jobs_pharmacy-technician.json"
-    },
-    {
       "name": "Medical Support Assistance",
       "count": 1,
       "file": "jobs_medical-support-assistance.json"
@@ -344,11 +449,6 @@
       "name": "Emplois Informatique",
       "count": 1,
       "file": "jobs_emplois-informatique.json"
-    },
-    {
-      "name": "Financial Administration And Program",
-      "count": 1,
-      "file": "jobs_financial-administration-and-program.json"
     },
     {
       "name": "Devops",

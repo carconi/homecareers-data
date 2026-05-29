@@ -1,7 +1,63 @@
 {
   "category": "Financial Administration And Program",
-  "total": 1,
+  "total": 3,
   "jobs": [
+    {
+      "id": "4ca377f72a5cad8e",
+      "source": "usajobs",
+      "external_id": "CCLQ-12958662-CA",
+      "title": "Lead Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "description": "The initial application review cut-off for this job announcement is 100 applications. The first 100 applications received will be considered first. Applications received after the initial cut-off number (100 applications) may not receive consideration unless otherwise requested by management. If management requests additional certificates, applicants will continue to be reviewed in groups of 100 in the order they applied. *Note: Submitting multiple applications will change the order in which your application is reviewed. Major Duties: Conducts training for the staff and/or perform on-going training as assigned by the supervisor; Give on the job training to new employees in accordance with established procedures and practices. Instruct employees in specific tasks and job techniques and make available written instructions and reference materials. Provides technical expertise on internal controls, process improvement, establishment and monitoring of key performance indicators. Creates documentation, write procedures/programs and provide information on system requirements and reporting solutions. Analyzes problems that are new or novel in nature, evaluates alternative approaches, solutions, and responds to diverse needs and viewpoints in arriving at a final solution or recommendation. Work Schedule: Monday - Friday, 8:00am - 4:30pm (Work schedule may vary under Supervisor's discretion) Compressed/Flexible: Not Available Telework: Not Available Virtual: This is not a virtual position. Position Description/PD#: PD17381A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not required",
+      "category": "Financial Administration And Program",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 63795.0,
+      "salary_max": 82938.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870185700",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-22T00:00:00.0000",
+      "ingested_at": "2026-05-29T05:27:44.672426+00:00",
+      "last_seen_at": "2026-05-29T05:27:44.672426+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The initial application review cut-off for this job announcement is 100 applications. The first 100 applications received will be considered first. Applications received after the initial cut-off number (100 applications) may not receive consideration unless otherwise requested by management. If man..."
+    },
+    {
+      "id": "5a59b8e0c8a01e79",
+      "source": "usajobs",
+      "external_id": "CCLQ-12964274-26-GRB",
+      "title": "Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "description": "Major Duties: Serves in a call center environment, working assigned tours of duty to support nationwide coverage of customer support operations Delivers technical customer support by researching and applying relevant policies, procedures, knowledge bases, and reference materials to resolve functional and technical incidents related to the agency's financial management systems and applications Functions as an analyst on major organizational projects, including, but not limited to the planning and deployment of new systems (e.g., VATAS), migration to upgraded systems (e.g., DCPS), and implementation of initiatives involving key financial applications (e.g., HR Smart) Responds to and resolves customer requests and technical issues related to information technology services, escalating issues as needed to ensure timely and effective resolution Exercises strong communication skills through delivering presentations, preparing and editing technical documentation and correspondence, and actively listening to accurately assess and address customer needs Promotion Potential: The selectee may be promoted to the full performance level without further competition when all regulatory, qualification, and performance requirements are met. Selection at a lower grade level does not guarantee promotion to the full performance level. Work Schedule: Monday - Friday 8 am - 4:30 pm Compressed/Flexible: Not Authorized Remote: This is a remote position. Position Description/PD#: PD13240A and PD13239A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not required",
+      "category": "Financial Administration And Program",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 43106.0,
+      "salary_max": 68549.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870140800",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-21T00:00:00.0000",
+      "ingested_at": "2026-05-21T18:42:12.268595+00:00",
+      "last_seen_at": "2026-05-29T05:27:44.672149+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Major Duties: Serves in a call center environment, working assigned tours of duty to support nationwide coverage of customer support operations Delivers technical customer support by researching and applying relevant policies, procedures, knowledge bases, and reference materials to resolve functiona..."
+    },
     {
       "id": "53a21f968b57ccff",
       "source": "usajobs",
@@ -25,7 +81,7 @@
       "company_logo": null,
       "posted_at": "2026-05-07T00:00:00.0000",
       "ingested_at": "2026-05-18T04:32:04.117680+00:00",
-      "last_seen_at": "2026-05-18T20:20:49.690590+00:00",
+      "last_seen_at": "2026-05-21T18:42:12.259225+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Articulates and communicates to project teams the assignments, projects, problems to be resolved, actionable events, milestones, and issues, and sets deadlines and time frames for completion. When applicable, coordinates implementation of the projects and work relationships with relevant areas of th..."
