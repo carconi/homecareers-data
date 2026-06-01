@@ -1,7 +1,35 @@
 {
   "category": "Medical Support Assistance",
-  "total": 1,
+  "total": 2,
   "jobs": [
+    {
+      "id": "fff17ccdced7eeb7",
+      "source": "usajobs",
+      "external_id": "CBSR-12972936-26-CMT",
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "description": "Major Duties: Duties for the Medical Support Assistant (Advanced) include but are not limited to: Ensures scheduling practices and standards are implemented across the enterprise. Exercise organizational skills, problem-solve ability, and content expertise in the varies scheduling programs and best practices. Coordinate with the patient care team to review the clinic utilization by using various report, ensures that the clinic setup is closely monitored to effectively support the needs of the clinic, and make any necessary adjustments. Possess advanced knowledge of policies and procedures associated with operational activities that affect the patient flow, patient care and the revenue process. Participates in daily team huddles and weekly team meetings where patient care planning and management occur. Manage Electronic Wait List to verify and validate accuracy and resolve issues, provide input in problem solving on operational issues or procedures in team meetings and performing administrative follow up action. Identify customer's concerns, perform the task required to resolve the issues accurately and timely, and follow-up as necessary to ensure a satisfactory resolution. Possess advanced knowledge of medical terminology due to the technical nature of language utilized by clinicians. Facilitates communication between providers and patients, serving as the point of contact for incoming provider calls from patients, facilities, and others, communicating tactfully and effectively both orally and in writing if needed. Additional duties or tasks may be assigned by the supervisor to ensure efficient daily operations. VA Careers - Medical Support Assistant: https://youtube.com/embed/EE9c4XkaELo Work Schedule: Monday - Friday, standard daytime hours across multiple time zones. Evenings, weekends, and holidays required as necessary based on the needs of the Clinical Resource Hub and spoke sites. Compressed/Flexible: Authorized Telework: Not Available Remote: This position is designated as remote. Remote work is defined as full-time employment conducted outside of a VA facility or in VA-leased spaces. The option for remote work will be assessed continuously, and the selected individual may need to return to a VA office if required. The selectee must live within 50 miles of a VA Medical Center. Functional Statement #: 91615-A",
+      "category": "Medical Support Assistance",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 45409.0,
+      "salary_max": 59031.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/871269400",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-01T15:00:46.0600",
+      "ingested_at": "2026-06-01T20:45:16.232570+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.232570+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Major Duties: Duties for the Medical Support Assistant (Advanced) include but are not limited to: Ensures scheduling practices and standards are implemented across the enterprise. Exercise organizational skills, problem-solve ability, and content expertise in the varies scheduling programs and best ..."
+    },
     {
       "id": "ccb07256201fda68",
       "source": "usajobs",

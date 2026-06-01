@@ -1,0 +1,34 @@
+{
+  "category": "Medical Records Administration",
+  "total": 1,
+  "jobs": [
+    {
+      "id": "d3bdce7bf04e3279",
+      "source": "usajobs",
+      "external_id": "CBSW-12972932-26-LK",
+      "title": "Medical Records Administrator Specialist",
+      "company": "Veterans Health Administration",
+      "description": "Work Schedule: 8:00am to 4:30pm, Monday-Friday Compressed/Flexible: Not Authorized Remote: These approved positions are currently designated for a mid-term extension to the return to office mandate through October 2025. While these positions may be filled as remote, the employee will be required to return to the office if the mid-term extension is not continued. Therefore, all applicants must be located within 50 miles of a VA facility. Telework: Once returned to the office Telework may be approved as ADHOC, depending on Supervisor approval. Virtual: This is a virtual position. Functional Statement #: GS-5: 10445-F, GS-7: 10446-F, GS-9: 10447-F and GS:11: 10448-F Relocation/Recruitment Incentives: Not Authorized Permanent Change of Station (PCS): Not Authorized PCS Appraised Value Offer (AVO): Not Authorized Major Duties include but are not limited to the following: Maintains current knowledge of regulatory and policy requirements affecting coded information. Works within a team environment; supports peers in meeting goals and deadlines; flexible and handles multiple tasks, works under pressure; and copes with frequently changing projects and deadlines. Analyzes situations or processes and recommends improvements. Participates in quality assurance studies of hard-copy and/or electronic health record (EHR) processing. Provides education and training to HIM, clinical and administrative staff. Monitors encounters and charges for accuracy and completeness, coordinating resolution of suspended charges or encounters on hold, supporting validation of clinical and encounter data, identifying and correcting registration data errors, and collaborating with Revenue Cycle staff and national partners on coding and Charge Description Master maintenance. Serves as an EHR liaison for automated clinical applications, particularly those involving the clinical record and tools supporting clinicians and other health care providers. Conducts research and coordinates projects and studies of records systems, including defining study scope, formulating plans of action, designing tools, tabulating results, summarizing findings, making recommendations, and preparing management reports.",
+      "category": "Medical Records Administration",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 34799.0,
+      "salary_max": 82938.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/871247200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-01T13:45:40.9300",
+      "ingested_at": "2026-06-01T20:45:16.232496+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.232496+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Work Schedule: 8:00am to 4:30pm, Monday-Friday Compressed/Flexible: Not Authorized Remote: These approved positions are currently designated for a mid-term extension to the return to office mandate through October 2025. While these positions may be filled as remote, the employee will be required to ..."
+    }
+  ]
+}

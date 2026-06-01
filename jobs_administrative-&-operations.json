@@ -1,7 +1,62 @@
 {
   "category": "Administrative & Operations",
-  "total": 4,
+  "total": 6,
   "jobs": [
+    {
+      "id": "3a1a83b10efcb502",
+      "source": "remoteok",
+      "external_id": "1132592",
+      "title": "Executive Assistant",
+      "company": "Experian",
+      "description": "Posted 8:06:35 PM. Job Posting - Salary Range: $63,964 - $110,872Company DescriptionExperian is a global data and\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **OVERTAKES** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Administrative & Operations",
+      "tags": [
+        "virtual assistant",
+        "exec"
+      ],
+      "job_type": "full-time",
+      "location": "United States, ",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-experian-1132592",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-05-30T12:01:49+00:00",
+      "ingested_at": "2026-06-01T19:50:51.837300+00:00",
+      "last_seen_at": "2026-06-01T19:50:51.837300+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Posted 8:06:35 PM. Job Posting - Salary Range: $63,964 - $110,872Company DescriptionExperian is a global data and\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.Please mention the word **OVERTAKES** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avo..."
+    },
+    {
+      "id": "30eddcda867f4b9a",
+      "source": "remoteok",
+      "external_id": "1132585",
+      "title": "Virtual Receptionist VA Fast Hiring 24 Hour Review",
+      "company": "OnlineJobs.PH",
+      "description": "Important: Selected applicants will receive a response within 24 hours. Due to the volume of applications, we may move forward with other candidates if we do not receive a timely response.<br><br>We are currently hiring for a long-term Remote Receptionist position. Responsibilities include answering inbound calls, scheduling appointments, de-escalating complaints, and completing administrative tasks in a fast-paced environment. This is a performance-based role where all calls are recorded and regularly audited for quality assurance.<br><br>For candidates who may be a stronger fit outside of a voice-based role, we also offer non-voice positions with a heavier focus on administrative tasks, subject to availability and overall fit.<br><br>To apply: Please copy the questions below, paste them into your reply, and answer each question thoroughly.<br><br><ul><li> Where in the Philippines are you currently located? Which backup solutions do you currently have in place for internet or power interruptions?</li><li> Please submit a screenshot of your internet speed and a few samples of your previous work output.</li><li> Please submit two short voice recordings. Recording one should demonstrate booking an appointment from 7:00 PM to 8:00 PM with a total amount of $60. Recording two should demonstrate handling a double charge for a 90-minute massage where the client sees two $90 charges and is requesting a refund.</li><li> Are you currently employed or engaged in any other work, business, freelance projects, or income-generating activities? If yes, please briefly describe your current commitments and typical weekly availability.</li><li> Are you able to commit to a fixed 7-day, 6-hour work schedule during Central Standard Time (CST) hours? What is your expected hourly or monthly pay rate and earliest physical start date if hired.</li><li> Describe three work tasks you have personally completed at least 100 times in a real job. For each task, explain the exact step-by-step process you followed, the tools or systems used, and the typical result or output produced.</li><li> If you were hired today, what are 3 specific work tasks you believe you could fully handle on your own within your first week? For each example, describe the exact task, the tools or software involved, and what successful completion would look like.</li><li> What is the highest workload you have personally handled in a single day or in a single week? Please describe it using specific, measurable figures and briefly explain the context of that workload.</li><li> Briefly introduce yourself and describe the qualities, experiences, work habits, or achievements you believe genuinely set you apart from other applicants for this role.</li></ul><br/><br/>Please mention the word **PROMPTLY** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Administrative & Operations",
+      "tags": [
+        "dev",
+        "speech",
+        "digital nomad"
+      ],
+      "job_type": "full-time",
+      "location": "Virginia, ",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-receptionist-va-fast-hiring-24-hour-review-onlinejobs-ph-1132585",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-05-30T04:51:18+00:00",
+      "ingested_at": "2026-06-01T19:50:51.840403+00:00",
+      "last_seen_at": "2026-06-01T19:50:51.840403+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Important: Selected applicants will receive a response within 24 hours. Due to the volume of applications, we may move forward with other candidates if we do not receive a timely response.We are currently hiring for a long-term Remote Receptionist position. Responsibilities include answering inbound..."
+    },
     {
       "id": "e3ebc7732ed020c7",
       "source": "remoteok",

@@ -1,7 +1,35 @@
 {
   "category": "Medical Records Technician",
-  "total": 15,
+  "total": 16,
   "jobs": [
+    {
+      "id": "6083c5e914ebcd1d",
+      "source": "usajobs",
+      "external_id": "CBTD-12967561-26-JP",
+      "title": "Medical Records Technician (Coder-In/Out)",
+      "company": "Veterans Health Administration",
+      "description": "Medical Record Technicians (MRT) are skilled in classifying medical data from patient health records in the hospital setting, and/or physician-based settings, such as physician offices, group practices, multi-specialty clinics, and specialty centers. These coding practitioners analyze and abstract patients' health records and assign alpha-numeric codes for each diagnosis and procedure. To perform this task, they must possess expertise in International Classification of Diseases (ICD), Current Procedural Terminology (CPT), and the Healthcare Common Procedure Coding System (HCPCS). MRT (Coder) may also provide education related to coding and documentation. Some duties may include but are not limited too: Performs a comprehensive review of the patient health record to abstract medical, surgical, ancillary, demographic, social, and administrative data to ensure complete data capture. Corrects any identified data errors or inconsistencies in a timely manner to ensure acceptance in the national VA database within established timelines. Directly consults with the professional staff for clarification of conflicting or ambiguous clinical data. Ensures provider documentation is complete and supports the diagnoses and procedures coded. Utilizes the facility computer system and software applications to correctly code, abstract, record, and transmit data to the national VA database The full performance level of this vacancy is GS-08. The actual grade at which an applicant may be selected for this vacancy is in the range of GS-04 to GS-08 Total Rewards of a Allied Health Professional Work Schedule: Monday-Friday, 7:00am to 3:30pm Pay: Competitive salary and regular salary increases When setting pay, a higher step rate of the appropriate grade may be determined after consideration of higher or unique qualifications or special needs of the VA (Above Minimum Rate of the Grade). Paid Time Off: 37-50 days of annual paid time offer per year (13-26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year)Selected applicants may qualify for credit toward annual leave accrual, based on prior [work experience] or military service experience. Parental Leave: After 12 months of employment, up to 12 weeks of paid parental leave in connection with the birth, adoption, or foster care placement of a child. Child Care Subsidy: After 60 days of employment, full time employees with a total family income below $144,000 may be eligible for a childcare subsidy up to 25% of total eligible childcare costs for eligible children up to the monthly maximum of $416.66. Retirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VAInsurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement) Telework: Not Authorized Remote: This position is being filled as remote (i.e., the employee will not work at a VA Facility or VA-Leased space). Virtual: This is not a virtual position. Functional Statement #: F06082, F06083, F06084, F06085, F06086 Notifications: Veterans' preference does not apply for internal or other current permanent Federal agency employees. Current and former Federal employees must submit copies of their most recent SF-50, (Notice of Personnel Action). The SF-50 must identify the position title, series, grade, step, tenure and type of service (Competitive or Excepted). In some cases, more than one SF-50 may be required to show a higher grade previously held. This position is covered by locality-based comparability pay. Narrative responses to the knowledge, skills and abilities (KSAs) may be required from the selectee in order to proceed with the appointment. Virtual/Remote Work Status: This position is eligible for Remote/Virtual work. However, this position may fall under the Presidential Memorandum titled \"Return to In-Person Work\" which requires you to go into the office. By applying to this position, you are acknowledging that you maybe be required to report in person to a designated location deemed by management",
+      "category": "Medical Records Technician",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 41236.0,
+      "salary_max": 82275.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870996200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-05-29T00:00:00.0000",
+      "ingested_at": "2026-06-01T20:45:16.231622+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231622+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Medical Record Technicians (MRT) are skilled in classifying medical data from patient health records in the hospital setting, and/or physician-based settings, such as physician offices, group practices, multi-specialty clinics, and specialty centers. These coding practitioners analyze and abstract p..."
+    },
     {
       "id": "666ee20df99ca29f",
       "source": "usajobs",
@@ -25,7 +53,7 @@
       "company_logo": null,
       "posted_at": "2026-05-28T11:46:38.7370",
       "ingested_at": "2026-05-29T05:27:44.673354+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673354+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231461+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Announcement will close once 40 applicants is reached-Temporarily eligible for Remote work within 50 miles of a VA Medical Center. May fall under the Presidential Memorandum titled \"Return to In-Person Work\" which will require you to go into the office if the exemption is not approved at the next re..."
@@ -53,7 +81,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T17:07:47.4230",
       "ingested_at": "2026-05-29T05:27:44.673303+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673303+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231443+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Total Rewards of a Allied Health Professional Typical duties include but are not limited to: Select and assign codes from current versions of ICD-10-CM, ICD-10-PCS, and/or CPT and HCPCS classification systems for inpatient facility and/or professional services. Perform a comprehensive review of docu..."
@@ -81,7 +109,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T15:27:30.3270",
       "ingested_at": "2026-05-29T05:27:44.673271+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673271+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231427+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Temporarily eligible for Remote work within 50 miles of a VA Medical Center. May fall under the Presidential Memorandum tiled \"Return to In-Person Work\" which will require you to go into the office if the exemption is not approved at the next review. Announcement will close once 25 applicants is rea..."
@@ -109,7 +137,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T15:18:23.4470",
       "ingested_at": "2026-05-29T05:27:44.673237+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673237+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231378+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Total Rewards of a Allied Health Professional Duties to include but not limited to: Responsible for reviewing the overall quality and completeness of clinical documentation. Applies comprehensive knowledge of medical terminology, anatomy & physiology, disease processes, treatment modalities, diagnos..."
@@ -165,7 +193,7 @@
       "company_logo": null,
       "posted_at": "2026-05-26T15:03:05.6600",
       "ingested_at": "2026-05-29T05:27:44.673143+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673143+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231334+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Total Rewards of a Allied Health Professional The major duties of the Medical Records Technician (Coder - Outpatient and Inpatient) include, but are not limited to: Assigns codes to documented patient care encounters (inpatient and outpatient) covering the full range of health care services provided..."
@@ -221,7 +249,7 @@
       "company_logo": null,
       "posted_at": "2026-05-23T00:00:00.0000",
       "ingested_at": "2026-05-29T05:27:44.673258+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.673258+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231402+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Total Rewards of a Allied Health Professional Duties to include but not limited to: Responsible for reviewing the overall quality and completeness of clinical documentation. Applies comprehensive knowledge of medical terminology, anatomy & physiology, disease processes, treatment modalities, diagnos..."

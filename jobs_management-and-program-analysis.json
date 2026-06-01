@@ -1,7 +1,35 @@
 {
   "category": "Management And Program Analysis",
-  "total": 1,
+  "total": 2,
   "jobs": [
+    {
+      "id": "92744843a9a04670",
+      "source": "usajobs",
+      "external_id": "MS-26-DAL-ETA-12972588-SLN",
+      "title": "Program Analyst (Senior)",
+      "company": "Employment and Training Administration",
+      "description": "Major duties for this position are listed below: Functions as a program lead for the day-to-day processing of employer-filed applications, utilizing advanced knowledge of the INA, the prevailing wage program, and permanent and temporary non-immigrant employment-based programs administered by Office of Foreign Labor Certification (OFLC.) Under the supervision of the Supervisory Immigration Program Analyst or Center Director, assigns case processing and other tasks to federal analysts for processing and reviews initial recommendations made by federal or contractor analysts related to applications for foreign labor certification or prevailing wage determinations. Ensures cases are processed in accordance with applicable laws, regulations, and OFLC standard operating procedures and directives. Conducts pre- and post-adjudication quality control audits on applications to ensure accuracy and consistency, and communicates feedback on the result of audits to analysts. Reviews letters and other correspondence prepared by analysts for accuracy, clarity, and proper citation of laws and regulations. Reviews and responds to post adjudication inquiries, case escalations, and correspondence involving other complex matters. Prepares filings for administrative and judicial review. Researches and resolves special problems, articulates conclusions through the issuance of interim and final written decisions, and provides input for the preparation of issue papers. Identifies and develops ways to resolve problems that directly affect the accomplishment of principal program goals and objectives. Advises managers and program officials on policies and procedures including actions to be taken to accomplish work in accordance with established requirements. Leads special projects and prepares reports as assigned by Supervisory Immigration Program Analyst or Center Director.",
+      "category": "Management And Program Analysis",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 106437.0,
+      "salary_max": 172980.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/870963700",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-01T00:00:00.0000",
+      "ingested_at": "2026-06-01T20:45:16.231482+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231482+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Major duties for this position are listed below: Functions as a program lead for the day-to-day processing of employer-filed applications, utilizing advanced knowledge of the INA, the prevailing wage program, and permanent and temporary non-immigrant employment-based programs administered by Office ..."
+    },
     {
       "id": "b4130899dd1cf4bb",
       "source": "usajobs",
@@ -25,7 +53,7 @@
       "company_logo": null,
       "posted_at": "2026-05-26T00:00:00.0000",
       "ingested_at": "2026-05-29T05:27:44.672933+00:00",
-      "last_seen_at": "2026-05-29T05:27:44.672933+00:00",
+      "last_seen_at": "2026-06-01T20:45:16.231288+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Serves as a Senior Management and Program Analyst on analytical projects in support of administrative investigations, as governed by VA Directive 0500, of allegations of whistleblower retaliation, senior leader misconduct or poor performance, and/or whistleblower disclosures, within the VA. The incu..."
