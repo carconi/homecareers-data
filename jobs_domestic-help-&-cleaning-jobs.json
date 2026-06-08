@@ -1,7 +1,189 @@
 {
   "category": "Domestic help & Cleaning Jobs",
-  "total": 185,
+  "total": 192,
   "jobs": [
+    {
+      "id": "ae35d640b116685d",
+      "source": "adzuna",
+      "external_id": "5756022178",
+      "title": "Housekeeping Attendant - Nambucca Heads Holidays",
+      "company": "Ingenia Communities",
+      "description": "Frontline Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate bunch who care deeply, work boldly, and support each other every step of the way to create moments that matter. If you\u2019re ready to work in a place that values your ideas and celebrat\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Nambucca Heads, Nambucca Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022178?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022178?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:51Z",
+      "ingested_at": "2026-06-08T05:59:29.730337+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.730337+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Frontline Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We..."
+    },
+    {
+      "id": "e360d928a0de4a0b",
+      "source": "adzuna",
+      "external_id": "5756022125",
+      "title": "Housekeeping Attendant - Ulladulla Holiday Park",
+      "company": "Ingenia Communities",
+      "description": "Frontline Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate bunch who care deeply, work boldly, and support each other every step of the way to create moments that matter. If you\u2019re ready to work in a place that values your ideas and celebrat\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Ulladulla, Shoalhaven Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022125?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022125?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:50Z",
+      "ingested_at": "2026-06-08T05:59:29.731476+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.731476+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Frontline Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We..."
+    },
+    {
+      "id": "9c75d70920fb235f",
+      "source": "adzuna",
+      "external_id": "5756022088",
+      "title": "Housekeeping Attendant - Murray Bend Holiday Park",
+      "company": "Ingenia Communities",
+      "description": "Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate bunch who care deeply, work boldly, and support each other every step of the way to create moments that matter. If you\u2019re ready to work in a place that values your ideas and celebrates your wins, we\u2019\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Tocumwal, Berrigan Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022088?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022088?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:50Z",
+      "ingested_at": "2026-06-08T05:59:29.731543+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.731543+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate ..."
+    },
+    {
+      "id": "46548f554d65fd56",
+      "source": "adzuna",
+      "external_id": "5756022119",
+      "title": "Housekeeping Attendant - Taigum Rentals",
+      "company": "Ingenia Communities",
+      "description": "Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate bunch who care deeply, work boldly, and support each other every step of the way to create moments that matter. If you\u2019re ready to work in a place that values your ideas and celebrates your wins, we\u2019\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Taigum, Brisbane",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022119?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022119?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:50Z",
+      "ingested_at": "2026-06-08T05:59:29.731646+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.731646+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate ..."
+    },
+    {
+      "id": "98c58a1860110480",
+      "source": "adzuna",
+      "external_id": "5756022100",
+      "title": "Housekeeping Attendant - Inverloch Holiday Park",
+      "company": "Ingenia Communities",
+      "description": "Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a passionate bunch who care deeply, work boldly, and support each other every step of the way to create moments that matter. If you\u2019re ready to work in a place that values your ideas and celebrates your wi\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Inverloch, Bass Coast",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022100?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022100?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:50Z",
+      "ingested_at": "2026-06-08T05:59:29.731936+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.731936+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Roles: Be Part of Something Bigger at Ingenia! At Ingenia, we\u2019re not just building communities, we\u2019re creating places where people truly belong. From unforgettable holidays to vibrant rental living and affordable housing, we\u2019re all about making life better, brighter, and more connected. We\u2019re a pass..."
+    },
+    {
+      "id": "21560bee428804a4",
+      "source": "adzuna",
+      "external_id": "5756021966",
+      "title": "CLEANER",
+      "company": "Asm Global",
+      "description": "ABOUT THE ROLE Legends Global teams across the world are innate problem solvers and people who thrive on the excitement of developing events that create opportunity and connection. We are meticulous planners, innovative thinkers, relationship specialists and acutely experienced business leaders who love what they do. At Legends Global, we love events, it's what we do. It's a part of our DNA and what drives us. Are you looking for a casual position in the Event Industry? Do you have the flexibil\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Broadmeadow, Newcastle Area",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756021966?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756021966?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:48Z",
+      "ingested_at": "2026-06-08T05:59:29.784978+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.784978+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "ABOUT THE ROLE Legends Global teams across the world are innate problem solvers and people who thrive on the excitement of developing events that create opportunity and connection. We are meticulous planners, innovative thinkers, relationship specialists and acutely experienced business leaders who ..."
+    },
+    {
+      "id": "e7eeedf6eb9bb891",
+      "source": "adzuna",
+      "external_id": "5755959226",
+      "title": "Tailor",
+      "company": "A.W. Cleaners",
+      "description": "Job Description Job Description Benefits/Perks Competitive compensation Great work environment Career growth opportunities Thorough training on proper cleaning and disinfecting Employee discounts Job Summary We are seeking a part-time Tailor to join our team! As a Tailor, you will meet with clients, assess their garments, offer creative solutions, and perform the necessary cutting, pinning, and sewing to create their desired product. You will also maintain a proper inventory of supplies, ensure\u2026",
+      "category": "Domestic help & Cleaning Jobs",
+      "tags": [
+        "domestic-help-cleaning-jobs"
+      ],
+      "job_type": "",
+      "location": "Phoenix, Baltimore County",
+      "salary_min": 26239.15,
+      "salary_max": 26239.15,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com/land/ad/5755959226?se=vq2D0Phi8RGTyc16BXlIog&utm_medium=api&utm_source=3bc8f735&v=E7BBD77C6A4D58BE3D44C5D133A7AECDD389949F",
+      "affiliate_url": "https://www.adzuna.com/land/ad/5755959226?se=vq2D0Phi8RGTyc16BXlIog&utm_medium=api&utm_source=3bc8f735&v=E7BBD77C6A4D58BE3D44C5D133A7AECDD389949F",
+      "company_logo": null,
+      "posted_at": "2026-06-08T00:24:37Z",
+      "ingested_at": "2026-06-08T05:59:28.931870+00:00",
+      "last_seen_at": "2026-06-08T05:59:28.931870+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Job Description Job Description Benefits/Perks Competitive compensation Great work environment Career growth opportunities Thorough training on proper cleaning and disinfecting Employee discounts Job Summary We are seeking a part-time Tailor to join our team! As a Tailor, you will meet with clients,..."
+    },
     {
       "id": "e1425bbd3924f941",
       "source": "adzuna",
@@ -75,7 +257,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T20:52:26Z",
       "ingested_at": "2026-06-08T04:44:49.924304+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.924304+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.396936+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job ref: RF-2606-13 Location: Craigavon - Leprino Quantity of Posts Available: 1 Salary: \u00a312.71 Mount Charles Group are one of the largest and privately owned soft Facilities Management, catering and ancillary service/product providers in Ireland. If you are a customer focused individual and want to..."
@@ -101,7 +283,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T20:52:26Z",
       "ingested_at": "2026-06-08T04:44:49.924424+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.924424+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.396963+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job ref: RF-2606-15 Location: Newry - Southern Regional College Greenbank Quantity of Posts Available: 1 Salary: \u00a313.45 Mount Charles Group are one of the largest and privately owned soft Facilities Management, catering and ancillary service/product providers in Ireland. If you are a customer focuse..."
@@ -205,7 +387,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T17:02:15Z",
       "ingested_at": "2026-06-08T04:44:50.255930+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.255930+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.695777+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Who We Are For more than 130 years, The Salvation Army has served people in need in communities across Canada and Bermuda. Building on our roots as a world-wide Christian church, each year we help more than 2 million people, providing necessities such as food, clothing and shelter. In addition, we s..."
@@ -231,7 +413,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T17:02:00Z",
       "ingested_at": "2026-06-08T04:44:50.005502+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.005502+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.469694+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "1. Position Summary and Job Magnitude The Housekeeping Services Representative interacts with students and guests frequently. It is imperative that they are friendly and patient and demonstrate a high degree of customer service in all situations. Housekeeping Service Representatives are responsible ..."
@@ -257,7 +439,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:55:22Z",
       "ingested_at": "2026-06-08T04:44:50.104038+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.104038+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.558385+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Location: 2310 Millar Ave, Saskatoon, Saskatchewan S7K2Y4 Canada START TODAY, GET PAID TODAY! New hires eligible for BONUS! Are you organized and proactive? Do you have an eye for detail? Storage Facility Housekeepers set the stage for U-Haul\u2019s exceptional service by keeping the U-Haul facility clea..."
@@ -283,7 +465,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:53:30Z",
       "ingested_at": "2026-06-08T04:44:49.765833+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.765833+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.266884+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "OCS UK & Ireland is a leading facilities management company with 50,000 colleagues and a turnover in excess of \u00a32bn. We deliver innovative, award-winning services within facilities management, hard services, cleaning, security and catering. Our mission is to make people and places the best they can ..."
@@ -361,7 +543,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:44:41Z",
       "ingested_at": "2026-06-08T04:44:49.926040+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.926040+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.398996+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "At Mitie we bring out the best in places. Unlocking their potential so that everyone looks forward to using them and can do their best work in them. From offices and shopping centres to hospitals and airports, we create better places for the communities we serve to thrive. We're looking for a Cleane..."
@@ -387,7 +569,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:40:04Z",
       "ingested_at": "2026-06-08T04:44:49.926075+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.926075+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.399056+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "At Mitie we bring out the best in places. Unlocking their potential so that everyone looks forward to using them and can do their best work in them. From offices and shopping centres to hospitals and airports, we create better places for the communities we serve to thrive. We're looking for a Cleane..."
@@ -413,7 +595,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T14:13:46Z",
       "ingested_at": "2026-06-08T04:44:49.784694+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.784694+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.281314+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "At Mitie we bring out the best in places. Unlocking their potential so that everyone looks forward to using them and can do their best work in them. From offices and shopping centres to hospitals and airports, we create better places for the communities we serve to thrive. We're looking for a Cleani..."
@@ -439,7 +621,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T11:15:32Z",
       "ingested_at": "2026-06-08T04:44:50.514455+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.514455+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.935732+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Key Focus Areas / Deliverables (Statement of Duties) The following are some of the key focus areas for the position. These may change regularly or periodically, and duties should be reviewed and updated periodically to reflect changes in the role and to align with priorities. Work is performed under..."
@@ -465,7 +647,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T10:45:37Z",
       "ingested_at": "2026-06-08T04:44:50.294853+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.294853+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.736343+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "About Us Allegiance Heart & Home Care provides compassionate, reliable, and person-centred support to older Australians and people living with disability. We are committed to helping clients remain safe, independent, and comfortable in their own homes. We are currently seeking a caring and reliable ..."
@@ -491,7 +673,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T10:39:37Z",
       "ingested_at": "2026-06-08T04:44:50.292075+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.292075+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.854738+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Introduction Great People. Great Careers. Excellent Healthcare DPV Health is a leading healthcare service provider delivering a wide variety of clinical, community health and wellbeing services across Melbourne\u2019s northern growth corridor. DPV Health has been awarded the Premier\u2019s Primary Healthcare ..."
@@ -517,7 +699,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T22:16:41Z",
       "ingested_at": "2026-06-08T04:44:49.685488+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.685488+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.184683+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job description: Location: Oxford OX2 7DP Salary: Paying up to \u00a312.71 per hour dependent on age Hours: Part time hours \u2013 5 hours per week 6.30am -11.30am every Sunday Here at Basingstoke & Deane Leisure Community Trust our goal is to get more people, more active, more often. We provide affordable ac..."
@@ -543,7 +725,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T18:06:35Z",
       "ingested_at": "2026-06-08T04:44:50.691148+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.691148+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.092253+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Sensational opportunity to get out and about - varied and interesting work! Full-Time, permanent position Benefit from professional training Join a truly professional, hard working, dedicated team in a fun, fast-paced environment O'Shea's currently have vacancies for experienced, Full-Time Domestic ..."
@@ -569,7 +751,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:57:46Z",
       "ingested_at": "2026-06-08T04:44:50.271897+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.271897+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.709835+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "CLV Group is a leading Canadian real estate firm specializing in the acquisition, development, and management of high-quality multi-family rental communities. We deliver strong, consistent returns through innovative management, a customer-first approach, and over 50 years of operational excellence. ..."
@@ -595,7 +777,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:38:04Z",
       "ingested_at": "2026-06-08T04:44:50.272759+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.272759+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.710310+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "CLV Group is a leading Canadian real estate firm specializing in the acquisition, development, and management of high-quality multi-family rental communities. We deliver strong, consistent returns through innovative management, a customer-first approach, and over 50 years of operational excellence. ..."
@@ -621,7 +803,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T06:59:53Z",
       "ingested_at": "2026-06-08T04:44:49.803424+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.803424+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.296305+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "About The Role PLEASE NOTE - We are NOT offering sponsorship and are unable to take overseas applications at this time. Are you a compassionate and reliable Housekeeping Assistant/ Cleaner looking to make a genuine difference in people\u2019s lives? Kitnocks House is looking for dedicated individuals wit..."
@@ -647,7 +829,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T06:34:15Z",
       "ingested_at": "2026-06-08T04:44:50.273010+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.273010+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.710485+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Job Description Job Description Location: Simcoe, ON, Canada Job Type: Full-Time Schedule: Monday to Friday Compensation Includes: $39,640.00 annually Extended Health & Dental Benefits Job Overview: The Cleaner is responsible for completing cleaning tasks to maintain the assigned apartment buildings..."
@@ -673,7 +855,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T06:28:06Z",
       "ingested_at": "2026-06-08T04:44:50.008375+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.008375+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.470705+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Job Description Job Description At Commercial Cleaning Services, we're proud to call ourselves professional cleaners, with industry leading training programs, environmentally friendly cleaning products and practices, and most importantly an unmatched commitment to quality and customer service. CCS h..."
@@ -699,7 +881,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T06:19:16Z",
       "ingested_at": "2026-06-08T04:44:50.273519+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.273519+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.710882+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Job Description Job Description Location: Owen Sound, ON, Canada Compensation: $36,600 Annually Job Type: Full-Time Schedule: Monday to Friday Job Overview: The Cleaner is responsible for completing cleaning tasks to maintain the assigned apartment buildings\u2019 curb appeal and provide excellent custom..."
@@ -725,7 +907,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T06:05:09Z",
       "ingested_at": "2026-06-08T04:44:50.008902+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.008902+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.470881+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Job Description Job Description 1. Position Summary and Job Magnitude The Housekeeping Services Representative interacts with students and guests frequently. It is imperative that they are friendly and patient and demonstrate a high degree of customer service in all situations. Housekeeping Service ..."
@@ -751,7 +933,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T22:55:46Z",
       "ingested_at": "2026-06-08T04:44:50.432703+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.432703+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.856227+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "A little about the role Become a member of our Support at Home Cleaning team providing in home cleaning for clients across the Northern Suburbs of Melbourne for clients with a support at home package. We have a permanent part time role available to work Tuesday to Friday between 9.30am \u2013 2.30pm acro..."
@@ -777,7 +959,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T21:10:12Z",
       "ingested_at": "2026-06-08T04:44:50.273712+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.273712+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.711071+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Location: Simcoe, ON, Canada Job Type: Full-Time Schedule: Monday to Friday Compensation Includes: $39,640.00 annually Extended Health & Dental Benefits Job Overview: The Cleaner is responsible for completing cleaning tasks to maintain the assigned apartment buildings\u2019 curb appeal and provide excell..."
@@ -803,7 +985,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T15:04:08Z",
       "ingested_at": "2026-06-08T04:44:49.815399+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.815399+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305906+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "LOCATION: JBG - LADYWELL BUSINESS CENTRE SHIFT PATTERN: as required, 0 hours per week PAY RATE: \u00a313.45 per hour If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com . We're here to help..."
@@ -829,7 +1011,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T15:04:08Z",
       "ingested_at": "2026-06-08T04:44:49.815870+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.815870+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305923+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "LOCATION: FESTIVAL BUSINESS CENTRE SHIFT PATTERN: Monday to Friday, 12.5 hours per week PAY RATE: \u00a313.45 per hour If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com . We're here to he..."
@@ -855,7 +1037,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T15:04:08Z",
       "ingested_at": "2026-06-08T04:44:49.815955+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.815955+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305945+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "LOCATION: Devonport Dockyard Plymouth PL1 4SG SHIFT PATTERN: 4 ON 4 OFF, 14 hours per week PAY RATE: \u00a313.45 per hour If you require any additional support or adjustments during the recruitment process, please don't hesitate to contact our Recruitment Department at recruitment@abm.com . We're here to..."
@@ -881,7 +1063,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T06:00:23Z",
       "ingested_at": "2026-06-08T04:44:50.107977+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.107977+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.562524+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Job Description Job Description Regional Manager, GTA At Commercial Cleaning Services (CCS) we're on a mission to create clean, safe, and attractive environments where people can work, learn, and enjoy. With services across Canada, and over 1500 employees, we're committed to consistently delivering ..."
@@ -2337,7 +2519,7 @@
       "company_logo": null,
       "posted_at": "2026-05-31T19:05:22Z",
       "ingested_at": "2026-06-08T04:44:49.829349+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.829349+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.316785+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job summary The role ofa Porter/Security Operative is an opportunity to join a small team of dedicatedstaff. The role of a Porter/Security Operative is essential in transportingPatients between departments, removing waste from departments to waste holdsincluding clinical, confidential and domestic w..."

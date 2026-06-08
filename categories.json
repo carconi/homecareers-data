@@ -2,137 +2,137 @@
   "categories": [
     {
       "name": "IT Jobs",
-      "count": 21741,
+      "count": 22417,
       "file": "jobs_it-jobs.json"
     },
     {
       "name": "Healthcare & Nursing Jobs",
-      "count": 9449,
+      "count": 10219,
       "file": "jobs_healthcare-&-nursing-jobs.json"
     },
     {
       "name": "Accounting & Finance Jobs",
-      "count": 9227,
+      "count": 9568,
       "file": "jobs_accounting-&-finance-jobs.json"
     },
     {
       "name": "Engineering Jobs",
-      "count": 8194,
+      "count": 8796,
       "file": "jobs_engineering-jobs.json"
     },
     {
       "name": "Sales Jobs",
-      "count": 7300,
+      "count": 7810,
       "file": "jobs_sales-jobs.json"
     },
     {
       "name": "PR, Advertising & Marketing Jobs",
-      "count": 5778,
+      "count": 6035,
       "file": "jobs_pr,-advertising-&-marketing-jobs.json"
     },
     {
       "name": "Admin Jobs",
-      "count": 5051,
+      "count": 5225,
       "file": "jobs_admin-jobs.json"
     },
     {
-      "name": "Teaching Jobs",
-      "count": 4117,
-      "file": "jobs_teaching-jobs.json"
-    },
-    {
       "name": "Logistics & Warehouse Jobs",
-      "count": 4040,
+      "count": 4226,
       "file": "jobs_logistics-&-warehouse-jobs.json"
     },
     {
+      "name": "Teaching Jobs",
+      "count": 4201,
+      "file": "jobs_teaching-jobs.json"
+    },
+    {
       "name": "Trade & Construction Jobs",
-      "count": 3660,
+      "count": 3829,
       "file": "jobs_trade-&-construction-jobs.json"
     },
     {
       "name": "Customer Services Jobs",
-      "count": 3239,
+      "count": 3422,
       "file": "jobs_customer-services-jobs.json"
     },
     {
       "name": "Hospitality & Catering Jobs",
-      "count": 2718,
+      "count": 2957,
       "file": "jobs_hospitality-&-catering-jobs.json"
     },
     {
       "name": "HR & Recruitment Jobs",
-      "count": 2604,
+      "count": 2712,
       "file": "jobs_hr-&-recruitment-jobs.json"
     },
     {
       "name": "Legal Jobs",
-      "count": 2340,
+      "count": 2427,
       "file": "jobs_legal-jobs.json"
     },
     {
       "name": "Retail Jobs",
-      "count": 1870,
+      "count": 1942,
       "file": "jobs_retail-jobs.json"
     },
     {
       "name": "Creative & Design Jobs",
-      "count": 1670,
+      "count": 1826,
       "file": "jobs_creative-&-design-jobs.json"
     },
     {
-      "name": "Social work Jobs",
-      "count": 1558,
-      "file": "jobs_social-work-jobs.json"
-    },
-    {
       "name": "Part time Jobs",
-      "count": 1435,
+      "count": 1628,
       "file": "jobs_part-time-jobs.json"
     },
     {
+      "name": "Social work Jobs",
+      "count": 1597,
+      "file": "jobs_social-work-jobs.json"
+    },
+    {
       "name": "Consultancy Jobs",
-      "count": 1397,
+      "count": 1456,
       "file": "jobs_consultancy-jobs.json"
     },
     {
       "name": "Scientific & QA Jobs",
-      "count": 1314,
+      "count": 1399,
       "file": "jobs_scientific-&-qa-jobs.json"
     },
     {
       "name": "Manufacturing Jobs",
-      "count": 1267,
+      "count": 1336,
       "file": "jobs_manufacturing-jobs.json"
     },
     {
       "name": "Energy, Oil & Gas Jobs",
-      "count": 590,
+      "count": 622,
       "file": "jobs_energy,-oil-&-gas-jobs.json"
     },
     {
       "name": "Graduate Jobs",
-      "count": 548,
+      "count": 555,
       "file": "jobs_graduate-jobs.json"
     },
     {
       "name": "Property Jobs",
-      "count": 515,
+      "count": 554,
       "file": "jobs_property-jobs.json"
     },
     {
       "name": "Maintenance Jobs",
-      "count": 461,
+      "count": 506,
       "file": "jobs_maintenance-jobs.json"
     },
     {
       "name": "Travel Jobs",
-      "count": 349,
+      "count": 358,
       "file": "jobs_travel-jobs.json"
     },
     {
       "name": "Domestic help & Cleaning Jobs",
-      "count": 185,
+      "count": 192,
       "file": "jobs_domestic-help-&-cleaning-jobs.json"
     },
     {
@@ -142,12 +142,12 @@
     },
     {
       "name": "Charity & Voluntary Jobs",
-      "count": 114,
+      "count": 116,
       "file": "jobs_charity-&-voluntary-jobs.json"
     },
     {
       "name": "Other/General Jobs",
-      "count": 75,
+      "count": 84,
       "file": "jobs_other-general-jobs.json"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "name": "Customer Support",
-      "count": 59,
+      "count": 60,
       "file": "jobs_customer-support.json"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "name": "Design & Creative",
-      "count": 31,
+      "count": 32,
       "file": "jobs_design-&-creative.json"
     },
     {

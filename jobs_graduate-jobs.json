@@ -1,7 +1,59 @@
 {
   "category": "Graduate Jobs",
-  "total": 548,
+  "total": 555,
   "jobs": [
+    {
+      "id": "84e809a3b64e5a8d",
+      "source": "adzuna",
+      "external_id": "5756022578",
+      "title": "Graduate Sales Cadet - International Logistics",
+      "company": "PATH4 Group",
+      "description": "Outstanding Learning & Development Opportunities Great earning potential Driven and capable team environment Kickstart Your Sales Career in Global Trade Ready to start a career where your effort, energy, and results directly drive your success? We are partnering with a leading international logistics organisation looking for a driven recent University Graduate to join their high-performing sales team. This is your opportunity to build a career in sales, business development, and client relation\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Brisbane CBD, Brisbane",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756022578?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756022578?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:56Z",
+      "ingested_at": "2026-06-08T05:59:29.884469+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.884469+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "Outstanding Learning & Development Opportunities Great earning potential Driven and capable team environment Kickstart Your Sales Career in Global Trade Ready to start a career where your effort, energy, and results directly drive your success? We are partnering with a leading international logistic..."
+    },
+    {
+      "id": "5c5fda769a3f3014",
+      "source": "adzuna",
+      "external_id": "5756021807",
+      "title": "Graduate of Architecture - Community/Education Projects - Immediate start contract",
+      "company": "Bespoke Careers",
+      "description": "This is a role for a talented Architecture Graduate with an interest in large-scale public, cultural and infrastructure/transport projects. The right candidate will have a strong design sensibility aided by strong Revit knowledge. This is an immediate start contract role with a view to be extended. Key responsibilities Contribute to high-profile public tenders Revit documentation and coordination on highly complex projects Ability to take instruction and deliver high quality outputs Skills and \u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "",
+      "location": "The Rocks, Sydney",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "",
+      "url": "https://www.adzuna.com.au/details/5756021807?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.com.au/details/5756021807?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T14:59:46Z",
+      "ingested_at": "2026-06-08T05:59:30.100396+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.100396+00:00",
+      "expired": 0,
+      "country": "AU",
+      "description_preview": "This is a role for a talented Architecture Graduate with an interest in large-scale public, cultural and infrastructure/transport projects. The right candidate will have a strong design sensibility aided by strong Revit knowledge. This is an immediate start contract role with a view to be extended. ..."
+    },
     {
       "id": "0452f808dc01304b",
       "source": "adzuna",
@@ -23,10 +75,36 @@
       "company_logo": null,
       "posted_at": "2026-06-08T08:07:44Z",
       "ingested_at": "2026-06-08T04:44:50.681760+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.681760+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.086063+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Salary: $80,000  11.5% Super  Benefits Are you a new graduate ready to kick-start your physiotherapy career in a supportive and growth-focused environment? We\u2019re looking for a New Graduate Physiotherapist to join a well-established private practice commencing asap. What\u2019s on Offer Structured 2-Year ..."
+    },
+    {
+      "id": "199a93170962963d",
+      "source": "adzuna",
+      "external_id": "5756027441",
+      "title": "Graduate Structural Engineer (no experience needed)",
+      "company": "Conrad Consulting Ltd.",
+      "description": "Graduate Structural Engineer (no experience needed) Wakefield \u00a328k-\u00a330k plus benefits Our client, a well-established and growing civil and structural engineering consultancy, is seeking a Graduate Structural Engineer to join its expanding team in Wakefield. This is an excellent opportunity for a recent graduate to begin a career in building structures engineering, working on a varied portfolio of commercial, leisure, and industrial projects from concept through to completion. The successful can\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "",
+      "location": "UK",
+      "salary_min": 28000.0,
+      "salary_max": 30000.0,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5756027441?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5756027441?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T06:07:51Z",
+      "ingested_at": "2026-06-08T05:59:29.409710+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.409710+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Graduate Structural Engineer (no experience needed) Wakefield \u00a328k-\u00a330k plus benefits Our client, a well-established and growing civil and structural engineering consultancy, is seeking a Graduate Structural Engineer to join its expanding team in Wakefield. This is an excellent opportunity for a rec..."
     },
     {
       "id": "5f236255671454a3",
@@ -49,7 +127,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:19Z",
       "ingested_at": "2026-06-08T04:44:49.752349+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.752349+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.249966+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -75,7 +153,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:19Z",
       "ingested_at": "2026-06-08T04:44:49.756446+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756446+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254060+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -101,7 +179,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.752388+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.752388+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.250004+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -127,7 +205,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.752414+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.752414+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.250028+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -153,7 +231,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.756480+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756480+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254098+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -179,7 +257,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.756546+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756546+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254148+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -205,7 +283,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.756557+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756557+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254161+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -231,7 +309,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.756621+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756621+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254226+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -257,7 +335,85 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:29:18Z",
       "ingested_at": "2026-06-08T04:44:49.756662+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756662+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254245+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
+    },
+    {
+      "id": "4f01f9c76a7609f0",
+      "source": "adzuna",
+      "external_id": "5755934676",
+      "title": "Graduate Environmental",
+      "company": "F8 FERROVIAL CONSTRUCTION  LIMITED",
+      "description": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Listed on three major stock markets: Nasdaq (US), Euronext Amsterdam (Netherlands) and IBEX 35 (Spain), we are also member of the Dow Jones Sustainability Index and FTSE4Good. We operate in more than 1\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Hounslow, London",
+      "salary_min": 36264.45,
+      "salary_max": 36264.45,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5755934676?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5755934676?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T04:29:18Z",
+      "ingested_at": "2026-06-08T05:59:29.254256+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254256+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
+    },
+    {
+      "id": "3a96cf72ed38fdde",
+      "source": "adzuna",
+      "external_id": "5755934672",
+      "title": "Graduate Civil Engineer",
+      "company": "F8 FERROVIAL CONSTRUCTION  LIMITED",
+      "description": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Listed on three major stock markets: Nasdaq (US), Euronext Amsterdam (Netherlands) and IBEX 35 (Spain), we are also member of the Dow Jones Sustainability Index and FTSE4Good. We operate in more than 1\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Milton Keynes, Buckinghamshire",
+      "salary_min": 34594.48,
+      "salary_max": 34594.48,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5755934672?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5755934672?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T04:29:18Z",
+      "ingested_at": "2026-06-08T05:59:29.254732+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254732+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
+    },
+    {
+      "id": "bfa45d78281c80fc",
+      "source": "adzuna",
+      "external_id": "5755934679",
+      "title": "Graduate Project Controls",
+      "company": "F8 FERROVIAL CONSTRUCTION  LIMITED",
+      "description": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Listed on three major stock markets: Nasdaq (US), Euronext Amsterdam (Netherlands) and IBEX 35 (Spain), we are also member of the Dow Jones Sustainability Index and FTSE4Good. We operate in more than 1\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Birmingham, West Midlands",
+      "salary_min": 36368.04,
+      "salary_max": 36368.04,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5755934679?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5755934679?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-08T04:29:18Z",
+      "ingested_at": "2026-06-08T05:59:29.254962+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.254962+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join Ferrovial: Where Innovation Meets Opportunity Are you ready to elevate your career with a global leader in infrastructure solving complex problems and generating a positive outcome on people's lives? At Ferrovial , we are not just a company; we are a community of innovators and trailblazers. Li..."
@@ -283,7 +439,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T04:05:35Z",
       "ingested_at": "2026-06-08T04:44:49.658164+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.658164+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.155319+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Description The Graduate Site Electrical Engineer will support the delivery of electrical engineering activities on municipal, industrial process, and water projects across the UK. This is a hands-on, development-focused role designed to provide exposure to site installation, commissioning, and main..."
@@ -309,7 +465,7 @@
       "company_logo": null,
       "posted_at": "2026-06-08T03:24:32Z",
       "ingested_at": "2026-06-08T04:44:49.756780+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.756780+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.255198+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Business Development Consultant - Graduate or Graduate Calibre \u00a330k basic salary , Realistic\u00a350k 1stYearOnTarget Earnings Fully Expensed Hyundai Company Car  Private Healthcare  Pension  \u00a35 daily lunch allowance Celsius Graduate Recruitment are thrilled to exclusively represent a prestigious \u00a33.5 Bi..."
@@ -335,10 +491,36 @@
       "company_logo": null,
       "posted_at": "2026-06-08T00:51:16Z",
       "ingested_at": "2026-06-08T04:44:49.694860+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.694860+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.193411+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Finance Data AnalystLocation: Openshaw, Manchester (Full-Time, Office-Based) Salary: \u00a330,000 A well-established and growing manufacturing business based in Openshaw, Manchester is currently seeking a highly motivated Graduate Finance Data Analyst to join their finance team. This is an excel..."
+    },
+    {
+      "id": "08ab359c7999c958",
+      "source": "adzuna",
+      "external_id": "5755797326",
+      "title": "Site Based Graduate Environment Advisor (Berwick Bank)",
+      "company": "Jones Bros",
+      "description": "We are looking for a Graduate Environment Advisor to join our dynamic organisation in a hands-on advisory and implementation role. The successful candidate will be joining our established Health, Safety, and Environment team reporting directly to the department\u2019s Environment Manager. Alongside our construction project delivery teams, they will be responsible for assisting, advising and implementing environmental improvement initiatives at our Berwick Bank construction project at Innerwick nr Ed\u2026",
+      "category": "Graduate Jobs",
+      "tags": [
+        "graduate-jobs"
+      ],
+      "job_type": "full_time",
+      "location": "Edinburgh, Scotland",
+      "salary_min": 26161.97,
+      "salary_max": 26161.97,
+      "salary_currency": "",
+      "url": "https://www.adzuna.co.uk/jobs/details/5755797326?utm_medium=api&utm_source=3bc8f735",
+      "affiliate_url": "https://www.adzuna.co.uk/jobs/details/5755797326?utm_medium=api&utm_source=3bc8f735",
+      "company_logo": null,
+      "posted_at": "2026-06-07T23:46:20Z",
+      "ingested_at": "2026-06-08T05:59:29.262626+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.262626+00:00",
+      "expired": 0,
+      "country": "GB",
+      "description_preview": "We are looking for a Graduate Environment Advisor to join our dynamic organisation in a hands-on advisory and implementation role. The successful candidate will be joining our established Health, Safety, and Environment team reporting directly to the department\u2019s Environment Manager. Alongside our c..."
     },
     {
       "id": "b02ed1fe995f45c5",
@@ -361,7 +543,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T23:38:55Z",
       "ingested_at": "2026-06-08T04:44:49.270591+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.270591+00:00",
+      "last_seen_at": "2026-06-08T05:59:28.973717+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "SUMMARY: Instruct and facilitate meaningful learning of the course outcomes in the curriculum and proactively support all facets of the learning environment. Provide education through learning-centered instruction that will enable graduates to fulfill the evolving needs of the marketplace. Encourage..."
@@ -387,7 +569,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T19:56:03Z",
       "ingested_at": "2026-06-08T04:44:49.682698+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.682698+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.182310+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Our client is seeking an enthusiastic IT graduate, eager to kickstart their career in a role that offers hands-on experience across all levels of IT support. Working within a small but dedicated MSP you will be providing support to the companys SME clients across the London area, under the guidance ..."
@@ -413,7 +595,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T18:13:26Z",
       "ingested_at": "2026-06-08T04:44:50.288274+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.288274+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.727557+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Join a progressive organisation delivering community-led programs with the Northern Territory's largest Aboriginal Community Controlled Health Service. LIMITED TIME ONLY - Generous Attraction and Retention bonus (up to $30,000 after 24 months) $10,000 sign on bonus plus $10,000 paid at 12 months and..."
@@ -439,7 +621,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T18:13:24Z",
       "ingested_at": "2026-06-08T04:44:50.429040+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.429040+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.854437+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Location: Leichhardt, NSW Start Date: Immediate Transit Systems is one of Australia\u2019s leading public transport operators, connecting communities every day across Sydney. We are currently seeking a motivated and enthusiastic Graduate Communications Officer to join our People and Culture team. This op..."
@@ -465,7 +647,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T17:03:21Z",
       "ingested_at": "2026-06-08T04:44:49.666733+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.666733+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.165775+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We\u2019re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster t..."
@@ -491,7 +673,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T17:02:58Z",
       "ingested_at": "2026-06-08T04:44:49.666859+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.666859+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.166103+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "About Abound We\u2019re redefining consumer lending in the UK, and beyond. Using advanced AI and Open Banking data, we make fair, affordable personal finance available to more people. While traditional lenders rely almost entirely on credit scores, we look at the full financial picture - how much you spe..."
@@ -517,7 +699,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T17:02:19Z",
       "ingested_at": "2026-06-08T04:44:49.953888+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.953888+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.423786+00:00",
       "expired": 0,
       "country": "CA",
       "description_preview": "Our student and new graduate programs offer a chance to explore Sun Life from the inside. You\u2019ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way. Job Description: This posting is for UW..."
@@ -543,7 +725,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:39:51Z",
       "ingested_at": "2026-06-08T04:44:49.747878+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.747878+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.246464+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Sales Development Representative (HF1279850) Location: Leicester Salary: \u00a327,500  uncapped commission Start Your Sales Career the Right Way Looking to break into sales but want somewhere that actually invests in you? This is your chance. As a Graduate SDR, you\u2019ll be the engine of the sales ..."
@@ -569,7 +751,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:39:46Z",
       "ingested_at": "2026-06-08T04:44:49.747913+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.747913+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.246480+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Role: Sales Development Representative Location: London (Hybrid) Salary: \u00a335,000 - \u00a340,000 plus uncapped commission (17k \u2013 20k OTE Y1) Sector: HR Tech Join a fast-growing HR Tech business backed by a global private equity firm, with ambitious growth plans and significant investment in its AI-powered..."
@@ -595,7 +777,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:39:23Z",
       "ingested_at": "2026-06-08T04:44:49.670361+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.670361+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.170116+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": " Graduate Software Developer / Quantitative Developer / Quantitative Researcher  Location: London (Hybrid)  Compensation: Up to \u00a3180,000  Bonus  Benefits  Client: Prestigious Fund  Kickstart Your Career in Technology & Quantitative Finance Just graduated and ready to launch your career at the inters..."
@@ -621,7 +803,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:39:21Z",
       "ingested_at": "2026-06-08T04:44:49.690911+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.690911+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.190074+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate / Entry-Level Recruitment Consultant Location: London Start Date: Summer/Autumn 2026 Salary: Competitive Base  Uncapped Commission  Fast-Track Progression Hunter Bond is growing fast, and we\u2019re looking for ambitious, intelligent, and driven individuals who want to build a high-earning caree..."
@@ -647,7 +829,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T16:38:32Z",
       "ingested_at": "2026-06-08T04:44:49.748384+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.748384+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.246801+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Role: Sales Development Representative Location: London (Hybrid) Salary: \u00a335,000 - \u00a340,000 plus uncapped commission (17k \u2013 20k OTE Y1) Sector: HR Tech Join a fast-growing HR Tech business backed by a global private equity firm, with ambitious growth plans and significant investment in its AI-powered..."
@@ -673,7 +855,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T14:56:23Z",
       "ingested_at": "2026-06-08T04:44:50.472022+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.472022+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.893924+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Join the Monadelphous Graduate Program and embark on a dynamic journey to launch your engineering career. As a Graduate, you'll work on real projects, gaining hands-on experience in a Project Engineer role. You\u2019ll work both on-site and in the office between projects, collaborating closely with your ..."
@@ -699,7 +881,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T14:56:02Z",
       "ingested_at": "2026-06-08T04:44:50.298026+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.298026+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.739968+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Norton Rose Fulbright is a global law firm. We provide the worlds pre-eminent corporations and financial institutions with a full business law service. We have more than 4000 lawyers operating from 58 offices worldwide in Europe, Asia Pacific, Canada, Africa, the Middle East, Latin America, the Amer..."
@@ -725,7 +907,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T11:52:57Z",
       "ingested_at": "2026-06-08T04:44:49.748554+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.748554+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.246932+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Ready to launch your career with one of the UK's fastest-growing businesses? Award-winning culture. \u00a380m revenue. 30% year-on-year growth. On track to surpass \u00a3100m turnover in 2026. Backed by a leading global investment firm. This is an opportunity to join a high-growth fintech that has earned reco..."
@@ -751,7 +933,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T09:22:22Z",
       "ingested_at": "2026-06-08T04:44:49.810573+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.810573+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.302962+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate SEN Teaching Assistant Liverpool L14 | Pay: \u00a390\u2013\u00a3105 per day (depending on experience) | SEN Experience Wanted Are you a recent graduate looking to make a genuine difference in the lives of children with Special Educational Needs? We are recruiting on behalf of a welcoming and highly suppor..."
@@ -803,7 +985,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T04:54:49Z",
       "ingested_at": "2026-06-08T04:44:49.323606+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.323606+00:00",
+      "last_seen_at": "2026-06-08T05:59:28.529379+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Summary Position Summary The Cannabis, Commercial Tobacco, and Vaping Prevention (CCTV) unit is seeking two Graduate Interns (Intern IIIs) who will share work and develop a resource library of youth curriculum, frameworks, campaigns, and other resources that approach youth substance use prevention t..."
@@ -829,7 +1011,7 @@
       "company_logo": null,
       "posted_at": "2026-06-07T03:27:43Z",
       "ingested_at": "2026-06-08T04:44:49.691732+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.691732+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.191138+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate / Entry-Level Recruitment Consultant Location: London Start Date: Summer/Autumn 2026 Salary: Competitive Base  Uncapped Commission  Fast-Track Progression Hunter Bond is growing fast, and we\u2019re looking for ambitious, intelligent, and driven individuals who want to build a high-earning caree..."
@@ -855,7 +1037,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T22:57:34Z",
       "ingested_at": "2026-06-08T04:44:50.368448+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.368448+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.803552+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Expressions of interest - Graduate Environmental Scientist - ( 240003MW ) Description Expression of interest: Environmental Scientist Graduate Program Stantec are seeking talented Graduates to join our Environmental Scientist Graduate Program in our Environment & Geosciences team in Perth, Western A..."
@@ -881,7 +1063,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T21:04:52Z",
       "ingested_at": "2026-06-08T04:44:49.672923+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.672923+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.171053+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "A fast-growing international technology company is seeking bright, ambitious graduates to join its engineering team in Cambridge. You'll work alongside experienced developers, contributing to products used by organisations around the world. This is an opportunity to work on a diverse range of techno..."
@@ -907,7 +1089,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T21:04:52Z",
       "ingested_at": "2026-06-08T04:44:49.943594+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.943594+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.415841+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "A specialist engineering and manufacturing business developing products for industrial applications worldwide.Their teams manage the full product lifecycle in-house, from design and prototyping through to manufacturing and testing. The Role As a Graduate Product Design Engineer, you will support the..."
@@ -933,7 +1115,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T21:04:51Z",
       "ingested_at": "2026-06-08T04:44:49.695874+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.695874+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.196881+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Data Analyst - Technology Startup Are you a highly motivated and analytical graduate looking to kick-start your career in a dynamic tech startup? They're seeking a talented Data Analysts to join their rapidly expanding team, where you'll play a crucial role in building innovative data products and i..."
@@ -959,7 +1141,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T21:04:51Z",
       "ingested_at": "2026-06-08T04:44:49.695900+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.695900+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.196898+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Data Analyst - Technology Startup Are you a highly motivated and analytical graduate looking to kick-start your career in a dynamic tech startup? They're seeking a talented Data Analysts to join their rapidly expanding team, where you'll play a crucial role in building innovative data products and i..."
@@ -985,7 +1167,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T18:06:44Z",
       "ingested_at": "2026-06-08T04:44:50.296430+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.296430+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.785754+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "GRADUATE Registered Nurse Commencing JULY 2026 Cardinia Community Aged Care is a Not-for-Profit organisation with an exciting opportunity for Graduate Registered Nurses to join our team. A friendly, focused and driven team, we look to bring on staff with the right attitudes and values to provide the..."
@@ -1011,7 +1193,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T17:05:31Z",
       "ingested_at": "2026-06-08T04:44:49.672968+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.672968+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.171063+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Location: Birmingham, UK Employment Type: Full-time Graduate Programme Start Date: 6 th September 2026 Position Overview At Autodesk, we\u2019re reimagining what\u2019s possible. As a global leader in 3D design, engineering, and entertainment software, we help people everywhere imagine, design, and create a b..."
@@ -1037,7 +1219,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T17:00:16Z",
       "ingested_at": "2026-06-08T04:44:49.703889+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.703889+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.205099+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job Description We are looking for recent graduates to join our Ecology and Biodiversity team in Southampton . The Role The job will initially involve assisting with ecological desk studies, field surveys and protected species mitigation for a variety of proposed development projects. In addition, t..."
@@ -1063,7 +1245,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:56:42Z",
       "ingested_at": "2026-06-08T04:44:49.704404+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.704404+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.205270+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Ebury helps ambitious businesses unlock global growth, and we take the same approach with our people. We encourage innovation and movement, collaboration and problem-solving, and foster an environment where everyone can feel they belong, are valued, supported and empowered to succeed. If you\u2019re a co..."
@@ -1089,7 +1271,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:53:55Z",
       "ingested_at": "2026-06-08T04:44:49.673359+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.673359+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.172644+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job Requisition ID  25WD90555 Location: Birmingham, UK Employment Type: Full-time Graduate Programme Start Date: 6 th September 2026 Position Overview At Autodesk, we\u2019re reimagining what\u2019s possible. As a global leader in 3D design, engineering, and entertainment software, we help people everywhere i..."
@@ -1115,7 +1297,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:51:53Z",
       "ingested_at": "2026-06-08T04:44:49.711226+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.711226+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.214825+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "About Abound We\u2019re redefining consumer lending in the UK, and beyond. Using advanced AI and Open Banking data, we make fair, affordable personal finance available to more people. While traditional lenders rely almost entirely on credit scores, we look at the full financial picture - how much you spe..."
@@ -1141,7 +1323,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T16:45:31Z",
       "ingested_at": "2026-06-08T04:44:49.689225+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.689225+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.185999+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Mechanical Building Services Engineer Redhill, Surrey | Full-Time | Excellent Career Development Start Your Engineering Career Where You'll Actually Make a Difference Are you a Mechanical Engineering or Building Services graduate looking for more than just a desk job? Join a growing, friend..."
@@ -1167,7 +1349,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T10:46:04Z",
       "ingested_at": "2026-06-08T04:44:50.368871+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.368871+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.803737+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Early-Careers Advanced Analytics Opportunity Build capability in AI, cloud and automation Help shape responsible lending for millions See Yourself in our Team At CommBank, we never lose sight of the role we play in supporting the financial wellbeing of our customers and communities. Our purpose is t..."
@@ -1193,7 +1375,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T10:44:20Z",
       "ingested_at": "2026-06-08T04:44:50.368961+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.368961+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.803850+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Associate Job Description & Summary Be part of our Deals team in Sydney and work closely with clients on high\u2011stakes decisions\u2014from mergers and acquisitions to growth strategies. You\u2019ll analyse marke..."
@@ -1219,7 +1401,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T07:07:46Z",
       "ingested_at": "2026-06-08T04:44:49.813405+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.813405+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.304599+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate SEN Teaching Assistant Liverpool L14 | Pay: \u00a390\u2013\u00a3105 per day (depending on experience) | SEN Experience Wanted Are you a recent graduate looking to make a genuine difference in the lives of children with Special Educational Needs? We are recruiting on behalf of a welcoming and highly suppor..."
@@ -1245,7 +1427,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T07:06:54Z",
       "ingested_at": "2026-06-08T04:44:49.817233+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.817233+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.307029+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Primary Graduate Teaching Assistant I am working with an East London based primary school who are looking for a small number of graduates to join the school from September to work as teaching assistants. This would be the ideal role for a graduate who is considering a career in teaching and is looki..."
@@ -1271,7 +1453,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T05:37:24Z",
       "ingested_at": "2026-06-08T04:44:50.376946+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.376946+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.808405+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Are you passionate about helping people and making a real impact in their lives? Join our boutique migration agency and become part of a supportive and dynamic team where your attention to detail and care will truly matter. We are looking for a highly motivated and ambitious recent Graduate Migratio..."
@@ -1297,7 +1479,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T02:48:13Z",
       "ingested_at": "2026-06-08T04:44:49.778104+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.778104+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.277086+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Executive Search Consultant | Executive Search Graduate Scheme London 2026 \u00a328,000 - \u00a330,000 Basic Salary  Uncapped Commission  \u00a3100,000 OTE Graduate Executive Search Consultant | Graduate Headhunter | Financial Services Recruitment | Executive Search London Looking for more than a standard..."
@@ -1323,7 +1505,7 @@
       "company_logo": null,
       "posted_at": "2026-06-06T01:28:02Z",
       "ingested_at": "2026-06-08T04:44:49.673935+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.673935+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.173022+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job Requisition ID  25WD90555 Location: Birmingham, UK Employment Type: Full-time Graduate Programme Start Date: 6th September 2026 Position Overview At Autodesk, we're reimagining what's possible. As a global leader in 3D design, engineering, and entertainment software, we help people everywhere im..."
@@ -1349,7 +1531,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T20:39:00Z",
       "ingested_at": "2026-06-08T04:44:49.814014+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.814014+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305175+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Psychology Graduate Teaching Assistant - Stroud Flexible / Part Time / Full Time / Term Time Are you a Psychology graduate looking to gain practical experience working with young people before pursuing a career in educational psychology, teaching, mental health, counselling, or youth support? Vision..."
@@ -1375,7 +1557,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T20:37:28Z",
       "ingested_at": "2026-06-08T04:44:49.814068+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.814068+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305235+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "A high-performing secondary school in Hexham, Northumberland is looking for a motivated and enthusiastic Psychology Graduate to join the team as a Graduate Teaching Assistant. This is a school with an excellent reputation, high academic standards, and a strong commitment to student wellbeing. Staff ..."
@@ -1401,7 +1583,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T20:37:28Z",
       "ingested_at": "2026-06-08T04:44:49.814115+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.814115+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.305268+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Looking to start a career in educational psychology, child development, or behaviour support? This could be your perfect first step. We're looking for a resilient, patient, and compassionate SEN Support Assistant to work 1:1 with a Year 2 pupil in a welcoming primary school in NE6 for the new academ..."
@@ -1427,7 +1609,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T19:38:05Z",
       "ingested_at": "2026-06-08T04:44:49.817714+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.817714+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.307330+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Primary Graduate Teaching Assistant I am working with an East London based primary school who are looking for a small number of graduates to join the school from September to work as teaching assistants. This would be the ideal role for a graduate who is considering a career in teaching and is looki..."
@@ -1453,7 +1635,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T18:50:33Z",
       "ingested_at": "2026-06-08T04:44:49.726511+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.726511+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.227008+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Think Specialist Recruitment are delighted to be working with a Global organisation based within the Watford area. This market leading company have an exciting opportunity for a Marketing Graduate to join their Trade Marketing team. This is a fantastic opportunity for a recent Marketing Graduate to ..."
@@ -1505,7 +1687,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T17:07:13Z",
       "ingested_at": "2026-06-08T04:44:49.700061+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.700061+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.215667+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Join TRG Screen: Building World-Class Teams. One Expert at a Time. Are you ready to be part of a dynamic team at the forefront of subscription spend management innovation? At TRG Screen, we're not just redefining how organizations manage their subscription expenses \u2013 we're shaping the future of the ..."
@@ -1531,7 +1713,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T15:15:59Z",
       "ingested_at": "2026-06-08T04:44:50.303042+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.303042+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.745887+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Create futures worth inheriting with SMEC and the SJ Group About SJ Group At SJ, we\u2019re building identity into infrastructure, character into skylines and peace of mind into everyday life. A global urban and infrastructure consultancy firm with over 75 years of project delivery success, SJ and its me..."
@@ -1557,7 +1739,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T13:44:56Z",
       "ingested_at": "2026-06-08T04:44:49.779667+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.779667+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.278080+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Validus Risk Management is a specialist derivatives and financial risk advisory firm. Our clients are top-tier Private Equity and Private Debt firms, financial institutions, corporates, and investment managers. We provide our clients with expert guidance on derivatives structuring, ISDA negotiation,..."
@@ -1583,7 +1765,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T10:28:10Z",
       "ingested_at": "2026-06-08T04:44:49.682070+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.682070+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.180478+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Salary: \u00a318,000 - 18,393 per year Requirements: We are seeking someone with relevant IT experience or a qualification, with GCSEs in Maths and English at grade 4 or above. We require at least two years of experience in IT support or a similar role. We are looking for experience procuring computer ha..."
@@ -1609,7 +1791,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T08:14:22Z",
       "ingested_at": "2026-06-08T04:44:50.349074+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.349074+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.788089+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Join Our Team as an IT Support Technician! Are you a recent graduate with a passion for IT and a positive attitude? Myrtec is looking for multiple enthusiastic IT Support Technicians to join our dynamic Service Desk team in Gosford, Newcastle or Maitland NSW. This is a fantastic opportunity to kicks..."
@@ -1635,7 +1817,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T08:14:09Z",
       "ingested_at": "2026-06-08T04:44:50.479256+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.479256+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.903861+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Graduate / Undergraduate Accountant & Junior Accountant Opportunities Join the Team at Prospera Partners Prospera Partners is a growing boutique accounting, taxation and business advisory firm based in Subiaco, Western Australia. We work closely with SMEs, family businesses, high-net-worth individua..."
@@ -1661,7 +1843,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T05:27:59Z",
       "ingested_at": "2026-06-08T04:44:49.903943+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.903943+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.381052+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Recruitment Consultant London | Office-Based \u00a327,000 base salary  uncapped commission High-fee market | International opportunities | 29th June start date Looking for a high-performance sales career with serious earning potential? Our client is a fast-growing international recruitment firm ..."
@@ -1687,7 +1869,7 @@
       "company_logo": null,
       "posted_at": "2026-06-05T04:13:45Z",
       "ingested_at": "2026-06-08T04:44:49.780124+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.780124+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.278342+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Finance Data Analyst - Manchester - Immediate start - 5 days in office. Graduate Finance Data AnalystLocation: Openshaw, Manchester (Full-Time, Office-Based) Salary: \u00a330,000 A well-established and growing manufacturing business based in Openshaw, Manchester is currently seeking a highly mot..."
@@ -1713,7 +1895,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T22:17:49Z",
       "ingested_at": "2026-06-08T04:44:49.781078+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.781078+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.278508+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "The Graduate Finance Analyst will play a key role in supporting financial decision-making. This position focuses on analysing financial data, preparing reports, working closely with stakeholders and ensuring accurate forecasting to drive business performance. Client Details This role is based at a w..."
@@ -1739,7 +1921,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T20:50:27Z",
       "ingested_at": "2026-06-08T04:44:49.819197+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.819197+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.310045+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Job Title: Science Graduate Location: Fulford, North Yorkshire Contract: Part Time, Full Time, Term Time Only Start Date: September 2026 or sooner Salary: \u00a392-\u00a3120 Per day Are you a recent Science graduate with a passion for inspiring young people and exploring a career in education? GSL Education a..."
@@ -1765,7 +1947,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T14:54:13Z",
       "ingested_at": "2026-06-08T04:44:50.552929+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.552929+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.966585+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "This is a Graduate Registered Nurse role with St John of God Health Care based in Melbourne, VIC, AU  St John of God Health Care  Role Seniority - graduate More about the Graduate Registered Nurse role at St John of God Health Care PATHWAYS TO PRACTICE \u2013 February 2027 Graduate Registered Nurse Progr..."
@@ -1791,7 +1973,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T14:51:19Z",
       "ingested_at": "2026-06-08T04:44:50.571267+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.571267+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.985559+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "This is a Graduate Sales Representative role with Sitemate based in Sydney, NSW, AU  Sitemate  Role Seniority - graduate More about the Graduate Sales Representative role at Sitemate Link to role introduction video: https://www.loom.com/share/0835cfb3e3f54c0ebdaf5ffcd7ffeaf2 Thanks for stopping by a..."
@@ -1817,7 +1999,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T07:14:22Z",
       "ingested_at": "2026-06-08T04:44:50.553754+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.553754+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.968422+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Join Altaira as a Graduate Registered Nurse! We'll guide you every step of the way with: Supportive Environment: Learn alongside experienced nurses with buddy shifts and dedicated manager guidance. Flexible Schedule: Choose your ideal schedule - mornings, afternoons, or nights - for your full-time (..."
@@ -1843,7 +2025,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T05:25:02Z",
       "ingested_at": "2026-06-08T04:44:49.904541+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.904541+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.381296+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Graduate Recruitment Consultant \u2013 FinTech | Immediate Start | \u00a328,000  Commission Location: Bank, City of London Salary: \u00a328,000 basic  uncapped commission (Year 1 OTE \u00a345,000, Year 2 \u00a370,000, Year 3 \u00a3100,000) Are you an ambitious graduate ready to kickstart a fast-paced, high-earning career in recr..."
@@ -1869,7 +2051,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T01:16:13Z",
       "ingested_at": "2026-06-08T04:44:49.898831+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.898831+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.379239+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Kick-Start Your Marketing Career - Marketing Assistant Location: Hampton area, office based only, no hybrid work Hours: Monday - Friday, 9am - 5.30pm Salary: Circa \u00a3P.A, depending on experience level Are you a recent graduate with a passion for marketing, social media, and creative content? Looking ..."
@@ -1895,7 +2077,7 @@
       "company_logo": null,
       "posted_at": "2026-06-03T23:02:39Z",
       "ingested_at": "2026-06-08T04:44:49.899710+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.899710+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.379309+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Kick-Start Your Marketing Career - Marketing Assistant Location: Hampton area, office based only, no hybrid work Hours: Monday - Friday, 9am - 5.30pm Salary: Circa \u00a325 - 28.000P.A, depending on experience level Are you a recent graduate with a passion for marketing, social media, and creative conten..."
@@ -1921,7 +2103,7 @@
       "company_logo": null,
       "posted_at": "2026-06-03T11:18:10Z",
       "ingested_at": "2026-06-08T04:44:50.656445+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.656445+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.062520+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Our client is a highly regarded personal injury and compensation law firm seeking a Graduate Lawyer with prior personal injury experience to join its Brisbane-based team. This is a rare opportunity to build a specialist career in plaintiff personal injury working directly with and learning from the ..."
@@ -1947,7 +2129,7 @@
       "company_logo": null,
       "posted_at": "2026-06-02T17:18:44Z",
       "ingested_at": "2026-06-08T04:44:49.907059+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.907059+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.382001+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Do you know you want to work with good people, in a fun environment, and earn great money - but don't know exactly what job that might be? The answer = recruitment consultant! The role of a Recruitment Consultant is one of the fastest growing, best paid & most sociable jobs on the market. Your role ..."
@@ -1973,7 +2155,7 @@
       "company_logo": null,
       "posted_at": "2026-06-02T09:43:37Z",
       "ingested_at": "2026-06-08T04:44:50.555593+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.555593+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.969150+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Applications for South West Healthcare's 2027 Combined Graduate Mental Health / General Nursing Program are now open! The combined Graduate Mental Health / General Nursing Program is a combination of Mental Health Nursing in South West Healthcare's (SWH) Mental Health Acute Inpatient Unit and Genera..."
@@ -4625,7 +4807,7 @@
       "company_logo": null,
       "posted_at": "2026-05-29T05:53:05Z",
       "ingested_at": "2026-05-29T05:27:41.580888+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.317639+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.759801+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "GIS/Remote Sensing Graduate - Environment and Geosciences - ( 260000CL ) * Description* Stantec are seeking a talented GIS/Remote Sensing Graduate to join our Environment and Geoscience team in Perth. What we provide Join an award winning two-year graduate development program where you gain hands-on..."
@@ -5119,7 +5301,7 @@
       "company_logo": null,
       "posted_at": "2026-05-29T04:04:56Z",
       "ingested_at": "2026-06-01T20:45:11.804426+00:00",
-      "last_seen_at": "2026-06-01T20:45:11.804426+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.035542+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "Job Title: Athletic Communications Graduate Assistant (Part-time) Reporting Relationship: Associate A.D. of External Operations Unit: IWU - Marion Department: Intercollegiate Athletics Campus Location: Recreation & Wellness Center - Marion, IN Summary of Position: The Athletic Communications Graduat..."
@@ -6861,7 +7043,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T08:54:37Z",
       "ingested_at": "2026-05-29T05:27:41.580709+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.387334+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.820531+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Help organisations harness emerging technologies to work smarter, move faster and solve complex problems. Our teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more \u2014 helping clients modernise systems, strengthen resilience, and create be..."
@@ -6887,7 +7069,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T08:54:37Z",
       "ingested_at": "2026-05-29T05:27:41.580720+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.387418+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.820556+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Help organisations harness emerging technologies to work smarter, move faster and solve complex problems. Our teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more \u2014 helping clients modernise systems, strengthen resilience, and create be..."
@@ -7017,7 +7199,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T08:54:37Z",
       "ingested_at": "2026-06-01T20:45:12.664792+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.386221+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.819769+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Help organisations harness emerging technologies to work smarter, move faster and solve complex problems. Our teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more \u2014 helping clients modernise systems, strengthen resilience, and create be..."
@@ -7043,7 +7225,7 @@
       "company_logo": null,
       "posted_at": "2026-05-27T08:54:36Z",
       "ingested_at": "2026-05-29T05:27:41.619317+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.387486+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.820597+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Help organisations harness emerging technologies to work smarter, move faster and solve complex problems. Our teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more \u2014 helping clients modernise systems, strengthen resilience, and create be..."
@@ -7199,7 +7381,7 @@
       "company_logo": null,
       "posted_at": "2026-05-25T14:46:37Z",
       "ingested_at": "2026-05-29T05:27:41.770719+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.660452+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.066507+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Personal Injury Paralegal/Graduate Lawyer (Workers Compensation/WID) ENERGISE your career. Premier plaintiff firm. Enviable growth opp. Lively down-to-earth culture. Life friendly. $55,000-$75,000. Sydney. THE FIRM Our client is one of NSW's top plaintiff firms-their trusted brand is synonymous with..."
@@ -7225,7 +7407,7 @@
       "company_logo": null,
       "posted_at": "2026-05-25T14:46:36Z",
       "ingested_at": "2026-05-29T05:27:41.770948+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.661246+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.067117+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Personal Injury Paralegal/Graduate Lawyer (CTP) ENERGISE your career. Premier plaintiff firm. Enviable growth opp. Lively down-to-earth culture. Life friendly. $55,000-$75,000. Sydney. THE FIRM Our client is one of NSW's top plaintiff firms-their trusted brand is synonymous with personal injury law ..."
@@ -7251,7 +7433,7 @@
       "company_logo": null,
       "posted_at": "2026-05-25T14:46:36Z",
       "ingested_at": "2026-05-29T05:27:41.771060+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.661288+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.067162+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Paralegal or Graduate/ Junior Lawyer (Personal Injury/Workers Compensation) HEAD START Invigorating Rewarding career. PREMIER plaintiff firm. A mentors/training. Refreshing culture. Winning team. Employer of CHOICE. Full-time. $55,000-75,000. Sydney CBD. YOUR NEW EMPLOYER Our client is a premier pla..."
@@ -7277,7 +7459,7 @@
       "company_logo": null,
       "posted_at": "2026-05-25T14:46:35Z",
       "ingested_at": "2026-05-29T05:27:41.771098+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.661317+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.067303+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Personal Injury Paralegal/Clerk or Graduate Lawyer (Workers Compensation/CTP) HEAD START Invigorating Rewarding career. PREMIER plaintiff firm. A mentors/training. Refreshing culture. Winning team. Employer of CHOICE. Full-time. $50,000-75,000. Sydney CBD. YOUR NEW EMPLOYER Our client is a premier p..."
@@ -7303,7 +7485,7 @@
       "company_logo": null,
       "posted_at": "2026-05-25T14:46:33Z",
       "ingested_at": "2026-05-29T05:27:41.771792+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.661527+00:00",
+      "last_seen_at": "2026-06-08T05:59:30.067565+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Personal Injury Paralegal or Graduate/Junior Lawyer (WC/WID/CTP/Civil Liability) Fire Up your career. Foot in the door to a 5 STAR plaintiff firm. Best mentors. Enviable growth opps. Exciting long-term future. $55,000-$80,000. Sydney. YOUR NEW EMPLOYER Our client is a premier plaintiff law firm with..."
@@ -7381,7 +7563,7 @@
       "company_logo": null,
       "posted_at": "2026-05-24T14:40:18Z",
       "ingested_at": "2026-05-29T05:27:41.581432+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.322801+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.763648+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "GIS/Remote Sensing Graduate - Environment and Geosciences - ( 260000CL ) Description Stantec are seeking a talented GIS/Remote Sensing Graduate to join our Environment and Geoscience team in Perth. What we provide Join an award winning two-year graduate development program where you gain hands-on ex..."
@@ -7407,7 +7589,7 @@
       "company_logo": null,
       "posted_at": "2026-05-24T10:40:48Z",
       "ingested_at": "2026-05-29T05:27:41.610005+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.390438+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.823788+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Catholic Education in Western Australia (CEWA) is the second largest education provider in the State. We cater for more than 76,000 students in 162 schools. CEWA strives to create progressive environments that enhance learning. Our culture is underpinned by our Vision, Quality Catholic Education (QC..."
@@ -7433,7 +7615,7 @@
       "company_logo": null,
       "posted_at": "2026-05-24T10:40:38Z",
       "ingested_at": "2026-05-29T05:27:41.610092+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.390739+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.824238+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "Graduate Product Engineer For over 150 years, our schools, colleges, early learning centres and out of school care programs, have been an integral part of education in Western Australia. Together we form the state\u2019s second-largest education provider, with more than 84,500 students relying on our nea..."
@@ -7485,7 +7667,7 @@
       "company_logo": null,
       "posted_at": "2026-05-23T01:29:08Z",
       "ingested_at": "2026-05-29T05:27:41.287101+00:00",
-      "last_seen_at": "2026-06-08T04:44:49.839633+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.325410+00:00",
       "expired": 0,
       "country": "GB",
       "description_preview": "Description As a Graduate P&C engineer, you will assist in the preparation of project documentation working on live substation projects under the guidance of senior engineers. Working for clients such as National Grid, Scottish Power, and Scottish & Southern Energy amongst many, you will be responsi..."
@@ -7511,7 +7693,7 @@
       "company_logo": null,
       "posted_at": "2026-05-22T12:24:21Z",
       "ingested_at": "2026-05-29T05:27:41.582143+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.325133+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.766742+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "GIS/Remote Sensing Graduate - Environment and Geosciences - ( 260000CL ) Description Stantec are seeking a talented GIS/Remote Sensing Graduate to join our Environment and Geoscience team in Perth. What we provide  Join an award winning two-year graduate development program where you gain hands-on e..."
@@ -10501,7 +10683,7 @@
       "company_logo": null,
       "posted_at": "2026-05-19T06:15:09Z",
       "ingested_at": "2026-05-21T18:42:08.430376+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.529161+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.947293+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "The Organisation The Australian Security Intelligence Organisation (ASIO) protects Australia and Australians from threats to their security. ASIO\u2019s people are ordinary Australians but they do extraordinary things \u2013 they are our most important asset. To be successful, we need talented people who are ..."
@@ -11099,7 +11281,7 @@
       "company_logo": null,
       "posted_at": "2026-05-19T00:27:19Z",
       "ingested_at": "2026-05-18T16:53:28.811570+00:00",
-      "last_seen_at": "2026-06-08T04:44:50.452305+00:00",
+      "last_seen_at": "2026-06-08T05:59:29.873478+00:00",
       "expired": 0,
       "country": "AU",
       "description_preview": "About You You are a psychology graduate/master's student looking for practical consulting experience in designing, developing, and launching an evidence-based, psychologically-informed online learning and coaching program. You'll be energised by the power of digital marketing, content creation, inst..."
