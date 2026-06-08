@@ -1,7 +1,35 @@
 {
   "category": "Medical Support Assistance",
-  "total": 2,
+  "total": 3,
   "jobs": [
+    {
+      "id": "60a4124a2c5922c2",
+      "source": "usajobs",
+      "external_id": "CAZP-12978584-26-SC",
+      "title": "Advanced Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "description": "Major Duties: Work involves specialized administrative judgment and the flexible use of a wide range of clinical flow processes relating to access to care across multiple clinics, specialties, and/or care in the community resources. Works collaboratively with VISN programs, services, and interprofessional coordinated care team members to provide access to care and meet the needs of Veterans via various available contact modalities to include but not limited to telephone calls, secure messaging, chat, text messaging and video. Scheduling, canceling, re-scheduling patient appointments and/or consults. Entering no-show information. Monitoring appointment requests from multiple electronic sources. Gathering and obtaining medical information from patients. Processing medication refill requests. Reviewing electronic health record, obtaining medical records. Participating in huddles with other MSAs and/or VISN CCC staff to determine the daily needs of the VISN CCC. Monitoring outpatient appointments in areas of responsibility; and verifying and updating demographics when contacted by patients. Manages patient systems to verify and validate accuracy and resolve issues. Evaluates patient information and clinic schedule lists to determine whether the patient requires an immediate appointment. Informs interprofessional team members about shared patients (i.e.)., those who receive their care at multiple VA centers or those who receive care in the community. Work Schedule: Monday - Friday 11:30am - 8:00pm CST Compressed/Flexible: Not Authorized. Recruitment Incentive (Sign-on Bonus): Not Authorized Permanent Change of Station (Relocation Assistance): Not Authorized. Telework: Available. Virtual: This is a virtual position. Remote: This position is designated as remote. Remote work is defined as full-time employment conducted outside of a VA facility or in VA-leased spaces. The option for remote work will be assessed continuously, and the selected individual may need to return to a VA office if required. Applicants must live within 50 miles of one of our facilities, as they may be subject to the Return to Office (RTO) order. Functional Statement #: 00061F Permanent Change of Station (PCS): Not Authorized. PCS Appraised Value Offer (AVO): Not Authorized.",
+      "category": "Medical Support Assistance",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 45409.0,
+      "salary_max": 59031.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/871854200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-04T00:00:00.0000",
+      "ingested_at": "2026-06-08T04:44:53.760636+00:00",
+      "last_seen_at": "2026-06-08T04:44:53.760636+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Major Duties: Work involves specialized administrative judgment and the flexible use of a wide range of clinical flow processes relating to access to care across multiple clinics, specialties, and/or care in the community resources. Works collaboratively with VISN programs, services, and interprofes..."
+    },
     {
       "id": "fff17ccdced7eeb7",
       "source": "usajobs",

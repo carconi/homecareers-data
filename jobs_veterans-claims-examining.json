@@ -1,7 +1,35 @@
 {
   "category": "Veterans Claims Examining",
-  "total": 1,
+  "total": 2,
   "jobs": [
+    {
+      "id": "3e94b924c7d7d25c",
+      "source": "usajobs",
+      "external_id": "351-26-HH-12976169-NBU",
+      "title": "Supervisory Veterans Claims Examiner",
+      "company": "Veterans Benefits Administration",
+      "description": "The Supervisory Veterans Claims Examiner (VCE) is responsible to the Education Call Center Manager for technical and administrative tasks of the Education Call Center. The Supervisory VCE has knowledge of all aspects of education benefits administered by the Department of Veterans Affairs, the education process, including the utmost attention to customer service skills. The Supervisory VCE assists team members with difficult problems on procedural and technical matters, especially where no precedent has been established; maintains knowledge of veteran interview procedures, the education award procedures, debt collection procedures; maintains technical competence of all the computer applications needed in the day-to-day operations. Specific duties include: Works with team(s) in planning, workload, ensuring its completion by team personnel, and resolving problems as they occur. Provides support, advice, counsel, and instruction to employees on work and administrative matters. Advises and recommends new procedures to meet changing needs to achieve the utmost efficiency on teams. Responsible for systematic review of all operations of the teams. Serves as team supervisor and technical resource advisor for one or more teams. Assists in resolving disciplinary problems within teams through the use of counseling and employee training. Assists teams in matters pertaining to on-the-job training for new employees and in determining the need for additional refresher training for experienced staff members. Schedules and assigns training to ensure regulatory changes are implemented throughout teams. Acts as the final arbitrator of technical disputes among team/team members. Advises and consults with the Education Call Center Manager on difficulties encountered or problems arising in work relationships with other divisions or services within the division. Approves/disapproves leave. Work Schedule: Full time, Monday through Friday, 8:00 AM - 4:30 PM Central Time with late shift rotation of 10:00 AM to 6:30 PM Central Time Compressed/Flexible: Not Available Telework: This is a remote position. Position Description/PD#: Supervisory Veterans Claims Examiner; PD06245A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not Required",
+      "category": "Veterans Claims Examining",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 89508.0,
+      "salary_max": 116362.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/871940300",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-05T11:53:00.9730",
+      "ingested_at": "2026-06-08T04:44:53.760756+00:00",
+      "last_seen_at": "2026-06-08T04:44:53.760756+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Supervisory Veterans Claims Examiner (VCE) is responsible to the Education Call Center Manager for technical and administrative tasks of the Education Call Center. The Supervisory VCE has knowledge of all aspects of education benefits administered by the Department of Veterans Affairs, the educa..."
+    },
     {
       "id": "e7967ec0cf79210c",
       "source": "usajobs",
