@@ -1,7 +1,37 @@
 {
   "category": "Sales",
-  "total": 5,
+  "total": 6,
   "jobs": [
+    {
+      "id": "d4c6693327b71937",
+      "source": "remotive",
+      "external_id": "2090949",
+      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
+      "company": "FSE LLC",
+      "description": "<div class=\"h3\"><strong>Position:</strong> Account Executive / B2B Sales Specialist</div>\n<p>\u00a0</p>\n<div class=\"h3\"><strong>Compensation:</strong> 100% Commission (Uncapped Earning Potential)</div>\n<p>\u00a0</p>\n<div class=\"h3\"><strong>Location:</strong> Remote (Global)</div>\n<p>\u00a0</p>\n<div class=\"h3\"><strong>About Funding Solutions Experts (FSE)</strong></div>\n<p>At FSE, we deliver elite capital solutions to high-growth businesses. We operate in a fast-paced, high-stakes environment where excellence is the standard, not the exception. We do not offer a \"comfortable\" corporate safety net; instead, we provide a launchpad for the top 1% of sales professionals who want absolute control over their financial destiny through a pure meritocracy.</p>\n<p>If you are a self-motivated Closer who thrives in a high-volume, performance-driven environment, this is your opportunity to build an empire.</p>\n<div class=\"h3\"><strong>\u00a0</strong></div>\n<div class=\"h3\"><strong>The Mission: Execute. Close. Lead.</strong></div>\n<p><strong>\u00a0</strong></p>\n<ul style=\"\">\n<li style=\"\">\n<p><strong>High-Volume B2B Engagement:</strong> Conduct focused outbound campaigns (Monday \u2013 Friday) targeting business owners and C-suite executives.</p>\n</li>\n<li style=\"\">\n<p><strong>Pipeline Management:</strong> Manage high-ticket financial sales cycles from initial contact to close, maintaining an authoritative and consultative approach.</p>\n</li>\n<li style=\"\">\n<p><strong>Accelerated Leadership Path:</strong> We are scouting future Team Leaders. Once you consistently hit your benchmarks, you will be given the autonomy to recruit, train, and scale your own regional \"Pod.\" You will earn direct overrides on every transaction your team closes.</p>\n</li>\n<li style=\"\">\n<p>\u00a0</p>\n</li>\n</ul>\n<div class=\"h3\"><strong>Candidate Profile: The Top 1%</strong></div>\n<p><strong>\u00a0</strong></p>\n<ul style=\"\">\n<li style=\"\">\n<p><strong>Commanding Communication:</strong> Your professional business English is flawless, authoritative, and persuasive. You don't just pitch; you influence key decision-makers.</p>\n</li>\n<li style=\"\">\n<p><strong>Relentless Execution:</strong> You possess an elite work ethic, show up with high energy every single day, and view \"No\" as a brief detour on the path to a contract.</p>\n</li>\n<li style=\"\">\n<p><strong>Performance Mindset:</strong> You excel in high-volume outbound dialing environments. You view critical feedback as revenue-generating data and adapt instantly.</p>\n</li>\n<li style=\"\">\n<p><strong>Track Record:</strong> Proven experience in high-ticket closing, B2B sales, or financial services is highly preferred.</p>\n</li>\n<li style=\"\">\n<p>\u00a0</p>\n</li>\n</ul>\n<div class=\"h3\"><strong>What FSE Offers</strong></div>\n<p><strong>\u00a0</strong></p>\n<ul style=\"\">\n<li style=\"\">\n<p><strong>Uncapped Commission Structure:</strong> There is no ceiling on your income. Your revenue generation directly dictates your lifestyle.</p>\n</li>\n<li style=\"\">\n<p><strong>Rapid Career Progression:</strong> We promote strictly on results, not seniority. Transition into a leadership role with team overrides within months of proven success.</p>\n</li>\n<li style=\"\">\n<p><strong>Global Remote Flexibility:</strong> Work from anywhere in the world, provided you have a high-speed internet connection, a quiet workspace, and an elite daily output.</p>\n</li>\n<li style=\"\">\n<p><strong>High-Performance Culture:</strong> A zero-drama environment focused exclusively on execution, scale, and financial growth.</p>\n</li>\n<li style=\"\">\n<p>\u00a0</p>\n</li>\n</ul>\n<div class=\"h3\"><strong>Are You Ready to Dominate the Market?</strong></div>\n<p><strong>\u00a0</strong></p>\n<p>If you have the resilience, the drive, and the skill set to close high-ticket financial deals, we want to hear from you.</p>\n<p>\u00a0</p>\n<p><strong>Apply today to join an elite team of financial sales professionals.</strong></p>\n<img src=\"https://remotive.com/job/track/2090949/blank.gif?source=public_api\" alt=\"\"/>",
+      "category": "Sales",
+      "tags": [
+        "C",
+        "excel",
+        "team lead",
+        "financial services",
+        "C-Suite"
+      ],
+      "job_type": "full-time",
+      "location": "Worldwide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+      "affiliate_url": null,
+      "company_logo": "https://remotive.com/job/2090949/logo",
+      "posted_at": "2026-06-09T08:50:02",
+      "ingested_at": "2026-06-14T22:07:44.580451+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.236916+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Position: Account Executive / B2B Sales Specialist\n\u00a0\nCompensation: 100% Commission (Uncapped Earning Potential)\n\u00a0\nLocation: Remote (Global)\n\u00a0\nAbout Funding Solutions Experts (FSE)\nAt FSE, we deliver elite capital solutions to high-growth businesses. We operate in a fast-paced, high-stakes environmen..."
+    },
     {
       "id": "cc86c1b3dcf3f185",
       "source": "remotive",
@@ -30,7 +60,7 @@
       "company_logo": "",
       "posted_at": "2026-06-03T20:53:10",
       "ingested_at": "2026-06-08T03:49:46.945439+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.153953+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.240515+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "Who We Are\nAt The Land Geek, we\u2019re all about helping people ditch the rat race and build real freedom through land investing. We\u2019re passionate about teaching others how to create passive income using a simple, repeatable system that\u2019s been tested and proven by thousands of land investors. No tenants..."
@@ -123,7 +153,7 @@
       "company_logo": "https://remotive.com/job/2086540/logo",
       "posted_at": "2026-05-08T22:00:54",
       "ingested_at": "2026-05-18T04:21:55.238982+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.180726+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.237159+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "About Us\nWe are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help..."

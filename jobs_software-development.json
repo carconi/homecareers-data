@@ -1,7 +1,36 @@
 {
   "category": "Software Development",
-  "total": 11,
+  "total": 12,
   "jobs": [
+    {
+      "id": "c0a3e3bed37c0233",
+      "source": "remotive",
+      "external_id": "2090983",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "description": "<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">About Lemon.io</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We\u2019ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2\u20135 week hiring timeline down to 24\u201348 hours through a curated, pre-vetted supply of developers.</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We\u2019re building the product that changes that. Giving recruiters qualified, vetted candidates within 24 hours without the grind. This is a pivotal moment: we\u2019re transitioning from a services-driven marketplace to a technology-driven platform. We need an engineering leader who can drive that transformation.</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\">\u00a0</p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">The Role</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">You will own engineering at Lemon.io. You\u2019ll lead a growing team of engineers, make critical architecture and prioritization decisions, and be directly accountable for the speed and quality of what we ship. This is not a management-layer role. You\u2019ll be hands-on, deeply involved in product decisions, and working side by side with the founder.</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\">\u00a0</p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">What You\u2019ll Do:</span></p>\n<ul style=\"\">\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Own the technical roadmap and make sure every engineering effort maps directly to business impact. No features for features\u2019 sake.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Lead and grow an engineering team that ships fast, iterates constantly, and treats complexity as a cost.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Tackle the hard, multi-layered problem: automated vetting, intelligent matching at scale, demand-side bottlenecks. And figure out where the real leverage is.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Make hard prioritization calls. Decide what we build, what we skip, and what we kill.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Work directly with the founder and product team to define what success looks like before writing a single line of code.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Build the engineering culture: high ownership, high speed, low bureaucracy.<br></span></li>\n</ul>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">Who You Are:</span></p>\n<ul style=\"\">\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Product-minded, business-first</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Obsessed with simplicity</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">First principles thinker</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Fast. Bias toward action<br><br></span></li>\n</ul>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">Experience:</span></p>\n<ul style=\"\">\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">You\u2019ve led engineering teams (5\u201330+ people) at a startup or high-growth company.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">You have hands-on experience with modern stacks and are comfortable with AI/ML tooling.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">You\u2019ve worked in a distributed, async-first team.<br><br></span></li>\n</ul>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">Why Lemon.io:</span></p>\n<ul style=\"\">\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Profitable and growing. No fundraising pressure, real business fundamentals.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">A pivotal moment: you\u2019re not maintaining an engine, you\u2019re building one. The product roadmap is wide open.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Direct access to the founder. No layers. Your decisions ship.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">A massive, unsolved problem: hiring is still broken. We\u2019re building the product that makes it radically faster for companies to find qualified engineers.</span></li>\n<li style=\"\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">A team of 60 people who move fast, care deeply, and have survived the hard years together.</span></li>\n</ul>\n<img src=\"https://remotive.com/job/track/2090983/blank.gif?source=public_api\" alt=\"\"/>",
+      "category": "Software Development",
+      "tags": [
+        "AI/ML",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "job_type": "full-time",
+      "location": "LATAM, Europe, Central America",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2090983",
+      "affiliate_url": null,
+      "company_logo": "https://remotive.com/job/2090983/logo",
+      "posted_at": "2026-06-12T09:35:12",
+      "ingested_at": "2026-06-14T22:07:44.574854+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.231205+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "About Lemon.io\nLemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We\u2019ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2\u2013..."
+    },
     {
       "id": "50dbb3e2a3fb49ef",
       "source": "remotive",
@@ -42,7 +71,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:53:42",
       "ingested_at": "2026-06-08T03:49:46.946192+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.155103+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.241857+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Belo Horizonte, Brazil\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servi..."
@@ -87,7 +116,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:52:26",
       "ingested_at": "2026-06-08T03:49:46.946811+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.155473+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.242164+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Florian\u00f3polis, Brazil\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servic..."
@@ -132,7 +161,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:51:05",
       "ingested_at": "2026-06-08T03:49:46.947164+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.155825+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.242782+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Porto Alegre, Brazil.\u00a0\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servi..."
@@ -177,7 +206,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:49:18",
       "ingested_at": "2026-06-08T03:49:46.947586+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.156149+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.243453+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in S\u00e3o Paulo.\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services \u2014 operat..."
@@ -222,7 +251,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T06:28:34",
       "ingested_at": "2026-06-08T03:49:46.948369+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.157086+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.244449+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Campinas (Brazil)\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services \u2014..."
@@ -253,7 +282,7 @@
       "company_logo": "https://remotive.com/job/1919265/logo",
       "posted_at": "2026-05-16T10:16:48",
       "ingested_at": "2026-05-18T16:13:40.094509+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.172155+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.252509+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "You must be located in the Americas, Europe, or Israel to apply.A\u00b7Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing.\u00a0\nAfter talking with hundreds of independent engin..."
@@ -285,7 +314,7 @@
       "company_logo": "https://remotive.com/job/1919266/logo",
       "posted_at": "2026-05-16T10:16:39",
       "ingested_at": "2026-05-18T16:13:40.094770+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.173794+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.253193+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "Senior Independent AI Engineer / Architect\nRemote | Americas, Europe, or Israel\n\u00a0\nMost AI engineers can find work.\n\u00a0\nFinding work worth doing is harder.\n\u00a0\nA.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises..."
@@ -350,7 +379,7 @@
       "company_logo": "https://remotive.com/job/2088711/logo",
       "posted_at": "2026-05-15T14:00:51",
       "ingested_at": "2026-05-18T04:21:55.238490+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.174533+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.253594+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io \u2014 the marketplace that connects you with hand-picked startups in the US and Europe.\n\u00a0\nWhat we offer:\n\nThe rate depends on your seniority level, skill..."
@@ -399,7 +428,7 @@
       "company_logo": "https://remotive.com/job/2069746/logo",
       "posted_at": "2026-05-14T20:46:05",
       "ingested_at": "2026-05-18T04:21:55.238742+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.176184+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.254210+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "About Mitre Media\nMitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we\u2019ve served individual investo..."
@@ -440,7 +469,7 @@
       "company_logo": "",
       "posted_at": "2026-05-09T21:15:44",
       "ingested_at": "2026-05-18T04:21:55.238939+00:00",
-      "last_seen_at": "2026-06-08T05:05:29.180362+00:00",
+      "last_seen_at": "2026-06-14T23:06:03.235322+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "WHO ARE WE?\n\u00a0\nAt nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology.\n\u00a0\nCheck our website here: https://nooro-us.com/\n\u00a0\nWe're ..."

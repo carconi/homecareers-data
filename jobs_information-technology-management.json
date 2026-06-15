@@ -1,7 +1,35 @@
 {
   "category": "Information Technology Management",
-  "total": 3,
+  "total": 4,
   "jobs": [
+    {
+      "id": "4aae19f0c41e2d78",
+      "source": "usajobs",
+      "external_id": "26-CIO-12974633",
+      "title": "Supervisory IT Specialist (Security)",
+      "company": "Administrative Office of the U.S. Courts",
+      "description": "The Supervisory Information Technology Specialist (Security) serves as the Security Operations Support Branch Chief within the Security Operations Support Branch (SOSB). The incumbent is responsible for leading detection engineering, threat hunting, and threat intelligence teams to identify cybersecurity threats that impact the confidentiality, integrity, and availability of judicial data. The position reports to the SOD Division Chief and is critical to protecting the confidentiality, integrity, and availability of Judiciary information systems. Duties include, but are not limited to: Providing leadership, direction, and oversight for the Security Operations Support Branch, which delivers enterprise detection engineering, threat hunting, and threat intelligence capabilities in support of continuous cybersecurity operations. Overseeing the development, testing, deployment, and lifecycle management of detection logic used to identify malicious activity across the Judiciary's information technology environment. Leading the production and operational integration of threat intelligence to inform detection engineering priorities, threat hunting activities, and risk-based decision-making. Directing proactive threat hunting efforts to identify emerging, novel, or evasive adversary behaviors not addressed by existing detection mechanisms. Establishing and maintaining detection engineering standards, methodologies, and quality assurance processes to ensure accuracy, consistency, and operational effectiveness. Overseeing the validation, tuning, and refinement of detections based on operational feedback, adversary emulation results, and observed threat activity. Ensuring the development of metrics and reporting to measure detection coverage, effectiveness, and operational maturity. Leading the development and maintenance of a common operational picture that identifies baseline activity and highlights meaningful deviations to support situational awareness, prioritization, and leadership decision-making. Providing executive summaries and briefings to senior leadership and cybersecurity stakeholders to support enterprise risk awareness, prioritization, and resource allocation. Coordinating with the Security Operations Center to improve alert fidelity, investigative workflows, and analytic outcomes. Managing branch personnel, contractor support, and resource planning to sustain required capabilities. Performing duties consistent with the skills, knowledge, and abilities defined in NIST Special Publication 800-181 (NICE Cybersecurity Workforce Framework) for Program Management (OG-WRL-010), Threat Analysis (PD-WRL-006), and Defensive Cybersecurity (PD-WRL-001) roles.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 106437.0,
+      "salary_max": 197200.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/872623100",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-11T00:00:00.0000",
+      "ingested_at": "2026-06-15T00:00:02.752319+00:00",
+      "last_seen_at": "2026-06-15T00:00:02.752319+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Supervisory Information Technology Specialist (Security) serves as the Security Operations Support Branch Chief within the Security Operations Support Branch (SOSB). The incumbent is responsible for leading detection engineering, threat hunting, and threat intelligence teams to identify cybersec..."
+    },
     {
       "id": "cdcd42ec46e347e5",
       "source": "usajobs",

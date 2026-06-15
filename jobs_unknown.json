@@ -1,6 +1,6 @@
 ﻿{
     "category":  "Unknown",
-    "total":  46,
+    "total":  44,
     "jobs":  [
                  {
                      "id":  "d18ecc2696fef4f7",
@@ -1145,58 +1145,6 @@
                      "expired":  0,
                      "country":  "",
                      "description_preview":  "HEY THERE We’re hiring a Lead Data Platform Engineer to transform Yazio’s data backbone into a reliable, scalable, AI-enabled infrastructure. This is a hands-on architectural leadership role: you will own everything that happens before the warehouse layer—ingestion, transformation and feature infras..."
-                 },
-                 {
-                     "id":  "ceedd33c13f4e438",
-                     "source":  "adzuna",
-                     "external_id":  "5629363521",
-                     "title":  "Paid Search Manager H/F",
-                     "company":  "Hilti France",
-                     "description":  "Passionate about AI, search innovation, and scaling global impact? This role is for you ! We are looking for a Paid Search Specialist to join Hilti Global Paid Media team. In this role, you\u0027ll onboard and manage multiple Market Organizations (MOs) onto our global Paid Search Growth Program, ensuring each market adopts the standardized Google Ads campaign blueprint, localizes it effectively, while respecting local nuances. The Paid Search Specialist owns the campaign performances and will work c…",
-                     "category":  "Unknown",
-                     "tags":  [
-                                  "unknown"
-                              ],
-                     "job_type":  "",
-                     "location":  "Saint-Cloud, Boulogne-Billancourt",
-                     "salary_min":  null,
-                     "salary_max":  null,
-                     "salary_currency":  "",
-                     "url":  "https://www.adzuna.fr/details/5629363521?utm_medium=api\u0026utm_source=3bc8f735",
-                     "affiliate_url":  "https://www.adzuna.fr/details/5629363521?utm_medium=api\u0026utm_source=3bc8f735",
-                     "company_logo":  null,
-                     "posted_at":  "2026-02-14T08:46:55Z",
-                     "ingested_at":  "2026-05-18T04:32:02.028097+00:00",
-                     "last_seen_at":  "2026-05-18T04:32:02.028097+00:00",
-                     "expired":  0,
-                     "country":  "",
-                     "description_preview":  "Passionate about AI, search innovation, and scaling global impact? This role is for you ! We are looking for a Paid Search Specialist to join Hilti Global Paid Media team. In this role, you\u0027ll onboard and manage multiple Market Organizations (MOs) onto our global Paid Search Growth Program, ensuring..."
-                 },
-                 {
-                     "id":  "43983143ce212b70",
-                     "source":  "adzuna",
-                     "external_id":  "5627388872",
-                     "title":  "Full Stack Software Developer Engineer H/F",
-                     "company":  "Hilti France",
-                     "description":  "What\u0027s the role? As a Full Stack Developer, you will be a team expert in both front-end and back-end implementation. You\u0027ll design, develop, and deploy scalable, high-quality solutions using modern frameworks and cloud technologies. You\u0027ll actively participate in product feature and design discussions, present solutions to technical leadership, and collaborate across teams to shape Hilti\u0027s digital platforms. What You\u0027ll do Technical Excellence - Frontend: Develop user interfaces using Angular (…",
-                     "category":  "Unknown",
-                     "tags":  [
-                                  "unknown"
-                              ],
-                     "job_type":  "",
-                     "location":  "Saint-Cloud, Boulogne-Billancourt",
-                     "salary_min":  null,
-                     "salary_max":  null,
-                     "salary_currency":  "",
-                     "url":  "https://www.adzuna.fr/details/5627388872?utm_medium=api\u0026utm_source=3bc8f735",
-                     "affiliate_url":  "https://www.adzuna.fr/details/5627388872?utm_medium=api\u0026utm_source=3bc8f735",
-                     "company_logo":  null,
-                     "posted_at":  "2026-02-13T08:05:47Z",
-                     "ingested_at":  "2026-05-18T04:32:02.028106+00:00",
-                     "last_seen_at":  "2026-05-18T04:32:02.028106+00:00",
-                     "expired":  0,
-                     "country":  "",
-                     "description_preview":  "What\u0027s the role? As a Full Stack Developer, you will be a team expert in both front-end and back-end implementation. You\u0027ll design, develop, and deploy scalable, high-quality solutions using modern frameworks and cloud technologies. You\u0027ll actively participate in product feature and design discussio..."
                  }
              ]
 }

@@ -1,7 +1,35 @@
 {
   "category": "Veterans Claims Examining",
-  "total": 2,
+  "total": 3,
   "jobs": [
+    {
+      "id": "24b13139717140fc",
+      "source": "usajobs",
+      "external_id": "351-26-MJ-12981871-NBU",
+      "title": "Veterans Claims Examiner",
+      "company": "Veterans Benefits Administration",
+      "description": "This position is located in the Education Call Center Division within the Department of Veterans Affairs, Regional Processing Office (RPO) in Muskogee, OK. The Veterans Claims Examiner reviews education awards to ensure proper payment, eligibility, and entitlement regulations and laws have been applied in processing the education award. Advises education claimants and their representatives-via telephone of their benefits, rights, and privileges which they are entitled to under the laws administered by VA in a high-volume call center. Must possess the technical and communication skills to effectively carry out the duties of this position. Specific duties include: Assists individuals in developing needed evidence, preparing required documentation, and resolving errors and/or delays in obtaining benefits. Explains the types of documents necessary to facilitate timely processing of claims and assists in obtaining and completing such documents and forms in accordance with the type of claim being submitted. Responsible for counseling veterans, their dependents and beneficiaries via telephone in a high-volume call center regarding the full range of education benefits through the Department of Veterans Affairs. The incumbent explores all avenues of assistance available to veterans, beneficiaries, and dependents and takes initiative to encourage individuals to fully utilize these benefits. Researches issue(s) to include direct contact with RO of jurisdiction if warranted, or in course of research, with other Federal or state agencies as necessary. Explains decisions and reasons for decisions made by the VA and communicates verbally this information to the claimant. Informs individuals of their right to appeal decisions and explains the appeal process. Provides advice, expertise and problem-solving assistance to claimants who call the National Education Call Center using discretion and tact when communicating negative or stressful information. Exhibits the ability to complete the contact independently and refer few calls to a higher level. Promotion Potential: The selectee may be promoted to the full performance level without further competition when all regulatory, qualification, and performance requirements are met. Selection at a lower grade level does not guarantee promotion to the full performance level. The grade progression for this position is GS-05, GS-07, GS-09. Work Schedule: Full time, Monday through Friday 8:00 - 4:30 pm CST during training. Upon completion of training, work schedule will be Full time, Monday through Friday 10:00 - 6:30pm CST Compressed/Flexible: Not available Telework: Not available, this is a remote position Virtual: This is not a virtual position. Position Description Title/PD#: Veterans Claims Examiner; PD37923A and PD37924A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not required",
+      "category": "Veterans Claims Examining",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 40736.0,
+      "salary_max": 65599.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/872657600",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-11T07:52:47.3770",
+      "ingested_at": "2026-06-15T00:00:02.752575+00:00",
+      "last_seen_at": "2026-06-15T00:00:02.752575+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "This position is located in the Education Call Center Division within the Department of Veterans Affairs, Regional Processing Office (RPO) in Muskogee, OK. The Veterans Claims Examiner reviews education awards to ensure proper payment, eligibility, and entitlement regulations and laws have been appl..."
+    },
     {
       "id": "3e94b924c7d7d25c",
       "source": "usajobs",

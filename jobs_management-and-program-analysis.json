@@ -1,7 +1,35 @@
 {
   "category": "Management And Program Analysis",
-  "total": 4,
+  "total": 5,
   "jobs": [
+    {
+      "id": "e2b3dc9ad097319c",
+      "source": "usajobs",
+      "external_id": "CBSW-12985719-26-ARH",
+      "title": "Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days",
+      "company": "Veterans Health Administration",
+      "description": "This position is located in the Clinical Contact Center (CCC) withing the Sierra Pacific Network (VISN 21) located in Pleasant Hill California. The Deputy Chief Officer will serve as a technical expert for various committees and boards and play a major role in clinic access, data validation, quality assurance, and the implementation of national directives and policies. Major duties and responsibilities for the Deputy Chief Officer, GS-0343-09 with the VISN 21 Clinical Contact Center will include but are not limited to: Develops, implements, monitors, and adjusts plans to cost-effectively accomplish the mission within budgetary constraints; Provides leadership and guidance to determine the resource needs of all organizational elements Adjusts resources allocations as dictated by a change in the program needs or requirements; Issues financial allowance documents to ensure funds are available for program activities and are properly allocated, obligated, and used in an efficient manner; Participates in strategic planning initiatives to ensure an awareness of medical administration issues and implications are considered and influence management decisions; Implements initiatives that have implications for operations (i.e. scheduling initiatives, roll out of new scheduling or other technical software systems, initiatives related to supporting patient access to care, etc.); Hires/selects staff, provides competency assessments, ensures adequate training and completes performance evaluations; Resolves complaints or grievances from staff members, Veterans, caregivers and congressional inquiries; Analyzes call center metrics to ensure goals and objectives are being met and reliable and efficient support is being provided to customers; Reviews and evaluates the results of audits/inspections and responses to action items; Performs other related duties as required. **Employee is responsible for having high speed internet, that is compatible with working remotely. **Please note that employees currently occupying a non-Title 5 position are not eligible for consideration for this detail opportunity. Only those occupying a Title 5 position are eligible for consideration. **Applicants will be reviewed in groups of 50 in the order in which their application was received. Those applicants not providing all required documents will NOT be reviewed. Work Schedule: Full-time; Monday - Friday; 8:00 a.m. - 4:30 p.m. PST; Subject to change to meet the needs of the Agency Telework: This position may be authorized for telework. Telework eligibility will be discussed during the interview process. Virtual: This is a virtual position. Position Description/PD#: Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days/PD99745S Relocation/Recruitment Incentives: Not Authorized Critical Skills Incentive (CSI): Not Authorized Permanent Change of Station (PCS): Not Authorized",
+      "category": "Management And Program Analysis",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 61722.0,
+      "salary_max": 80243.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/872995700",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-12T17:16:30.5800",
+      "ingested_at": "2026-06-15T00:00:02.752733+00:00",
+      "last_seen_at": "2026-06-15T00:00:02.752733+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "This position is located in the Clinical Contact Center (CCC) withing the Sierra Pacific Network (VISN 21) located in Pleasant Hill California. The Deputy Chief Officer will serve as a technical expert for various committees and boards and play a major role in clinic access, data validation, quality..."
+    },
     {
       "id": "427e40484bf90d3d",
       "source": "usajobs",
@@ -25,7 +53,7 @@
       "company_logo": null,
       "posted_at": "2026-06-04T09:36:04.2500",
       "ingested_at": "2026-06-08T04:44:53.760489+00:00",
-      "last_seen_at": "2026-06-08T05:59:36.427295+00:00",
+      "last_seen_at": "2026-06-15T00:00:02.750474+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "The purpose of this position is to analyze real time or live VCL call center program data to ensure that program operations are running efficiently. This position provides essential program support and makes decisions based on live data essential for efficient and effective functionality of critical..."

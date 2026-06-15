@@ -1,7 +1,35 @@
 {
   "category": "Financial Administration And Program",
-  "total": 3,
+  "total": 4,
   "jobs": [
+    {
+      "id": "0dc6c2aae4c7ca2b",
+      "source": "usajobs",
+      "external_id": "CCLQ-12974972-CA",
+      "title": "Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "description": "The initial application review cut-off for this job announcement is 50 applications. The first 50 applications received will be considered first. Applications received after the initial cut-off number (50 applications) may not receive consideration unless otherwise requested by management. If management requests additional certificates, applicants will continue to be reviewed in groups of 50 in the order they applied. *Note: Submitting multiple applications will change the order in which your application is reviewed. Major Duties: Apply rules, regulations and agency policies that apply to management of payroll processes and procedures, the pay and leave laws, and the governmental accounting procedures. Ensures inquiries from employees, supervisors, payroll offices, HR offices, or other activities, including Office of General Council, Congressional Inquiries, employee union representatives, and others are properly handled. Able to review the analysis conducted by others and comment on their completeness and adequacy, recognize potential problems and make recommendations to prevent or solve them. Interprets and applies legislation, policies or guidance, procedures, or processes related to payroll functions. Serve as monitor of system processing by acting as liaison between field stations and systems. Problems reported by station must be immediately reported to the supervisor for analysis to determine whether it is a local or nationwide problem. Work Schedule: Monday - Friday, 8:00am - 4:30pm Compressed/Flexible: Not Available Telework: Ad hoc telework (situational telework) available as determined by the agency policy Virtual: This is not a virtual position. Position Description/PD#: 20582A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not required Permanent Change of Station (PCS): Not Authorized",
+      "category": "Financial Administration And Program",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 63795.0,
+      "salary_max": 82938.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/872390100",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-10T00:00:00.0000",
+      "ingested_at": "2026-06-15T00:00:02.751645+00:00",
+      "last_seen_at": "2026-06-15T00:00:02.751645+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The initial application review cut-off for this job announcement is 50 applications. The first 50 applications received will be considered first. Applications received after the initial cut-off number (50 applications) may not receive consideration unless otherwise requested by management. If manage..."
+    },
     {
       "id": "4ca377f72a5cad8e",
       "source": "usajobs",
