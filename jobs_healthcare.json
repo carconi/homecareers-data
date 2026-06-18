@@ -1,7 +1,60 @@
 {
   "category": "Healthcare",
-  "total": 1,
+  "total": 3,
   "jobs": [
+    {
+      "id": "19958903d1288073",
+      "source": "remoteok",
+      "external_id": "1133543",
+      "title": "Clinical Research Associate II",
+      "company": "i-Pharm Consulting",
+      "description": "Clinical Research Associate II (CRA II) \u00e2\u0080\u0093 Global CRO ( with a smaller ANZ Team)Australia - remote<br/><br/>Please mention the word **INTRIGUE** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Healthcare",
+      "tags": [
+        "consulting"
+      ],
+      "job_type": "full-time",
+      "location": "Australia, ",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-research-associate-ii-i-pharm-consulting-1133543",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-06-17T12:05:41+00:00",
+      "ingested_at": "2026-06-18T19:19:09.573519+00:00",
+      "last_seen_at": "2026-06-18T19:19:09.573519+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Clinical Research Associate II (CRA II) \u00e2\u0080\u0093 Global CRO ( with a smaller ANZ Team)Australia - remotePlease mention the word **INTRIGUE** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a beta feature to avoid spam applicants. Comp..."
+    },
+    {
+      "id": "629cd856e4cb94a3",
+      "source": "remoteok",
+      "external_id": "1133510",
+      "title": "Clinical Research Associate",
+      "company": "i-Pharm Consulting",
+      "description": "Clinical Research Associate (CRA II / Senior CRA I) - (US-Based, Home-based)We are currently hiring\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **AUTONOMOUS** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Healthcare",
+      "tags": [
+        "consulting",
+        "senior"
+      ],
+      "job_type": "full-time",
+      "location": "United States, ",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-research-associate-i-pharm-consulting-1133510",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-06-16T23:02:43+00:00",
+      "ingested_at": "2026-06-18T19:19:09.585806+00:00",
+      "last_seen_at": "2026-06-18T19:19:09.585806+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Clinical Research Associate (CRA II / Senior CRA I) - (US-Based, Home-based)We are currently hiring\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.Please mention the word **AUTONOMOUS** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a ..."
+    },
     {
       "id": "0c86872c76ae4d86",
       "source": "remoteok",

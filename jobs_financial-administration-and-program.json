@@ -1,7 +1,35 @@
 {
   "category": "Financial Administration And Program",
-  "total": 4,
+  "total": 5,
   "jobs": [
+    {
+      "id": "b0ed821469cb7ca3",
+      "source": "usajobs",
+      "external_id": "CCLQ-12977536-26-GED",
+      "title": "Systems And Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "description": "The initial application review cut-off for this job announcement is 100 applications. The first 100 applications received will be considered first. Applications received after the initial cut-off number may not receive consideration unless otherwise requested by management. If management requests additional certificates, applicants will continue to be reviewed in groups of 100 in the order they applied. *Note: Submitting multiple applications will change the order in which your application is reviewed. This position is in the Financial Payroll Service (FPS) of the Financial Services Center (FSC), Payroll Operations Ssupport (POS), Call Center Division (CCD). Knowledge of the Veteran's Affairs (VA) payroll and accounting systems and/or local payroll operations as well as the VA Time and Attendance system (VATAS). Thorough knowledge of the Defense Civilian Payroll System (DCPS) software and Defense Finance and Accounting Service (DFAS). VA has over 300 field stations with approximately 376,000 employees. This knowledge is necessary in advising field station personnel in the application of complex transactions, as well as to answer queries from employees. Knowledge of various Payroll Personnel, Accounting, and Fiscal Manuals, along with publications of other federal agencies as they relate to the VA and DFAS automated Payroll and Accounting Systems. Incumbent is also required to have knowledge of various Payroll Personnel, Accounting, and Fiscal Manuals, along with publications of other federal agencies as they relate to the VA and DFAS automated Payroll and Accounting Systems. This knowledge is necessary in advising field station personnel in the application of complex transactions, as well as to answer queries from employees. The individual receives telephone inquiries from the field facilities on production problems that require immediate action. After facts are gathered, determine the appropriate steps that need to be followed. The inquiries may be received from Fiscal Offices, Personnel Offices, VA Central Office, and other Federal Agencies. Incumbent will coordinate various work functions of Payroll Technicians and other Systems and Procedures Analysts. Conduct training for new employees and perform on-going training as assigned by the supervisor; prepare standard operating procedures for both HRSmart and DFAS as a training tool and conduct on-site payroll training and travel required for various VA stations. Promotion Potential: The selectee may be promoted to the full performance level without further competition when all regulatory, qualification, and performance requirements are met. Selection at a lower grade level does not guarantee promotion to the full performance level. Work Schedule: Monday - Friday 8:00 am - 4:30 pm Compressed/Flexible: Not Authorized Remote: This is a remote position Position Description/PD#: PD16130A and PD16129A Relocation/Recruitment Incentives: Not Authorized Financial Disclosure Report: Not required",
+      "category": "Financial Administration And Program",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 52727.0,
+      "salary_max": 82938.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/872968200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-15T00:00:00.0000",
+      "ingested_at": "2026-06-18T20:15:01.695447+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.695447+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The initial application review cut-off for this job announcement is 100 applications. The first 100 applications received will be considered first. Applications received after the initial cut-off number may not receive consideration unless otherwise requested by management. If management requests ad..."
+    },
     {
       "id": "0dc6c2aae4c7ca2b",
       "source": "usajobs",

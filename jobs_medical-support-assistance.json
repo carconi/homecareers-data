@@ -1,7 +1,35 @@
 {
   "category": "Medical Support Assistance",
-  "total": 3,
+  "total": 4,
   "jobs": [
+    {
+      "id": "0192f426f78b2820",
+      "source": "usajobs",
+      "external_id": "CBSU-12984174-26-LD",
+      "title": "Supervisory Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "description": "Duties include, but are not limited to: The Supervisory MSA has full responsibility for supervising at least one subordinate MSA team leader, supervisor or equivalent administrative patient support staff in the VISN CCC. Assignments at this level include, but are not limited to: Evaluating the work of subordinate staff; resolving complex problems to ensure patient services are met; Evaluating new products, equipment and systems to make recommendations for improved operations; Identifying educational or training needs; making final decisions on hiring selections; evaluating performance, and taking disciplinary action when necessary. Works collaboratively with VISN programs, services, and inter-professional coordinated care team members to provide access to care and meet the needs of Veterans via various available contact modalities to include but not limited to telephone calls, secure messaging, chat, text messaging and video. The employee has administrative and professional responsibility for planning and directing the subordinate lead, supervisor and MSA's activities. Responsible for extracting and analyzing data to provide reports to senior management in support of tracking measures. For all assignments above the full performance level, the higher-level duties must consist of significant scope, administrate independence, complexity (difficulty) and race of variety as described in this standard at the specified grade level and be performed by the incumbent at least 25% of the time. Provides information and resolution to Veterans' requests within scope, uses administrative judgement to escalate symptomatic concerns to clinicians within the VISN CCC or directs the contact to the appropriate discipline within the CCC or department for resolution. Screens incoming contacts and independently routes the contacts to the appropriate area for resolution. Uses advanced knowledge of health care process as it relates to access of care to ensure Veteran appointment scheduling is efficient, operational and prioritized to maintain Veteran flow and clinic readiness. Utilizes various software, hardware system products, and data portals to transfer and capture information electronically for the support of the daily operation of the unit. Operates within the various contact modalities to receive and respond to incoming and outgoing contacts using computerized interfaces and telecommunications hardware and software. Work Schedule: Full-time; Varying shifts 24/7 Operations to include nights, weekends and holidays. Financial Disclosure Report: Not Required Recruitment Incentive (Sign-on Bonus): Not Authorized Pay: Competitive salary and regular salary increases When setting pay, a higher step rate of the appropriate grade may be determined after consideration of higher or unique qualifications or special needs of the VA (Above Minimum Rate of the Grade). Paid Time Off: 37-50 days of annual paid time offer per year (13-26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year) Selected applicants may qualify for credit toward annual leave accrual, based on prior [work experience] or military service experience. Parental Leave: After 12 months of employment, up to 12 weeks of paid parental leave in connection with the birth, adoption, or foster care placement of a child. Child Care Subsidy: After 60 days of employment, full time employees with a total family income below $144,000 may be eligible for a childcare subsidy up to 25% of total eligible childcare costs for eligible children up to the monthly maximum of $416.66. Retirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VA Insurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement) Virtual: This is NOT a virtual position. Functional Statement #: 52430A Permanent Change of Station (PCS): Not Authorized Remote: This position is eligible for Remote work and is exempted from return to office requirements. Remote exempted positions are reviewed annually and do not imply permanent remote work status. Selectees will work 100% of the time in a non-VA owned space outside or inside of the local commuting area of parent station. The employee's workspace must be suitable for conducting business, remote employees are expected to provide a secure, distraction-free home-based worksite with reliable high speed internet connectivity. The employee will be required to travel to the closest VA Medical Center or VA Outpatient Clinic for issuance of equipment, and as needed for technical support. Selectees will be required to self-certify that their remote workplace meets all safety, privacy, and internet speed requirements. This position may fall under the Presidential Memorandum titled \"Return to In-Person Work\" which will require you to go into the office if the exemption is not approved when it's up for review.",
+      "category": "Medical Support Assistance",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "varying shifts 24/7 operations to include nights, weekends and holidays.",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 55882.0,
+      "salary_max": 111703.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873617800",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-18T10:37:12.7130",
+      "ingested_at": "2026-06-18T20:15:01.698317+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.698317+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Duties include, but are not limited to: The Supervisory MSA has full responsibility for supervising at least one subordinate MSA team leader, supervisor or equivalent administrative patient support staff in the VISN CCC. Assignments at this level include, but are not limited to: Evaluating the work ..."
+    },
     {
       "id": "60a4124a2c5922c2",
       "source": "usajobs",

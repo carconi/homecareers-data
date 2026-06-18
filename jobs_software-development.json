@@ -1,7 +1,51 @@
 {
   "category": "Software Development",
-  "total": 12,
+  "total": 13,
   "jobs": [
+    {
+      "id": "a7a244a9b5828fc6",
+      "source": "remotive",
+      "external_id": "2090991",
+      "title": "Frontend Developer",
+      "company": "Quinncia Inc",
+      "description": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; font-weight: 600;\">(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.)</span></p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Quinncia is a career readiness platform that improves college student outcomes by improving students' resumes and interview skills using our AI. Quinncia allows career service to scale their offerings allowing each student to get personalized feedback on their resume and interviewing skills. With over 60% unemployment or underemployment rate recently graduated students, our goal is to integrate career readiness into the academic curriculum and make sure every student has a job within 90 days of graduation.</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Projects you'll be working on:</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">COOL TECH</p><ul style=\"\"><li style=\"\">Chatbots</li><li style=\"\">Computer vision</li><li style=\"\">Data visualization</li><li style=\"\">Machine learning</li><li style=\"\">Natural language processing</li><li style=\"\">Video processing/conferencing</li></ul><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Requirements</p><ul style=\"\"><li style=\"\">Front-end developer position (required tech):</li><li style=\"\">Profound knowledge of Javascript</li><li style=\"\">TypeScript</li><li style=\"\">Next.js</li><li style=\"\">Practical and recent experience with React.js</li><li style=\"\">Experience communicating with RESTful services</li><li style=\"\">Experience with testing (e.g. Jest)</li><li style=\"\">Experience with bundling of Javascript code (e.g. Webpack)</li><li style=\"\">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li><li style=\"\">GraphQL</li></ul><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Bonus skills:</p><ul style=\"\"><li style=\"\">Docker</li><li style=\"\">Ramda</li></ul><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin: 0px 0px 16px; padding: 0px; color: rgb(5, 12, 38); \">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>\n<img src=\"https://remotive.com/job/track/2090991/blank.gif?source=public_api\" alt=\"\"/>",
+      "category": "Software Development",
+      "tags": [
+        "CSS",
+        "docker",
+        "frontend",
+        "graphql",
+        "javascript",
+        "react js",
+        "UI/UX",
+        "video",
+        "AI/ML",
+        "computer vision",
+        "Typescript ",
+        "data visualization",
+        "NLP",
+        "testing",
+        "next.js",
+        "github",
+        "Webpack",
+        "jest",
+        "REST"
+      ],
+      "job_type": "full-time",
+      "location": "Worldwide",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "affiliate_url": null,
+      "company_logo": "https://remotive.com/job/2090991/logo",
+      "posted_at": "2026-06-16T06:59:30",
+      "ingested_at": "2026-06-18T19:19:11.462094+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.462094+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.)This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it..."
+    },
     {
       "id": "c0a3e3bed37c0233",
       "source": "remotive",
@@ -26,7 +70,7 @@
       "company_logo": "https://remotive.com/job/2090983/logo",
       "posted_at": "2026-06-12T09:35:12",
       "ingested_at": "2026-06-14T22:07:44.574854+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.231205+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.473001+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "About Lemon.io\nLemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We\u2019ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2\u2013..."
@@ -71,7 +115,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:53:42",
       "ingested_at": "2026-06-08T03:49:46.946192+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.241857+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.485767+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Belo Horizonte, Brazil\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servi..."
@@ -116,7 +160,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:52:26",
       "ingested_at": "2026-06-08T03:49:46.946811+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.242164+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.486138+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Florian\u00f3polis, Brazil\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servic..."
@@ -161,7 +205,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:51:05",
       "ingested_at": "2026-06-08T03:49:46.947164+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.242782+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.486626+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Porto Alegre, Brazil.\u00a0\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home servi..."
@@ -206,7 +250,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T07:49:18",
       "ingested_at": "2026-06-08T03:49:46.947586+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.243453+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.486965+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in S\u00e3o Paulo.\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services \u2014 operat..."
@@ -251,7 +295,7 @@
       "company_logo": "",
       "posted_at": "2026-06-02T06:28:34",
       "ingested_at": "2026-06-08T03:49:46.948369+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.244449+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.487351+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "This is a remote role for candidates located in Campinas (Brazil)\n\u00a0\nAbout LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services \u2014..."
@@ -282,7 +326,7 @@
       "company_logo": "https://remotive.com/job/1919265/logo",
       "posted_at": "2026-05-16T10:16:48",
       "ingested_at": "2026-05-18T16:13:40.094509+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.252509+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.460612+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "You must be located in the Americas, Europe, or Israel to apply.A\u00b7Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing.\u00a0\nAfter talking with hundreds of independent engin..."
@@ -314,7 +358,7 @@
       "company_logo": "https://remotive.com/job/1919266/logo",
       "posted_at": "2026-05-16T10:16:39",
       "ingested_at": "2026-05-18T16:13:40.094770+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.253193+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.456596+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "Senior Independent AI Engineer / Architect\nRemote | Americas, Europe, or Israel\n\u00a0\nMost AI engineers can find work.\n\u00a0\nFinding work worth doing is harder.\n\u00a0\nA.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises..."
@@ -428,7 +472,7 @@
       "company_logo": "https://remotive.com/job/2069746/logo",
       "posted_at": "2026-05-14T20:46:05",
       "ingested_at": "2026-05-18T04:21:55.238742+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.254210+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.463611+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "About Mitre Media\nMitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we\u2019ve served individual investo..."
@@ -469,7 +513,7 @@
       "company_logo": "",
       "posted_at": "2026-05-09T21:15:44",
       "ingested_at": "2026-05-18T04:21:55.238939+00:00",
-      "last_seen_at": "2026-06-14T23:06:03.235322+00:00",
+      "last_seen_at": "2026-06-18T19:19:11.478287+00:00",
       "expired": 0,
       "country": "REMOTE",
       "description_preview": "WHO ARE WE?\n\u00a0\nAt nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology.\n\u00a0\nCheck our website here: https://nooro-us.com/\n\u00a0\nWe're ..."

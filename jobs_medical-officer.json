@@ -1,7 +1,63 @@
 ﻿{
     "category":  "Medical Officer",
-    "total":  20,
+    "total":  22,
     "jobs":  [
+                 {
+                     "id":  "43ccd435d78eadce",
+                     "source":  "usajobs",
+                     "external_id":  "CO-2026-0382",
+                     "title":  "Physician (Telehealth Medical Officer)",
+                     "company":  "Bureau of Prisons/Federal Prison System",
+                     "description":  "Serves as the Telehealth Medical Officer for the Federal Bureau of Prisons (BOP). Provides professional health care services for inmates remotely via the telehealth network utilizing virtual communication channels. Responsible for meeting the health needs (both physical and/or mental) of inmates for whom evaluation has been requested. This responsibility is served remotely via virtual communication channels. Collects a comprehensive present and past medical history and relevant surgical procedures, family, and social history to include a review of all body systems as clinically indicated. Documents a thorough physical examination, orders appropriate diagnostic testing and provides necessary treatment and/or medications as required.",
+                     "category":  "Medical Officer",
+                     "tags":  [
+                                  "government",
+                                  "federal",
+                                  "usajobs"
+                              ],
+                     "job_type":  "",
+                     "location":  "Anywhere in the U.S. (remote job), United States",
+                     "salary_min":  121000.0,
+                     "salary_max":  280000.0,
+                     "salary_currency":  "USD",
+                     "url":  "https://www.usajobs.gov:443/job/873374300",
+                     "affiliate_url":  null,
+                     "company_logo":  null,
+                     "posted_at":  "2026-06-17T07:11:53.2230",
+                     "ingested_at":  "2026-06-18T20:15:01.697707+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.697707+00:00",
+                     "expired":  0,
+                     "country":  "US",
+                     "description_preview":  "Serves as the Telehealth Medical Officer for the Federal Bureau of Prisons (BOP). Provides professional health care services for inmates remotely via the telehealth network utilizing virtual communication channels. Responsible for meeting the health needs (both physical and/or mental) of inmates for..."
+                 },
+                 {
+                     "id":  "dbc37a227701c7f9",
+                     "source":  "usajobs",
+                     "external_id":  "CBSW-12982480-26-YW",
+                     "title":  "Physician - Genomics Section Chief",
+                     "company":  "Veterans Health Administration",
+                     "description":  "VA offers a comprehensive total rewards package. VHA Physician Total Rewards. Work Schedule: 8:00am-4:30pm Mon-Fri PST Remote: This position is 100% remote outside of working area. Please note, this position is designated as a remote position, and we have disclosed to you that this position may fall under the Presidential Memorandum titled \"Return to In-Person Work\" ending remote capability, which will require you to go into the office. Travel Requirement: Yes (The position may require travel to provide training and consultation with VISN, CRH Spoke sites, and facility leadership, and in support of regional or national leadership goals regarding genomic medicine implementation and evaluation.) Education Debt Reduction Program (Student Loan Repayment): Learn more. EDRP Authorized: Former EDRP participants ineligible to apply for incentive. Contact V21CCOEEDRP@va.gov, the EDRP Coordinator for questions/assistance Pay: Competitive salary, annual performance bonus, regular salary increases Paid Time Off: 50-55 days of paid time off per year (26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year and possible 5 day paid absence for CME) Retirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VA Insurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement) Licensure: 1 full and unrestricted license from any US State or territory CME: Possible $1,000 per year reimbursement (must be full-time with board certification) Malpractice: Free liability protection with tail coverage provided Contract: No Physician Employment Contract and no significant restriction on moonlighting The mission of the VISN 21 CRH Genomics Program is to provide comprehensive genetics care to Veterans with limited access to genetics care locally. This individual is responsible for developing the strategic and operational plan and executing on the clinical programs, ensuring that CRH services are completed at the highest standard. This CRH Genomics Section Chief is required to exercise a high level of leadership and organizational skill, independent judgment, problem-solving ability, and content expertise in program development, implementation and evaluation. The position requires the ability to communicate effectively with field staff and VISN, CRH, and VA Central Office (VACO) leadership on a variety of clinical, policy and administrative strategic priorities. Basic Requirements: Section Chief/Administrative: a. Assist the CRH Specialty Service Chief with responsibilities as assigned for developing, organizing and directing the VISN CRH Genomics Program and CRH Genomics staff, with an emphasis on delivering services to the most underserved facilities b. Provide education on CRH actions and activities related to the CRH Genomics Program to various disciplines via multiple levels of training, including the development and maintenance of training manuals and documents, interprofessional group training, specific profession trainings, and one-on-one education. c. Ensure efficient operations of the VISN CRH Genomics Program are met and utilizes resources to ensure these operations meet the mission and goals of the VISN and national CRH Program, as well as Veterans Health Administration (VHA) standards d. Additional duties as assigned. Clinical Responsibilities: a. Review incoming consults to determine whether patients would benefit from care through the CRH Genomics program. b. Perform initial patient assessments including histories and physical examinations. Completing history and physical examinations may occur using VVC or CVT technology, but direct face-to-face visits may also be required. c. Provide care to Genomics Program Veterans, which includes coordination of care. d. Order diagnostic studies as appropriate for Veterans receiving care within CRH Genomics Program. e. Additional duties as assigned.",
+                     "category":  "Medical Officer",
+                     "tags":  [
+                                  "government",
+                                  "federal",
+                                  "usajobs"
+                              ],
+                     "job_type":  "",
+                     "location":  "Anywhere in the U.S. (remote job), United States",
+                     "salary_min":  275000.0,
+                     "salary_max":  315000.0,
+                     "salary_currency":  "USD",
+                     "url":  "https://www.usajobs.gov:443/job/872487200",
+                     "affiliate_url":  null,
+                     "company_logo":  null,
+                     "posted_at":  "2026-06-16T12:44:30.4970",
+                     "ingested_at":  "2026-06-18T20:15:01.693591+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.693591+00:00",
+                     "expired":  0,
+                     "country":  "US",
+                     "description_preview":  "VA offers a comprehensive total rewards package. VHA Physician Total Rewards. Work Schedule: 8:00am-4:30pm Mon-Fri PST Remote: This position is 100% remote outside of working area. Please note, this position is designated as a remote position, and we have disclosed to you that this position may fall..."
+                 },
                  {
                      "id":  "80e9888309145e2f",
                      "source":  "usajobs",
@@ -109,7 +165,7 @@
                      "company_logo":  null,
                      "posted_at":  "2026-05-18T11:49:17.8770",
                      "ingested_at":  "2026-05-18T16:53:31.417115+00:00",
-                     "last_seen_at":  "2026-06-15T00:00:02.750278+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.692279+00:00",
                      "expired":  0,
                      "country":  "US",
                      "description_preview":  "VA offers a comprehensive total rewards package. VHA Physician Total Rewards. Pay: Competitive salary, annual performance bonus, regular salary increases Paid Time Off: 50-55 days of paid time off per year (26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year and possibl..."
@@ -137,7 +193,7 @@
                      "company_logo":  null,
                      "posted_at":  "2026-05-18T11:29:14.1370",
                      "ingested_at":  "2026-05-18T16:53:31.417026+00:00",
-                     "last_seen_at":  "2026-06-15T00:00:02.749494+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.691425+00:00",
                      "expired":  0,
                      "country":  "US",
                      "description_preview":  "VA offers a comprehensive total rewards package. VHA Physician Total Rewards. Pay: Competitive salary, annual performance bonus, regular salary increases Paid Time Off: 50-55 days of paid time off per year (26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year and possibl..."
@@ -193,7 +249,7 @@
                      "company_logo":  null,
                      "posted_at":  "2026-05-15T11:56:01.6530",
                      "ingested_at":  "2026-05-18T04:32:04.118181+00:00",
-                     "last_seen_at":  "2026-06-15T00:00:02.748882+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.690940+00:00",
                      "expired":  0,
                      "country":  "US",
                      "description_preview":  "This is an OPEN CONTINUOUS ANNOUNCEMENT and will remain open until September 30, 2026 or until all positions are filled. The initial cut-off date for referral of eligible applications will be 15 June 2026, with subsequent cut-off dates every two weeks. Eligible applications received after that date ..."
@@ -445,7 +501,7 @@
                      "company_logo":  null,
                      "posted_at":  "2026-05-08T17:55:39.9470",
                      "ingested_at":  "2026-05-18T04:32:04.117806+00:00",
-                     "last_seen_at":  "2026-06-15T00:00:02.747669+00:00",
+                     "last_seen_at":  "2026-06-18T20:15:01.689254+00:00",
                      "expired":  0,
                      "country":  "US",
                      "description_preview":  "Ability to perform history and physical examinations, work-up, diagnose, prepare treatment plans for adult patients, age greater than 18 years to treat various conditions, illnesses or injuries encountered during the routine practice of radiology. Provision of consultation as well as the ordering of..."

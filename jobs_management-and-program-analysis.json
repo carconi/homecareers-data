@@ -1,7 +1,35 @@
 {
   "category": "Management And Program Analysis",
-  "total": 5,
+  "total": 6,
   "jobs": [
+    {
+      "id": "d7ec46f8c9a64b9c",
+      "source": "usajobs",
+      "external_id": "CBZY-12976386-26-SD",
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "description": "Major duties include but are not limited to: Manages risk management safety issues, consolidates corrective action plans, and evaluates initiatives to determine effectiveness. Supports risk management activities for VCL Quality and Risk Management by rating any adverse events. Recommends strategies to improve program implementation and evaluations. Advises management of unique conditions and issues which affect administrative functions. Provides guidance on interpretation and implementation of new and revised legislation, policies, regulations and procedures. Recommends risk management initiatives to be considered during strategic planning meetings and identifies and assesses priorities to best meet patient safety healthcare needs. Facilitates and oversees the coordination and standardization of Risk Management activities for VCL. Collaborates with staff at all levels to identify and address issues impacting quality of care, safety, and risk. Facilitates the analytical, qualitative, and quantitative techniques to identify, evaluate and recommend appropriate changes to management and stakeholders. Communicates with employees and managers using advanced consultation and problem-solving skills. Advises in the planning, development and operation of the risk management safety program and serves as the expert in the area of risk management safety policies, procedures and implementation. Perform other duties as assigned by leadership. Work Schedule: Tour of Duty is typically Administrative Hours. Tour is subject to change based on program needs. Compressed/Flexible: May be authorized upon supervisor approval after training per Agency policy. Remote: This is remote position. Selectees will work 100% of the time in a non-VA-owned space outside of the local commuting area of a parent station. The employee's workspace must be suitable for conducting business and as such, remote employees are expected to provide a secure, distraction-free home-based worksite with reliable high speed internet connectivity. The employee will be required to travel to the closest VA Medical Center or VA Outpatient Clinic for issuance of equipment, and as needed for technical support. Selectees will be required to self-certify that their remote workplace meets all safety, privacy, and internet speed requirements. Position Description/PD#: Program Analyst/PD07503A Relocation/Recruitment Incentives: Not Authorized Critical Skills Incentive (CSI): Not Approved Permanent Change of Station (PCS): Not required Financial Disclosure Report: Not required This is not a bargaining unit position.",
+      "category": "Management And Program Analysis",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 89508.0,
+      "salary_max": 145468.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873106300",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-16T00:00:00.0000",
+      "ingested_at": "2026-06-18T20:15:01.697009+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.697009+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Major duties include but are not limited to: Manages risk management safety issues, consolidates corrective action plans, and evaluates initiatives to determine effectiveness. Supports risk management activities for VCL Quality and Risk Management by rating any adverse events. Recommends strategies ..."
+    },
     {
       "id": "e2b3dc9ad097319c",
       "source": "usajobs",
@@ -25,7 +53,7 @@
       "company_logo": null,
       "posted_at": "2026-06-12T17:16:30.5800",
       "ingested_at": "2026-06-15T00:00:02.752733+00:00",
-      "last_seen_at": "2026-06-15T00:00:02.752733+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.696290+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "This position is located in the Clinical Contact Center (CCC) withing the Sierra Pacific Network (VISN 21) located in Pleasant Hill California. The Deputy Chief Officer will serve as a technical expert for various committees and boards and play a major role in clinic access, data validation, quality..."

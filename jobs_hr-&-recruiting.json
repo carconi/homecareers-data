@@ -1,7 +1,35 @@
 {
   "category": "HR & Recruiting",
-  "total": 8,
+  "total": 9,
   "jobs": [
+    {
+      "id": "d308e21eb9106beb",
+      "source": "remoteok",
+      "external_id": "1133457",
+      "title": "Talent Acquisition Partner",
+      "company": "Peak Credit Union",
+      "description": "To maintain a strong connection with our members and local communities and better understand their unique needs, we are currently considering applications from candidates residing in Oregon and Washington for all open positions. We appreciate your understanding as we focus our hiring efforts in these specific regions. And, we encourage all qualified candidates from these states to apply, as we look forward to learning more about your unique skills and experience!\n\nApplicants are encouraged to apply by June 19, 2026, at 5:00 PM PST. Job postings are subject to close early or extend longer than the anticipated closing date. We recommend applying as soon as possible.\n\nWhere You Will Work: Remote role open to candidates residing in Washington (WA) or Oregon (OR). (Branches)\n\nPay Range: The target hourly pay range for this position is $83,424 - $94,800. The full annual pay range is $75,840 - $113,760.\n\nCompensation decisions are determined using factors such as relevant job-related skills, experience, and education or training. Should an offer of employment be made, we will consider individual qualifications. In addition to your salary, compensation incentives are available for the hired applicant. Incentives are performance based and targets vary by role.\n\nJob Overview: This position creates a positive experience for candidates and hiring teams while managing the full-cycle recruitment process to identify, attract, and secure top talent that aligns with the organization\u00e2\u0080\u0099s goals and values. Partners closely with hiring managers and People Business Partne<br/><br/>Please mention the word **CONCISE** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "HR & Recruiting",
+      "tags": [
+        "education",
+        "recruiter",
+        "non tech"
+      ],
+      "job_type": "full-time",
+      "location": "Remote",
+      "salary_min": 75840.0,
+      "salary_max": 113760.0,
+      "salary_currency": "USD",
+      "url": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-partner-peak-credit-union-1133457",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-06-16T00:00:24+00:00",
+      "ingested_at": "2026-06-18T19:19:09.608037+00:00",
+      "last_seen_at": "2026-06-18T19:19:09.608037+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "To maintain a strong connection with our members and local communities and better understand their unique needs, we are currently considering applications from candidates residing in Oregon and Washington for all open positions. We appreciate your understanding as we focus our hiring efforts in thes..."
+    },
     {
       "id": "1cab7581efbbd55c",
       "source": "remoteok",

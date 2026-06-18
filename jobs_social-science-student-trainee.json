@@ -1,0 +1,62 @@
+{
+  "category": "Social Science Student Trainee",
+  "total": 2,
+  "jobs": [
+    {
+      "id": "cf184564be772906",
+      "source": "usajobs",
+      "external_id": "SOS-12986477-26-KMF",
+      "title": "Economics (Student Trainee)",
+      "company": "Economic Research Service",
+      "description": "Gathering and analyzing economic data to identify trends and patterns that can inform decision-making.",
+      "category": "Social Science Student Trainee",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873393400",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-17T09:08:01.6100",
+      "ingested_at": "2026-06-18T20:15:01.697928+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.697928+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Gathering and analyzing economic data to identify trends and patterns that can inform decision-making."
+    },
+    {
+      "id": "e12d174a077a43a5",
+      "source": "usajobs",
+      "external_id": "SOS-12986231-26-KMF",
+      "title": "Economics (Student Trainee / Graduate Student)",
+      "company": "Economic Research Service",
+      "description": "Collect, clean, and organize State level Supplemental Nutrition Assistance Program (SNAP) policy information using Stata and Excel to update the Policy Database.",
+      "category": "Social Science Student Trainee",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 0.0,
+      "salary_max": 0.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873384200",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-17T08:28:42.0600",
+      "ingested_at": "2026-06-18T20:15:01.697842+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.697842+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "Collect, clean, and organize State level Supplemental Nutrition Assistance Program (SNAP) policy information using Stata and Excel to update the Policy Database."
+    }
+  ]
+}

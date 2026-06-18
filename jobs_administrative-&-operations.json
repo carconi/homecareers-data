@@ -1,7 +1,34 @@
 {
   "category": "Administrative & Operations",
-  "total": 13,
+  "total": 14,
   "jobs": [
+    {
+      "id": "ae0f95e94475e883",
+      "source": "remoteok",
+      "external_id": "1133520",
+      "title": "Patient Care Coordinator",
+      "company": "Winning Assistants",
+      "description": "Job Title: Patient Care Coordinator (Rheumatology)\nPosition Type: Full-Time\nWork Hours: 8:00 AM to 5:00 PM Eastern Daylight Time\nWork Days: Monday to Friday\nSalary: $5 - $6 per hour, depending on experience\nWorkplace: Remote\nPreferred Candidate Location: Phi...<br/><br/>Please mention the word **LEADING** and tag RNzMuMTg5LjEzMS4xODI= when applying to show you read the job post completely (#RNzMuMTg5LjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Administrative & Operations",
+      "tags": [
+        "coordinator",
+        "full time"
+      ],
+      "job_type": "full-time",
+      "location": "",
+      "salary_min": 5.0,
+      "salary_max": 6.0,
+      "salary_currency": "USD",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-coordinator-winning-assistants-1133520",
+      "affiliate_url": null,
+      "company_logo": "",
+      "posted_at": "2026-06-17T00:00:20+00:00",
+      "ingested_at": "2026-06-18T19:19:09.583198+00:00",
+      "last_seen_at": "2026-06-18T19:19:09.583198+00:00",
+      "expired": 0,
+      "country": "REMOTE",
+      "description_preview": "Job Title: Patient Care Coordinator (Rheumatology)\nPosition Type: Full-Time\nWork Hours: 8:00 AM to 5:00 PM Eastern Daylight Time\nWork Days: Monday to Friday\nSalary: $5 - $6 per hour, depending on experience\nWorkplace: Remote\nPreferred Candidate Location: Phi...Please mention the word **LEADING** and..."
+    },
     {
       "id": "dfb25f468a0bdcf1",
       "source": "remoteok",

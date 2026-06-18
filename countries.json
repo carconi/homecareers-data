@@ -3,25 +3,25 @@
     {
       "code": "US",
       "label": "United States",
-      "count": 40058,
+      "count": 46173,
       "file": "jobs_country_us.json"
     },
     {
       "code": "GB",
       "label": "United Kingdom",
-      "count": 31589,
+      "count": 36523,
       "file": "jobs_country_gb.json"
     },
     {
       "code": "AU",
       "label": "Australia",
-      "count": 26190,
+      "count": 30411,
       "file": "jobs_country_au.json"
     },
     {
       "code": "CA",
       "label": "Canada",
-      "count": 25162,
+      "count": 28709,
       "file": "jobs_country_ca.json"
     },
     {
@@ -33,7 +33,7 @@
     {
       "code": "REMOTE",
       "label": "Remote / Global",
-      "count": 679,
+      "count": 792,
       "file": "jobs_country_remote.json"
     }
   ]

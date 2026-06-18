@@ -1,7 +1,63 @@
 {
   "category": "Information Technology Management",
-  "total": 4,
+  "total": 6,
   "jobs": [
+    {
+      "id": "e6f60620bfa8179d",
+      "source": "usajobs",
+      "external_id": "26-CIO-12982301",
+      "title": "Supervisory IT Specialist (Security)",
+      "company": "Administrative Office of the U.S. Courts",
+      "description": "The Supervisory Information Technology Specialist (Security) serves as the Security Mission Integration Division (SMID) Chief. The incumbent provides leadership and oversight for cybersecurity engineering, automation, analytics, and modernization initiatives that support the security of Judiciary information systems. In this role, the incumbent leads efforts to identify, prioritize, and mitigate cybersecurity risks through the integration of advanced technologies, data-driven decision-making, and enterprise security solutions. Duties include, but are not limited to: Providing strategic direction, supervision, and performance management for federal and contractor personnel supporting the division's cybersecurity mission. Planning, developing, and managing division resources, including personnel, budget, training, and technology investments. Leading the development and implementation of cybersecurity architectures, modernization initiatives, and automated security capabilities to address emerging threats and improve operational effectiveness. Overseeing secure systems development, cybersecurity engineering, and DevSecOps practices to ensure compliance with cybersecurity governance, risk management, and compliance requirements. Directing the development of cybersecurity analytics, automation, and performance reporting capabilities that support operational effectiveness, decision-making, and continuous improvement. Collaborating with Judiciary stakeholders, business partners, and technology organizations to establish priorities, align investments, and advance enterprise cybersecurity objectives. Monitoring and reporting on program performance, project execution, operational improvements, and cybersecurity outcomes. Directing cybersecurity program management, architecture, and secure systems development activities in alignment with the National Initiative for Cybersecurity Education (NICE) Workforce Framework.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 147957.0,
+      "salary_max": 209600.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873570500",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-18T07:14:57.4970",
+      "ingested_at": "2026-06-18T20:15:01.698240+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.698240+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Supervisory Information Technology Specialist (Security) serves as the Security Mission Integration Division (SMID) Chief. The incumbent provides leadership and oversight for cybersecurity engineering, automation, analytics, and modernization initiatives that support the security of Judiciary in..."
+    },
+    {
+      "id": "50c1816ce3353ea8",
+      "source": "usajobs",
+      "external_id": "26-CIO-12986893",
+      "title": "Supervisory IT Specialist (Security)",
+      "company": "Administrative Office of the U.S. Courts",
+      "description": "The Supervisory Information Technology Specialist (Security) serves as the Security Automation Branch Chief within the Information Technology Security Office (ITSO), Security Mission Integration (SMI) Division. The incumbent leads ITSO solution engineering across the system development life cycle and oversees the development and sustainment of ITSO systems and applications, while driving new capability development in response to enterprise requirements. The position reports to the SMI Division Chief and plays a critical role in protecting the confidentiality, integrity, and availability of Judiciary information systems. Duties include, but are not limited to: Leading the branch by overseeing federal and contractor staff in accomplishing branch mission objectives and responsibilities. Planning and developing the branch budget for personnel, training, and systems, including supporting Judiciary Information Technology Fund (JITF) submissions. Ensuring the operational readiness, maintenance, and effectiveness of ITSO security systems. Integrating cybersecurity systems to maximize automation of security mitigations within cyber-relevant timeframes. Developing key performance metrics to measure the effectiveness and efficiency of cybersecurity systems. Providing cybersecurity architecture leadership, including developing threat models, assessing operational risk, and identifying required security controls. Developing and refining branch procedures to ensure compliance with Judiciary policies, standards, and security requirements. Providing security engineering and operational support for enterprise operations, cloud hosting, network services, and data center environments. Overseeing the management and security of ITSO systems in accordance with applicable policies, procedures, and security frameworks. Overseeing vulnerability management activities and ensuring timely mitigation of cybersecurity risks in accordance with the Judiciary Information Security Framework (JISF). Leading the development of cybersecurity capability roadmaps, detection engineering programs, and advanced alerting methodologies to address emerging threats and security gaps. Overseeing the development and implementation of cybersecurity tools and capabilities to enhance threat detection, response, and validation of security controls. Developing methodologies for continuously monitoring and assessing the Judiciary's cybersecurity posture and operational effectiveness. Serving as a subject matter expert on cybersecurity, networking, operating systems, and information security technologies and methodologies.",
+      "category": "Information Technology Management",
+      "tags": [
+        "government",
+        "federal",
+        "usajobs"
+      ],
+      "job_type": "",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "salary_min": 106437.0,
+      "salary_max": 197200.0,
+      "salary_currency": "USD",
+      "url": "https://www.usajobs.gov:443/job/873567900",
+      "affiliate_url": null,
+      "company_logo": null,
+      "posted_at": "2026-06-18T06:48:00.8100",
+      "ingested_at": "2026-06-18T20:15:01.698182+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.698182+00:00",
+      "expired": 0,
+      "country": "US",
+      "description_preview": "The Supervisory Information Technology Specialist (Security) serves as the Security Automation Branch Chief within the Information Technology Security Office (ITSO), Security Mission Integration (SMI) Division. The incumbent leads ITSO solution engineering across the system development life cycle an..."
+    },
     {
       "id": "4aae19f0c41e2d78",
       "source": "usajobs",
@@ -25,7 +81,7 @@
       "company_logo": null,
       "posted_at": "2026-06-11T00:00:00.0000",
       "ingested_at": "2026-06-15T00:00:02.752319+00:00",
-      "last_seen_at": "2026-06-15T00:00:02.752319+00:00",
+      "last_seen_at": "2026-06-18T20:15:01.694700+00:00",
       "expired": 0,
       "country": "US",
       "description_preview": "The Supervisory Information Technology Specialist (Security) serves as the Security Operations Support Branch Chief within the Security Operations Support Branch (SOSB). The incumbent is responsible for leading detection engineering, threat hunting, and threat intelligence teams to identify cybersec..."
